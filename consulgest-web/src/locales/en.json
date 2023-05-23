@@ -1,0 +1,440 @@
+{
+	"login": {
+		"left_sidebar": {
+			"title": "Powerful AI!",
+			"sub_title": "The days for running around and expect the best are over!",
+			"sub_title_prioritise": "Prioritise",
+			"sub_title_third": "customers that are more likely to closure and",
+			"sub_title_increase": "increase results!"
+		},
+		"right_sidebar": {
+			"title": "Login",
+			"sub_title": "Let our powerful AI assist you!",
+			"success_message": "You are successfully logged in",
+			"user_name": "User name",
+			"user_name_error": "User Name is required",
+			"password": "Password",
+			"password_error": "Password is required",
+			"remember": "Remember me",
+			"forgot_password": "Forgot password",
+			"footer": "Consulgest Italia - All rights reserved"
+		}
+	},
+	"configuration": {
+		"header": {
+			"title": "Configuration",
+			"search_placeholder": "Search for...",
+			"image_alt": "Configuration image",
+			"links": {
+				"link_first": "System",
+				"link_second": "Default preferences",
+				"link_third": "Permissions",
+				"link_fourth": "Payments"
+			}
+		},
+		"system": {
+			"header_text": "System defaults",
+			"form": {
+				"company_name": "Company Name",
+				"email": "Email",
+				"phone": "Phone/Mobile",
+				"location": "Location",
+				"state": "State",
+				"select": "Select",
+				"zip_code": "Zip code",
+				"user_status": "User is",
+				"system_logo": "System Logo",
+				"replace_logo": "Replace System Logo",
+				"cancel": "Cancel",
+				"save": "Save",
+				"error_messages": {
+					"company_name_required": "Company name is required",
+					"email_required": "Email is required",
+					"email_invalid": "Email is invalid",
+					"phone_required": "Phone number is required",
+					"phone_invalid": "Phone number is not valid",
+					"location_required": "Location is required",
+					"state_required": "State is required",
+					"zip_required": "Zip code is required",
+					"zip_invalid": "Zip code is invalid",
+					"user_status_required": "User status is required"
+				}
+			},
+			"user_statuses": {
+				"active": "Active",
+				"frozen": "Frozen",
+				"blocked": "blocked"
+			}
+		},
+		"preferences": {
+			"header_text": "Profiles",
+			"avatar_color": "Avatar Color",
+			"language_region": "Language and Region",
+			"language_interface": "Language & Interface",
+			"timezone": "Timezone",
+			"system_preferences": "System preferences",
+			"system_notifications": "System Notifications",
+			"system_notifications_detail": "Receive notifications from the system, about suggestions and goals",
+			"use_dark_mode": "Use Dark Mode",
+			"show_ai_notifications": "Show AI Notifications",
+			"track_goals": "Track goals",
+			"system_general_text": "Receive notifications from Consul AI or system, about suggestions and goals"
+		},
+		"permission": {
+			"header_text": "Permissions",
+			"toggle_one": "Super Admin",
+			"toggle_two": "Controller",
+			"toggle_third": "Reader",
+			"toggle_header_one": "Action",
+			"toggle_action_one": "Access Platform",
+			"toggle_action_two": "Create new dossiers",
+			"toggle_action_third": "Edit dossiers",
+			"toggle_header_two": "Dossiers",
+			"toggle_dossiers_one": "Delete Dossiers",
+			"toggle_dossiers_two": "Archive Dossiers",
+			"toggle_dossiers_third": "Access Platform"
+		}
+	},
+	"dashboard": {
+		"header": {
+			"title": "Dashboard",
+			"img_alt": "pie chart",
+			"links": {
+				"link_first": "Default Dashboard",
+				"link_second": "Add Dashboard",
+				"link_third": "Urgent Cases"
+			}
+		},
+		"home": {
+			"title": "Consul AI welcomes you, Walter",
+			"sub_title": "I’d like to make your days better and more profitable, but I noticed that you haven’t created a dossier, yet.",
+			"description": "Allow me to assist you with that!",
+			"upload_btn": "Import a list"
+		},
+		"welcome_modal": {
+			"guide": "Guide Tour",
+			"title": "Welcome, Walter",
+			"sub_title": "Are you ready to learn how to move around and take the most profit from our advanced AI?"
+		},
+		"detail": {
+			"positive_outcome": "Positive Outcomes",
+			"negative_outcome": "Negative Outcomes",
+			"conversion_rate": "Conversion Rate"
+		},
+		"income_chart": {
+			"title": "Expected income weight",
+			"dropdown": {
+				"title": "by Value"
+			}
+		},
+		"my_dashboard": {
+			"card": {
+				"title_with": "With Payment",
+				"title_without": "Without Payment",
+				"portfolio_growth": "Portfolio growth",
+				"return_rate": "Return Rate"
+			},
+			"table_card": {
+				"title": "Taking probability",
+				"sub_title": "Dossiers found",
+				"filter_title": "position"
+			},
+			"return_card": {
+				"title": "Returned amount"
+			},
+			"svgChart_card": {
+				"title": "Portfolio Values"
+			},
+			"barChart_card": {
+				"title": "Expected conclusions",
+				"filter_title": "By Position"
+			},
+			"pieChart_card": {
+				"title": "Weight ease level",
+				"filter_title": "By Portfolio"
+			}
+		}
+	},
+	"onboarding": {
+		"steps": {
+			"welcome": {
+				"title": "Welcome",
+				"description": "Let’s get you started on the right foot"
+			},
+			"select": {
+				"title": "Import Dossiers",
+				"description": "Please be sure to upload the correct file format",
+				"csv_format": "Please select the CSV format"
+			},
+			"import": {
+				"description": "Import Dossier",
+				"drag_file": "Drag & Drop your file here or",
+				"browse": "Browse"
+			},
+			"congratulations": {
+				"title": "Congratulations",
+				"description": "You are ready to Rock! We’ve imported 50 dossiers",
+				"add_csv": "Add another csv",
+				"move_dashboard": "Let’s move to the dashboard"
+			}
+		},
+		"footer": {
+			"copyright_text": "© 2022 Consulgest Italia - All rights reserved.",
+			"terms_of_service": "Terms of service",
+			"privacy_policy": "Privacy Policy"
+		}
+	},
+	"consul": {
+		"header": {
+			"title": "Consul AI",
+			"sub_title": "Expected results",
+			"img_alt": "pie chart",
+			"dropdown": {
+				"dropdown_first": "Expected results",
+				"dropdown_second": "Behavioural preditions"
+			}
+		},
+		"modal": {
+			"underConstruction": "Under construction",
+			"details": "Results & analysis based on a prediction approach",
+			"img_alt": "Consul AI"
+		},
+		"listHeader": {
+			"header": "Actionable deptors",
+			"header_opportunities": "Preferable actionable deptors",
+			"header_probability": "Probability",
+			"header_profitability": "Profitability",
+			"header_portfolio_taking": "Portfolio taking"
+		},
+		"actionAI": {
+			"actionDetail": "Contact person by phone call between 16:00h and 18:00"
+		},
+		"category": {
+			"category_one": "Total phone Collection",
+			"category_two": "Total Pre-decaying loans",
+			"category_three": "Total Post-Decaying loans",
+			"category_four": "Total Non Performant Loans"
+		}
+	},
+	"commonButtons": {
+		"viewAll": "View All",
+		"hide": "Hide",
+		"show": "Show",
+		"back_btn": "Back",
+		"next_btn": "Next",
+		"skip": "Skip",
+		"cancel": "Cancel",
+		"filter": "Filter"
+	},
+	"team": {
+		"header": {
+			"title": "Team",
+			"sub_title": "Users",
+			"img_alt": "Team",
+			"links": {
+				"link_first": "User Status",
+				"link_second": "user role"
+			},
+			"filter": {
+				"filter_add": "Add Filter",
+				"filter_another": "Another filter Here",
+				"filter_here": "Filter Here",
+				"cancel_btn": "Cancel"
+			}
+		},
+		"user_profile": {
+			"header": {
+				"title": "Team/My Profile",
+				"sub_title": "Isabella Jagaad",
+				"search_placeholder": "Search for...",
+				"image_alt": "Configuration image",
+				"links": {
+					"link_first": "Profile",
+					"link_second": "Preferences",
+					"link_third": "Password"
+				}
+			}
+		},
+		"user": {
+			"header_text": "My details",
+			"form": {
+				"first_name": "First Name",
+				"surname": "Surname",
+				"email": "Email",
+				"phone": "Phone/Mobile",
+				"company": "Company",
+				"role": "Role",
+				"user_status": "User is",
+				"select": "Select",
+				"cancel": "Cancel",
+				"save": "Save",
+				"error_messages": {
+					"first_name_required": "First name is required",
+					"surname_required": "Surname is required",
+					"email_required": "Email is required",
+					"email_invalid": "Email is invalid",
+					"phone_required": "Phone number is required",
+					"phone_invalid": "Phone number is not valid",
+					"location_required": "Location is required",
+					"role_required": "Role is required",
+					"user_status_required": "User status is required"
+				}
+			},
+			"user_statuses": {
+				"active": "Active",
+				"frozen": "Frozen",
+				"blocked": "blocked"
+			}
+		},
+		"preferences": {
+			"header_text": "My preferences",
+			"avatar_color": "Avatar Color",
+			"language_region": "Language and Region",
+			"language_interface": "Language & Interface",
+			"timezone": "Timezone",
+			"system_preferences": "System preferences",
+			"system_notifications": "System Notifications",
+			"system_notifications_detail": "Receive notifications from the system, about suggestions and goals",
+			"use_dark_mode": "Use Dark Mode",
+			"show_ai_notifications": "Show AI Notifications",
+			"track_goals": "Track goals",
+			"system_general_text": "Receive notifications from Consul AI or system, about suggestions and goals"
+		},
+		"password": {
+			"header_text": "Password",
+			"form": {
+				"old_password": "Old Password",
+				"new_password": "New Password",
+				"cancel": "Cancel",
+				"change_password": "Change Password",
+				"error_messages": {
+					"old_password_required": "Old Password is required",
+					"new_password_required": "New Password is required",
+					"new_password_length": "At least 10 characters long"
+				}
+			}
+		}
+	},
+	"menu": {
+		"link_first": "Edit",
+		"link_second": "Send Email",
+		"link_third": "Details"
+	},
+	"import_dossier": {
+		"header": {
+			"title": "Import Dossiers",
+			"img_alt": "Import Dossier Image",
+			"links": {
+				"link_first": "History Logs",
+				"link_second": "Import date",
+				"link_third": "Amount entrusted"
+			}
+		},
+		"steps": {
+			"select": {
+				"img_alt": "Undraw collaboration Image",
+				"dropdown": {
+					"placeholder": "Please select the CSV format",
+					"option_one": "My Saved SVG profile",
+					"option_two": "My second SVG profile",
+					"option_third": "Generic SVG profile"
+				},
+				"select_field": {
+					"title": "Drag & Drop your file here or",
+					"link_text": "browse"
+				}
+			},
+			"data_table": {
+				"title": "CSV Importer",
+				"subtitle": "Please validate the columns and save your CSV template to use later",
+				"button": {
+					"make_adjustments": "Make adjustments",
+					"continue": "Continue",
+					"import": "Import",
+					"importing_dossiers_text": "Importing 50 dossiers"
+				},
+				"save": "Save changes as template",
+				"new_save": "Save in New CSV model",
+				"input": {
+					"label": "CSV template"
+				}
+			}
+		},
+		"congratulations": {
+			"title": "Congratulations",
+			"description": "You are ready to Rock!",
+			"add_csv": "Add another csv",
+			"move_dashboard": "Let’s move to the dashboard"
+		}
+	},
+	"category": {
+		"category_one": "Phone Collection",
+		"category_two": "Pre-decaying loans",
+		"category_three": "Post-Decaying loans",
+		"category_four": "NPL"
+	},
+	"dossiers": {
+		"header": {
+			"title": "All Dossiers",
+			"img_alt": "dossiers",
+			"sub_title": "Cases",
+			"links": {
+				"link_first": "Creation date"
+			},
+			"sub_links": {
+				"link_first": "Overview",
+				"link_second": "Dossier Details",
+				"link_third": "Individuals",
+				"link_four": "Address Book",
+				"link_five": "Action Log",
+				"link_six": "Installments"
+			}
+		},
+		"common_button": {
+			"export_as": "Export As"
+		},
+		"detail": {
+			"line_chart": {
+				"title": "Best",
+				"data": {
+					"data_one": "Number of calls",
+					"data_two": "Success rate",
+					"data_three": "Pickup rate"
+				}
+			},
+			"bar_chart": {
+				"title": "Expected conclusions"
+			},
+			"pie_chart": {
+				"title": "Ease level"
+			}
+		},
+		"category": {
+			"category_one": "Phone Collection",
+			"category_two": "Email Collection",
+			"category_three": "Total Collected",
+			"category_four": "Remaining collection"
+		}
+	},
+	"placeholder": {
+		"type_here": "Type here"
+	},
+	"user": {
+		"cash_collected": "Cash collected",
+		"cash_due": "Cash due"
+	},
+	"filter": {
+		"filter_title": "Filter",
+		"filter_region": "Region",
+		"filter_city": "City",
+		"filter_province": "Province",
+		"filter_forfeiture": "Forfeiture",
+		"filter_amount": "Amount",
+		"filter_date": "Date",
+		"filter_all": "All",
+		"filter_greater_than": "Greater Than"
+	},
+	"extra_field": {
+		"title": "Show extra fields"
+	}
+}

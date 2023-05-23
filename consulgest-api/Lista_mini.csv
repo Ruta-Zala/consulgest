@@ -1,0 +1,2449 @@
+id,committente_id,committente_codice,committente_desc,profilo_id,profilo_desc,data_affido,scadenza_mandato,pratica_num,p_iva,nominativo,data_nascita,luogo_nascita,indirizzo,cap,citta,provincia,tipo_telefono1,prefisso1,telefono1,tipo_telefono2,prefisso2,telefono2,recapito,tel_recapito,tipo_garante,garante,ind_garante,citta_garante,cap_garante,tel_garante,filiale,nota,memo,memo_ec,gg_arr,status,pre_status,banca,apertura,scadenza,fido,saldo_iniziale,saldo_attivo,estratto_conto,minimo_dovuto,rate_arretrate,importo_capitale,importo_interessi,importo_spese,importo_spese_recupero,importo_differenza,importo_totale,debitoresiduo,incasso_capitale,incasso_interessi,incasso_spese,incasso_spese_rec,incasso_tot,stato_codice,stato_desc,esattore_id,esattore_codice,esattore_desc,utente,dataaffidoesattore,datascadaffesat,id_provvigioni,id_provvigioni_az,data_ultima_modifica,utente_ultima_modifica,tp_proc_temp,tp_proc_temp_desc,cod_memo,cod_memo_desc,cod_scarico,cod_scarico_desc,importo_rata,data_trasmissione,id_profilo_esattore,profilo_esattore,regione,campo1,data1,campo2,data2,campo3,data3,campo4,data4,campo5,data5,campo6,data6,campo7,data7,campo8,data8,campo9,data9,campo10,data10,campo11,data11,campo12,data12,campo13,data13,campo14,data14,campo15,data15,campo16,data16,campo17,data17,campo18,data18,campo19,data19,campo20,data20,stato_lavorazione1,stato_lavorazione2,lotto_import,riaffidata,az_vs_committente,codice_cliente,codice_pratica,memo_cod,scarico_cod,gruppo,gruppo_desc,macroarea,macroarea_desc,status_desc,blocco,ut_az_vs_committente,fl_stampa,trasmessa,esa_prec,data_notifica,espatriato,deceduto,indirizzo_confermato,cod_scarico_2,codice_scarico_2,telefoni,abilitato_sms,presenza_foto,data_null,testo_null,importo_null
+2424103,6,CDL,CREDIT LIFT SPA,32,CLD - CC - HOME,2013-12-03,2013-12-27,437343,LNEGCM56M13D761Q,LEONE GIACOMO,1956-08-13 00:00:00,FRANCAVILLA FONTANA,VIA VITTORIO VENETO 29,72100,BRINDISI,BR,,,,,,3460916357,INPS  BRINDISI,,,CAROLI ANNAMARIA,VIA VITTORIO VENETO 29,BRINDISI,72100,,MC,"Il debitore sostiene di aver effettuato il pagamento a mezzo ccp, ma non ha mai dimostrato quanto riferito.","Il debitore sostiene di aver effettuato il pagamento a mezzo ccp, ma non ha mai dimostrato quanto riferito.","Estratto conto al 03/12/2013                              Contratto           437343
+
+Convenzionato : VENTRELLI GIUSEPPE       
+
+Prodotto   :GIA' CLIENTI AG
+Bene : PRESTITI PERSON                                             
+Rate       : 120           Importo Rata   :       0,00
+Montante   :  22.440,00    Residuo Debito :  27.744,12
+Prima Scad : 08/05/2010    Ultima Scad.   : 08/04/2020
+Rata Accod : 00/00/0000     Rate Accodate : 000
+Imp.Rate S.:   1.356,16     Altri Addebit.:      22,12
+I.M. Cont. :       0,00     I.M. Non Co.  :     109,76
+Rata a Sc. : 08/12/2013     Imp.Rata a Sc :     339,04
+Spese Esat.:       0,00
+Spese In Co:      50,00
+Spese Prec.:     100,00
+
+Ultimi pagamenti pervenuti (ultimi 6 mesi)
+
+Rata     Dovuta     Pagata          Importo
+37     08/05/2013     02/09/2013         339,04
+38     08/06/2013     01/10/2013         339,04
+39     08/07/2013     02/11/2013         339,04
+                     
+
+Pagamenti NON pervenuti (ultimi 12 mesi)
+
+Rata     Dovuta         Importo          I.Mora
+40     08/08/2013         339,04          19,18
+41     08/09/2013         339,04          14,10
+42     08/10/2013         339,04           9,18
+43     08/11/2013         339,04           4,10
+S.     08/12/2013         339,04
+ Firma Doppia=S
+
+        SITUAZIONE GENERALE
+          437343  27.744,12   1.356,16 004     339,04 08122013 I
+
+ Num.Rate Orig = 000 Importo Rata Orig =       0,00
+                 FIRMA = C
+Cellulare Garante = 347-4333472 
+Cod.Fisc. Garante = CRLNMR62P48B180X
+  Nascita Garante = 19620908 BRINDISI                      
+Posto Lav.Garante =   
+Tel.Posto Lav.Gar = 
+",,CHI,,,,,,,,1.0,,4,1717.32,109.76,150.0,0.0,361.16,2338.24,27744.0,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),68,49,49 - PENNETTA ELIANA ,49,2013-12-04,2013-12-27,1832109.0,1832108.0,2019-11-19 09:51:16.067,MAR,0.0,Nessun Processo Temporale,,,,,339.04,2013-12-30 00:00:00,3,Esattore ESTERNO,PUGLIA,,,CRLNMR62P48B180X,,,,,,CLD - CS - ES02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,302,,28059,f,,,,,,2.0,Regione Puglia,1.0,Tutti,PRATICA CHIUSA,t,,t,t,,,,,,,,3460916357,t,f,,,
+8557214,1,AGOS,AGOS DUCATO SPA,260,AGOS -  CONSUMO DDD4,2021-09-02,2021-09-30,54193052,CNTSLL90S62H501Z,CENTOLA STELLA,1990-11-22 00:00:00,ROMA,VIA MISURINA 63,00135,ROMA,RM,Telefono Abitazione,,,Cellulare,,342-8765933,IPERMODA SRL VIA BERNARDINO ALIMENA 76 ROMA,06-7233396,G,BOTTINI VIVIANA,VIA MISURINA 63,ROMA,00135,06-45552219,,DISTINTA 4643 INVIATA CON PLICO ODIERNO,"Il cliente versa euro 2.990,00","Estratto Conto per la pratica num. 54193052 alla data 02/09/2021
+
+  Convenzionato BANCO POPOLARE SOC.
+  
+  Prodotto: PREST FLESSIBIL (BANCO BENI PERS) 
+    Marca :  Modello:  Targa: 
+
+********************************************************************************  
+  Importo Finanziato :   44.497,60 in data 01/04/2016
+           Num. Rate : 120 rate di cui rimanenti 120 e scadute 0
+          Prima Rata : 01/05/2016
+         Ultima Rata : 01/04/2026
+********************************************************************************
+
+   Ultima Rata Accod.: 01/06/2026     Numero rate accodate     :           2
+    Imp.Rate Scadute :    2.990,00     Altri Addebiti           :       57,30
+Interessi Mora Cont. :        0,00     Interessi Mora Non Cont. :       98,80
+      Spese Esattore :       50,00
+        Spese In Co. :        0,00
+    Spese Precedenti :        0,00
+     Rata a Scadenza : --/--/----     Imp.Rata a Scadenza      :        0,00
+    
+  Ultimi Pagamenti Pervenuti
+  Rata   Dovuta        Pagata           Importo
+  ---------------------------------------------
+  0059   01/03/2021    26/05/2021        598,00
+  0060   01/04/2021    26/07/2021        598,00
+  
+  Ultimi Pagamenti NON Pervenuti
+  Rata   Dovuta           Importo      Int.Mora
+  ---------------------------------------------
+  0061   01/05/2021        598,00         21,05
+  0062   01/06/2021        598,00         15,96
+  0063   01/07/2021        598,00         10,96
+  0064   01/08/2021        598,00          5,70
+  0065   01/09/2021        598,00           ,35
+  
+  SITUAZIONE GENERALE
+  Num.Pratica          Imp.Dovuto   Imp.Scaduto    Rate   Imp.Rata  DataProxScad. RUOLO
+  -------------------------------------------------------------------------------------
+           54193052     37.232,10      2.990,00      5      598,00   01/10/2021   I
+  
+
+  Informazione Garante
+  NOME          : BOTTINI VIVIANA
+  DATA NASCITA  : 07/05/1963
+  LUOGO NASCITA : ROMA (RM)
+  COD. FISCALE  : BTTVVN63E47H501P
+  RESIDENZA     : VIA MISURINA 63 ROMA (RM)
+  DOMICILO      : 
+  LAVORO        : IPERMODA SRLVIA BERNARDINO ALIMENA 76  ROMA
+  CELLULARE     : 342-8765933
+  TIPO GARANTE  : G
+  FIRMA DOPPIA  : S
+
+  Informazioni Aggiuntive alla pratica
+  Numero Rate Orig.  : 0 Importo Rata Orig. :        0,00
+  Classe Scivolamento: PS  
+  Versione           : V1 ",12.0,CHI,INL,,2021-09-27,,,,,,,5,2990.0,98.8,57.3,0.0,0.0,3146.1,30315.25,2990.0,0.0,0.0,0.0,2990.0,CP,POSITIVA (+),27,148,148 - TOLVO SIMONE ,148,2021-09-03,2021-09-30,1835131.0,1835130.0,2021-10-08 10:20:35.715426,MZA,0.0,Nessun Processo Temporale,,,436.0,A - PARZIALE,598.0,2021-09-30 00:00:00,3,Esattore ESTERNO,LAZIO,,,,,,,,,CE,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,3,,101,,AGOS -  CONSUMO DDD4 del  03/09/2021,f,5264,16967084,54193052,,A,8.0,Gruppo Lazio,1.0,Tutti,PRATICA CHIUSA,f,AGONDC8,t,t,,,,,,436.0,332,"0645438446,0645552219,067233396,3385411451,3428765933",t,f,,,
+2890838,4,CPS,COMPASS BANCA SPA,100,C0H - TEL,2015-12-08,2015-12-31,000013465012,SGLGLG61B21A479P,ASEGLIO GIANLUIGI,1961-02-21 00:00:00,ASTI,VIA ANTONIO CANOVA 13,14100,ASTI,AT,,,3313791066,,,,POLFER PIAZZA MARCONI 1 ASTI,0141593077,,,,,00000,,,Il cliente versa euro 521.50,Il cliente versa euro 521.50,"Tipo Prodotto         = PP
+Desc.Tipo Prodotto    = Prestiti Personali            
+Bene Finanziato       = AUT
+Descrizione del bene  =                               
+Modello Auto          =                               
+mmaaaa Immatricolaz.  = 000000
+Cilindrata            = 0000
+Targa Auto            =         
+Telaio Auto           =                     
+Rag.Soc.Convenzionato = COMPASS BANCA SPA             
+Codice  Convenzionato = 000000012
+Garanzie              =                               
+Rate Finanziamento    = 0084
+Importo Rata          = 521,50
+Data Liquidazione     = 27/02/2014
+Data Inizio Rimborso  = 30/03/2014
+Data Fine Rimborso    = 28/02/2021
+Data Ult.Rata Pag.    = 30/10/2015
+Rate Pag. ad Oggi     = 0020
+Score Compor.         = 0000
+Filiale       = 224
+Filiale Oper. = 552
+       ABI:03296
+Descr. ABI:BANCA FIDEURAM SPA                                                              
+       CAB:01601
+Descr. CAB:SEDE DI MILANOCORSO DI PORTA ROMANA, 18M
+        CC:000066797516
+       CIN:O
+  C_ANACLI:011321825
+  C_ANACOO:000000000
+ C_GARANTE:000000000
+C_GARANTE2:000000000
+RATA MEDIA:521,5
+Indirizzo Alt.:                              
+ Telefono Alt.:               
+Controparte R.:                                                            
+Cod.Caus.Ins. :      Des.Caus.Ins. :                              
+ Blocco Carta :                     
+PAN Plastica  :0000000000000000
+     Score CA :   0
+ CLASSESPE CA :0
+ Fascia Operativa:X1
+
+Rag.Soc. Garan:                                                            
+Indirizz.Garan:                              
+Località Garan:                               Pr:   Cap:00000
+Data Nas.Garan:00000000 Loc. Nas.Garan:                              
+Cod.Fisc.Garan:                
+Telefono Garan:               Tel2:                Cell:               
+Dat. Lav.Garan:                              
+Ind.Da.L.Garan:                              
+Loc.Da.L.Garan:                              Pr.:   Cap:00000
+Tel.Da.L.Garan:               
+ Ult.Mod.Indirizzo:20110513
+     Mod.Indirizzo:VIA CANOVA 13                        ASTI             AT14100
+Penu.Mod.Indirizzo:00000000
+     Mod.Indirizzo:                                              00000
+ Data Ult.Pagamento:20151123 521,5 Scad.20151030 Rata 020
+ Data Pen.Pagamento:20151026 521,5 Scad.20150930 Rata 019
+ Data Ter.Pagamento:20150917 521,5 Scad.20150830 Rata 018
+ Storico Insolvenze:001001001001000000001001001000000000
+      NOTE:*NOTE AZIONE   CUCRS010   11/02/2015   13 21 GE TDCL DA 3313791066 CHIEDE MOTIVO CONTATTO, SPIEGO, PROMETTE VAGLIA+FAX D I EURO 573,60 ENTRO IL 7/02, ARR FAX VAGLIA VAL 09/02/2015 DI 573,60 *NOTE AZIONE   CUCRS007   21/02/2015   11 36 GE TDCL DA 3313791066 CHIEDE MOTIVO CONTATTO, SPIEGO, PROMETTE VAGLIA+FAX D I EURO 573,60 ENTRO IL 7/02, ARR FAX VAGLIA VAL 09/02/2015 DI 573,60 PAG
+Franchigia Azz:0
+         C_FLAGCQS:              C_FLAGPAG:NE-NE-NE
+",,CHI,,,,,,,,1.0,,1,521.5,0.0,914.53,0.0,0.0,1436.03,33378.0,0.0,0.0,0.0,0.0,0.0,CP,POSITIVA (+),235,145,145 - CALIN DANIEL ,145,2015-12-16,,540.0,539.0,2017-11-16 19:34:28,admin,0.0,Nessun Processo Temporale,150.0,VP - VP,,,521.5,,5,PHONE COLLECTION,PIEMONTE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,143894,f,CNG,,3,VP,,1.0,Regione Campania,1.0,Tutti,PRATICA CHIUSA,f,CUCNG001,t,f,,,,,,,,"013313791066,0141593077,040141593077,080141593077,13313791066,3313791066,3804310524",t,f,,,
+8569156,10,FID,FIDITALIA S.P.A.,177,FID - 2A ,2021-10-04,2021-10-29,0010193043293680,MNNLGU53R31F839Q,MANNA LUIGI,1953-10-31 00:00:00,NAPOLI,VIA VINCENZO GEMITO 34,80128,NAPOLI,,Telefono principale,,,,,,INPS dal 2010,,G,ANGELA DI DONATO,VIA VINCENZO GEMITO 34,NAPOLI,80128,0815584459,C5,DISTINTA 10461 SCANNERIZZATA E SALVATA IN Y FIDITALIA ,"Il cliente versa euro 157,00","ESTRATTO CONTO posizione N. 10193043293680
+
+----------------------------------------------------------------------------
+ Lotto affidamento n..: 4087
+ Organizzazione.......: 1
+ Tipo Prodotto........: 19
+ Tipo Servizio........: 2A
+ SETTORE_OPERATIVO....: C5
+ Codice ID Cliente....: 10000012825178
+----------------------------------------------------------------------------
+
+ Banca................: BANCA MONTE DEI PASCHI DI SIENA S.P.A.
+ Agenzia..............: NAPOLI AG.5
+ Localit….............: NAPOLI
+ Numero Conto.........: 000003346304
+ IBAN.................: IT09M0103003405000003346304
+ Intestatario C/C.....: MANNA LUIGI
+
+        -------- Altri Telefoni -------
+    Numero DT Acquisiz. Ult.Contatto   Tipo
+3389667443   2019-06-27                cellulare
+
+ -----  D A T I    C O N T R A T T O  ----
+  SETTORE_MERCEOLOGICO....: 658
+  SALDO_GESTIONALE........: 11866,56
+  SALDO_INIZIALE..........: 11866,56
+  IN_RIFINANZIAMENTO......: false
+  DATA_APERTURA...........: 2019-06-26 00:00:00
+  IMPORTO_FINANZIATO......:   13.151,00
+  TAN.....................: 6.75
+  TAEG....................: 6.8680000000000003
+  CONVENZIONATO...........: CSA ENERGY S.R.L.
+  DATA_ULTIMO_PAGAMENTO...: 2021-09-30 00:00:00
+  IMPORTO_ULTIMO_PAGAMENTO:        9,00
+  IMPORTO_ULTIMO_REVOLVING:      157,08
+  PRESTITO_PERSONALE......: false
+  PROTESTI................: false
+  CONSOLIDATION...........: false
+  RATAUP..................:      154,08
+  RATAUC..................:        0,00
+  RATAGLOBALE.............:      154,08
+  ASSICURAZIONE...........: Nessuna Polizza
+  ASSICURAZIONE_LINEARE...: Non attiva/Non esiste
+  MODALITA_PAGAMENTO......: SDD
+  
+  DATA_ULTIMO_CICLO.......: 2021-09-13 00:00:00
+  DATA_PROSSIMO_CICLO.....: 2021-10-13 00:00:00
+  DATA_ULTIMA_SCADENZA....: 2021-09-28 00:00:00
+  DATA_PROSSIMA_SCADENZA..: 2021-10-28 00:00:00
+
+  --------    Dati Bene   -------
+ Numero utilizzo  : 1
+ Progressivo      : 0
+ Tipo             : 
+ Descrizione      : IMPIANTO FOTOVOLTAICO           
+ Marca veicolo    : 
+ Stato veicolo    : 
+ Bene garanzia    : 
+ Liquidato        : 13000,00
+ Commissione      : 150,00
+ Totale           : 13000,00
+ Data utilizzo    : 2019-06-26
+
+
+ ----  D A T I    D I    A F F I D A M E N T O  ---- 
+  DATA_INIZIO.............: 2021-10-04 00:00:00
+  DATA_FINE...............: 2021-11-02 00:00:00
+  DOVUTO..................:      515,18
+  CAPITALE................:      515,18
+  INTERESSI_MORA..........:        0,00
+  SPESE_RECUPERO..........:       77,28
+  OBIETTIVO...............:      592,46
+  RIUTILIZZI..............: false
+  SETTORE_OPERATIVO.......: C5
+  
+  CYCLE_DUE...............: 4
+  IMPORTO_RATA............:   15.708,00
+  MODALITA_PAGAMENTO_AFF..: SDD
+  FLAG_RIAFFIDO...........: S
+  SCADUTO_UNDER_30_GG.....:      157,08
+  SCADUTO_30_GG...........:      158,86
+  SCADUTO_60_GG...........:      158,86
+  SCADUTO_90_GG...........:       40,38
+  SCADUTO_120_GG..........:        0,00
+  SCADUTO_150_GG..........:        0,00
+  SCADUTO_180_GG..........:        0,00
+  SCADUTO_210_GG..........:        0,00
+  SPESE_UNDER_30_GG.......:       23,56
+  SPESE_30_GG.............:       23,82
+  SPESE_60_GG.............:       23,82
+  SPESE_90_GG.............:        6,05
+  SPESE_120_GG............:        0,00
+  SPESE_150_GG............:        0,00
+  SPESE_180_GG............:        0,00
+  SPESE_210_GG............:        0,00
+  
+
+
+  --------  Coobbligati   ------- 
+ Nome         : ANGELA DI DONATO
+ Cod.Fiscale  : DDNNGL59E55F839K
+ Data nascita : 1959-05-15
+ Luogo nascita: NAPOLI
+ Indirizzo    : VIA VINCENZO GEMITO 34
+ Comune       : NAPOLI
+ CAP          : 80128
+ Provincia    : NA
+ Telefono     : 0815584459
+  --------    Utilizzi    -------
+ ID                    : 1
+ Data apertura         : 2019-06-26
+ Stato up              : Attivo
+ Importo finanziato    : 13150,00
+ Numero rate           : 120
+ Numero rate scadute   : 22
+ Importo erogato       : 13000,00
+ Commissione           : 150,00
+ Importo assicurazione : 0,00
+ Tipo                  : UP
+ ----------------------------------------------------------------------
+ ---------- INFO AGGIUNTIVE DA AGGIORNAMENTO CAMPI EXTRA --------------
+ --------------------- (05/10/2021 16:59:14) --------------------------
+CAMPAGNA: CAMPAGNA_ESITI_001
+DATA_ESTRAZIONE_DATI: 20211005_130736
+FLUSSO: 030 INVIATO AD ENTI ESTERNI
+FASCIA_RITARDO: 90
+BUCKET_RITARDO: B3
+CLASSIFICAZIONE: 917
+SETTORE_OPERATIVO_AFFIDO: C5
+MODALITA_PAGAMENTO: 2
+SETTORE_MERCEOLOGICO: 658
+CATEGORIA_MERCEOLOGICA: ACCESSORI CASA
+CONVENZIONATO: CA4H047
+MORATORIA: 
+DATA_SBLOCCO_MORATORIA: 
+DATA_PRIMA_RATA_POST_SBLOCCO: 
+DURATA_SOSPENSIONE: 
+SCADUTO_ANTE_MORATORIA: 0
+SDD_DT_RIPRESENTAZIONE: 
+SDD_MOTIVO_INSOLUTO: 
+RFK_RATAMINIMA: 0
+RFK_DURATAMASSIMA: 0
+RFK_RATAMASSIMA: 0
+RFK_DURATAMINIMA: 0
+RFK_LAVORAZIONE:
+ ----------------------------------------------------------------------
+ ---------- INFO AGGIUNTIVE DA AGGIORNAMENTO CAMPI EXTRA --------------
+ --------------------- (21/10/2021 11:10:16) --------------------------
+CAMPAGNA: CAMPAGNA_ESITI_001
+DATA_ESTRAZIONE_DATI: 20211005_180219
+FLUSSO: 030 INVIATO AD ENTI ESTERNI
+FASCIA_RITARDO: 90
+BUCKET_RITARDO: B3
+CLASSIFICAZIONE: 917
+SETTORE_OPERATIVO_AFFIDO: C5
+MODALITA_PAGAMENTO: 2
+SETTORE_MERCEOLOGICO: 658
+CATEGORIA_MERCEOLOGICA: ACCESSORI CASA
+CONVENZIONATO: CA4H047
+MORATORIA: 
+DATA_SBLOCCO_MORATORIA: 
+DATA_PRIMA_RATA_POST_SBLOCCO: 
+DURATA_SOSPENSIONE: 
+SCADUTO_ANTE_MORATORIA: 0
+SDD_DT_RIPRESENTAZIONE: 
+SDD_MOTIVO_INSOLUTO: 
+RFK_RATAMINIMA: 0
+RFK_DURATAMASSIMA: 0
+RFK_RATAMASSIMA: 0
+RFK_DURATAMINIMA: 0
+RFK_LAVORAZIONE:",,CHI,INL,Fiditalia Flusso Contratti 0016 CONSULGEST ITALIA ,2021-10-15,,,,,,,1,515.18,0.0,77.28,0.0,0.0,592.46,11866.56,157.0,0.0,0.0,0.0,157.0,CP,POSITIVA (+),545,720,720 - DANILO VISCIANO ,720,2021-10-05,2021-10-29,1834712.0,1834830.0,2021-11-04 10:54:58.682851,MZA,0.0,Nessun Processo Temporale,436.0,332 - PR. AUTORIZZATE (W),1481.0,3|410 - Pagamento parziale effettuato,515.18,,2,Esattore INTERNO,CAMPANIA,,,030 INVIATO AD ENTI ESTERNI,,CAMPAGNA_ESITI_001,,,,,,720,,,,2A,,,,,,,,,,,,,,,,,,,,,,,,,,,201,4087 04/10/2021,t,0016,10000012825178,,332,3|410,5.0,Credit Recovery Lab esterno,2.0,Alessandria,PRATICA CHIUSA,f,,t,f,,,,,,1494.0,,"0815584459,3389667443",t,f,,,
+8104594,11,FIN,FINDOMESTIC BANCA SPA,121,FINDOMESTIC CASH,2019-01-11,2019-04-11,20048462295113,FRNMHL68C17E791K,FIORINELLI MICHELE,1968-03-17 00:00:00,MADDALONI,58 VIA SAUDA,81024,MADDALONI,CE,Telefono principale,,08231970566,Altro Telefono,,, ,,,,,,,,,,"Il cliente è risultato sempre assente, a seguito messaggi lasciati alla moglie, il legale ci informa che il suo assistito era coperto da assicurazione, ma che non è in grado di effettuare alcun pagamento.","Estratto conto per la pratica n. 20048462295113
+
+ Tipo Aff= AFF1
+Data Tras.Contenzioso= 03/08/2018
+   Data Notifica LDBT= 11/09/2018 Comp.Giac.LDBT=   
+Professione Debitore = OPERAI SETTORE PRIVATO
+Situazione Familiare = SPOSATO
+Coniuge / Convivente = 
+Professione Con/Conv = CASALINGHE, STUDENTI E LEVA
+          Abitazione = PROPRIETARIO
+ Garanzia Aggiuntiva = 
+
+ Indirizzo domicilio = .
+           Provincia = 
+    Datore di lavoro = 
+ Indirizzo  dat.lav. = 
+ Sede oper. dat.lav. = 
+            Località = 
+           Provincia = 
+Telefono rintracciato= 
+Info Tel.rintracciato= 
+Telefono rintracciato= 
+Info Tel.rintracciato= 
+Telefono rintracciato= 
+Info Tel.rintracciato= 
+Info propr.abitazione= NO
+   Presenza Rintracci= NO
+Informazioni varie ri= 
+
+--------------- I N F O    P R A T I C A ---------------
+      Codice Cliente = 20048462295100
+   Tipologia Credito = PRESTITO PERSONALE
+     Bene Acquistato = RACHAT AUTO NUOVA
+  Data Finenziamento = 22/08/2013
+ Data Apertura Carta = --/--/----
+     Importo Erogato =   38.335,00
+   Importo Mensilità =      573,70
+Numero Rate Previste = 108
+Importo Rate Scadute =   33.848,30
+Penale Manc/Rit Pag. =      186,16
+Penale Capitale Res. =    1.729,50
+Pagam.Ricevuti prima =   22.376,90
+
+   Importo Trasmesso =   35.005,94
+      Importo Pagato =        0,00
+ Diff Erogato-Pagato =   38.335,00
+",12.0,CHI,INL,,,2019-04-11,,,,,,1,35005.94,1568.27,0.0,0.0,0.0,36574.21,36574.21,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),65,39,39 - PESTORINO ANTONIO,39,2019-01-11,2019-03-15,1691507.0,1691506.0,2019-04-09 16:23:20.757,AD,0.0,Nessun Processo Temporale,,,,,35005.94,2019-04-11 00:00:00,3,Esattore ESTERNO,CAMPANIA,,,,,,,,,,,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,308,,[FINDOMESTIC I LIVELLO] del  11/01/2019,f,,20048462295100,,,,1.0,Regione Campania,1.0,Tutti,PRATICA CHIUSA,t,,f,t,,,,,,,,08231970566,f,f,,,
+1725309,4,CPS,COMPASS BANCA SPA,20,CMP - CD3,2010-02-02,2010-02-26,000005364466,CNTMRA81B17E329U,CONTE MARIO,1981-02-17 00:00:00,ISCHIA,VIA ACQUEDOTTO 145/A,80077,ISCHIA,,,,081989706,,,3336837961,PUBBLICA ASSISTENZA FLEGREA VIA IV NOVEMBRE SERRARA,081999731,,CHIRICO MONICA,VIA SPINAVOLA 57,FORIO,80075,0815795286,150,Il cliente versa euro 187.11,Il cliente versa euro 187.11,"Tipo Prodotto         = PA
+Desc.Tipo Prodotto    = Prestiti Auto                 
+Bene Finanziato       = MOT
+Descrizione del bene  = CBR                           
+Modello Auto          = NON RICHIESTA                 
+mmaaaa Immatricolaz.  = 032006
+Cilindrata            = 0600
+Targa Auto            = CV67454 
+Telaio Auto           = 12090               
+Rag.Soc.Convenzionato = MOTO RACING SRL               
+Codice  Convenzionato = 000065013
+Garanzie              =                               
+Rate Finanziamento    = 0048
+Importo Rata          = 187,11
+Data Liquidazione     = 29/03/2006
+Data Inizio Rimborso  = 30/04/2006
+Data Fine Rimborso    = 30/03/2010
+Data Ult.Rata Pag.    = 30/10/2009
+Rate Pag. ad Oggi     = 0043
+Score Compor.         = 1024
+Filiale       = 096
+Filiale Oper. = 097
+       ABI:03002
+Descr. ABI:UNICREDIT BANCA DI ROMA SPA                                                     
+       CAB:39880
+Descr. CAB:FORIOVIA CARDINALE LAVITRANO, 18FORIO800
+        CC:000000166413
+       CIN:O
+  C_ANACLI:004703031
+  C_ANACOO:004703065
+ C_GARANTE:000000000
+C_GARANTE2:000000000
+RATA MEDIA:187,11
+Indirizzo Alt.:                              
+ Telefono Alt.:               
+Controparte R.:                                                            
+Cod.Caus.Ins. :      Des.Caus.Ins. :                              
+ Blocco Carta :                     
+PAN Plastica  :0000000000000000
+     Score CA :   0
+
+Rag.Soc. Garan:                                                            
+Indirizz.Garan:                              
+Località Garan:                               Pr:   Cap:00000
+Data Nas.Garan:00000000 Loc. Nas.Garan:                              
+Cod.Fisc.Garan:                
+Telefono Garan:               Tel2:                Cell:               
+Dat. Lav.Garan:                              
+Ind.Da.L.Garan:                              
+Loc.Da.L.Garan:                              Pr.:   Cap:00000
+Tel.Da.L.Garan:               
+ Ult.Mod.Indirizzo:20080724
+     Mod.Indirizzo:VIA ACQUEDOTTO,145/A                    ISCHIA            NA80070
+Penu.Mod.Indirizzo:00000000
+     Mod.Indirizzo:                                              00000
+ Data Ult.Pagamento:20091202 187,11 Scad.20091030 Rata 043
+ Data Pen.Pagamento:20091118 187,11 Scad.20090930 Rata 042
+ Data Ter.Pagamento:20091005 187,11 Scad.20090830 Rata 041
+ Storico Insolvenze:003002002002002002002002002002002002
+      NOTE:27/01/2010AL FISSO NRN,AL CELL.GRT.NRN.AL FISSO CASA GRT.HA RISPOSTO LA MADRE CHGE NO27/01/2010N MI DA INFO
+Franchigia Azz:0
+",,CHI,,,,,,,,1.0,,3,561.33,0.0,508.23,0.0,0.0,1069.56,940.0,0.0,0.0,0.0,0.0,0.0,CP,POSITIVA (+),526,SSO,SSO - RUSSO MARIO,SSO,2012-10-19,2010-02-26,604.0,603.0,2017-11-16 19:34:28,admin,0.0,Nessun Processo Temporale,151.0,VPP - VERIFICATA PROVVIGIONABILE PARZIALE,152.0,150 - POSITIVA CON INCASSO,187.11,2010-02-27 00:00:00,5,PHONE COLLECTION,CAMPANIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,,66710,f,CNG,,,VPP,150,,,,,PRATICA CHIUSA,f,CUCNG001,t,t,,,,,,152.0,228,"0815795286,081989706,081999731,3336837961",t,f,,,
+2813146,28,BIF,BANCA IFIS S.P.A.,98,BIF - IN BOUND,2015-08-26,2015-11-05,1107773013,NDGDHC73R54Z335U,ONODUGO OKOLO EDITH CHINWE,,,"VIA CARLI, 27",37100,VERONA,VR,,,0459999999,,,3396320306,,,,,,,,,AR,"i recapiti telefonici in nostro possesso non si rivelano utili, le ricerche effettuate non hanno prodotto alcun esito. Il debitore non si mostra assolutamente interessato a definire la pendenza malgrado l'invio del vostro sollecito a mezzo raccomandata.","i recapiti telefonici in nostro possesso non si rivelano utili, le ricerche effettuate non hanno prodotto alcun esito. Il debitore non si mostra assolutamente interessato a definire la pendenza malgrado l'invio del vostro sollecito a mezzo raccomandata.","Il cliente è sempre assente all'indirizzo, i recapiti telefonici in nostro possesso non si rivelano utili. Lasciati numerosi messaggi ad oggi tutti privi di riscontro, il debitore non si mostra assolutamente interessato a definire la pendenza.
+
+
+
+RIGO                                     = 2830
+COMMESSA                                 = 3210
+INTERESSISUAFFID                         = 37,53033644FORMA_TECNICA        = 59 - CARTE DI CREDITO: UTILIZZO - REVOLVING
+
+BANCA MONTE DEI PASCHI DI SIENA",,CHI,,,,,,,,1.0,,1,5073.7703,0.0,0.0,0.0,0.0,5073.7703,,0.0,0.0,0.0,0.0,0.0,SL,Sospesa Lavorazione,554,726,726 - ATTOLINI ALESSANDRO ,726,2015-08-27,2015-10-30,1514134.0,1514133.0,2017-12-04 18:29:02,admin,0.0,Nessun Processo Temporale,68.0,070 - IRREPERIBILE,209.0,CN - CN,5073.7703,2015-10-30 00:00:00,2,Esattore INTERNO,VENETO,,,,,,,,,BIF - IN - 3210,,,,26082015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32524,f,,,,070,CN,5.0,Credit Recovery Lab esterno,2.0,Alessandria,PRATICA CHIUSA,f,,t,t,,,,,,,,"0459999999,3396320306",t,f,,,
+2699806,1,AGOS,AGOS DUCATO SPA,16,AG2 - CS - HC2B,2015-05-04,2015-05-28,44276544,DLTGLC79T24F799R,D'ALTERIO GIANLUCA,1979-12-24 00:00:00,MUGNANO DI NAPOLI,VIA S. FRANCESCO A PATRIA 91,80014,GIUGLIANO IN CAMPANIA,,,,0815060461,,,3455119825,CAFFETTERIA MAXIMILI VIA CIRCUMVALLAZIONE ESTERNA 4 QUALIANO,0818195553,,,,,,,LV,il cliente lamenta grosse difficoltà economiche dovute alla chiusura dell attività e pertanto dichiara di non poter versare nulla entro scadenza,il cliente lamenta grosse difficoltà economiche dovute alla chiusura dell attività e pertanto dichiara di non poter versare nulla entro scadenza,"Estratto conto al 05/05/2015                              Contratto         44276544
+
+Convenzionato : BANCA POPOLARE DI NO     
+
+Prodotto   :PREST FLESSIBIL
+Bene : PRESTITI PERSON                                             
+Rate       : 084           Importo Rata   :       0,00
+Montante   :  19.431,97    Residuo Debito :  13.513,00
+Prima Scad : 20/08/2011    Ultima Scad.   : 20/07/2018
+Rata Accod : 00/00/0000     Rate Accodate : 000
+Imp.Rate S.:   1.242,00     Altri Addebit.:      72,61
+I.M. Cont. :       0,00     I.M. Non Co.  :      38,89
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00
+Spese Esat.:       0,00
+Spese In Co:      50,00
+Spese Prec.:       0,00
+Rata a Sc. : 20/05/2015     Imp.Rata a Sc :     311,60 in affido N
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00 in affido  
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00 in affido  
+
+Ultimi pagamenti pervenuti (ultimi 6 mesi)
+
+Rata     Dovuta     Pagata          Importo
+36     20/07/2014     20/07/2014         310,50
+37     20/08/2014     20/08/2014         310,50
+38     20/09/2014     21/10/2014         310,50
+39     20/10/2014     20/10/2014         310,50
+40     20/11/2014     20/11/2014         310,50
+41     20/12/2014     20/12/2014         310,50
+
+
+Pagamenti NON pervenuti (ultimi 12 mesi)
+
+Rata     Dovuta         Importo          I.Mora
+42     20/01/2015         310,50          16,03
+43     20/02/2015         310,50          11,30
+44     20/03/2015         310,50           7,02
+45     20/04/2015         310,50           2,29
+
+ Firma Doppia=N
+
+        SITUAZIONE GENERALE
+        44276544  13.513,00   1.242,00 004     310,50 20052015 I
+
+ Num.Rate Orig = 000 Importo Rata Orig =       0,00",,CHI,,,,,,,,1.0,,4,1314.61,38.89,50.0,0.0,72.61,1476.11,11816.0,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),91,76,76 - GERVASIO MASSIMO,76,2015-05-05,2015-05-28,4270.0,4269.0,2017-11-01 23:39:37,admin,0.0,Nessun Processo Temporale,,,279.0,N - NEGATIVA,310.5,2015-05-30 00:00:00,3,Esattore ESTERNO,CAMPANIA,,,,,,,,,AG2 - CS - HC2B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,,31777,f,5264,,,,N,1.0,Regione Campania,1.0,Tutti,PRATICA CHIUSA,t,AGONDC8,f,t,,,,,,279.0,,"0815060461,0818195553,3455119825",t,f,,,
+8163519,4,CPS,COMPASS BANCA SPA,97,CM2 - CD2,2019-05-03,2019-05-31,000016923409,DSTMHL72T29F531A,DESIATI MICHELE,1972-12-29 00:00:00,MONTEIASI,VIA MARCONI 48,74020,MONTEIASI,TA,Telefono Abitazione,,,Cellulare,,349 8564608,FOND. CITTADELLA DELLA CARITA' - PIAZZALE MONS. MOTOLESE 1 74123 TARANTO (TA),099 4732243,,,,,,,561,il cl ha pag. una rata,"Il cliente versa euro 175,00","Estratto Conto per la pratica num. 16923409 alla data 03/05/2019
+
+  Convenzionato (1981762) BANCA MONTE DEI PASCHI DI SIEN
+  
+  Prodotto           : (PP) Prestiti Personali 
+  Bene Finanziato    : (DIV) - PRESTITI PERSONALI DIRETTI
+
+********************************************************************************  
+  Importo Finanziato :    5.283,35 in data 28/11/2016
+           Num. Rate : 36 di cui pagate 25 e scadute 2
+  Importo Rata Media :      169,39
+          Prima Rata : 30/12/2016
+         Ultima Rata : 30/01/2020
+  Ultima rata pagata : 30/01/2019
+
+   Numero Rapportino : 11368
+       Score Pratica : 0 Rata Variabile : 
+   Filiale           : 081
+   Filiale Operativa : 561
+                 ABI : 1030 CAB : 78892 CC : 000061423917 CIN : M
+               Banca : BANCA MONTE DEI PASCHI DI SIENA S.P.A.
+             Agenzia : GROTTAGLIE AG. 1LARGO IMMACOLATA, 1GROTT
+         Accodamento : No
+    Fascia Operativa : X2
+********************************************************************************
+
+ Numero rate Scadute :           2
+    Imp.Rate Scadute :      338,78
+       Insoluto Mora :        0,00
+    Spese Accessorie :        0,00
+      Spese Recupero :       59,29
+        Importo Rata :      167,89
+
+  Ultimi Pagamenti Pervenuti
+  Rata   Dovuta        Pagata           Importo Mod.Pag.
+  ------------------------------------------------------
+  0026   30/01/2019    12/02/2019        370,00       CO
+  0024   30/11/2018    30/11/2018        169,39       CO
+  0023   30/10/2018    21/11/2018        180,00       NE
+
+  Ultimi Pagamenti NON Pervenuti
+  Rata   Dovuta           Importo
+  -------------------------------
+  0028   30/03/2019        169,39
+  0029   30/04/2019        169,39
+  
+
+  Pagamenti in Accodamento
+  Rata   Dovuta           Importo
+  -------------------------------
+  0019   30/12/2019        189,11
+  0027   30/01/2020        169,39
+  0030   30/05/2019        169,39
+  
+  
+  Altri debiti dello stesso cliente
+  Proven. n.Pratica             Saldo Rate
+  ----------------------------------------
+   CO     17909322           3.095,09 2
+********************************************************************************
+
+
+  
+Informazioni aggiuntive
+  Causale Ins.  : 
+  Ult.Mod.Ind.  : 25/11/2016  MONTEIASI TA 74020
+  
+  Storico Insolvenze : 002 - 001 - 002 - 001
+  Cod.Anagrafico Cliente     [17055342]
+  
+STORICO NOTE:
+   20/08/2018LASCIATO MESSAGGIO 28/05/20183498564608 CL PROMETT PAGAMENT IN FILIALE 15/05  RIMANDA 17/05  RIMANDA 25/28/05/201805  PI COMUNICA DI AVER PARLATO CON LA FILIALE E PROVA A FARE PAG ENTRO MAN28/05/2018DATO 21/05/20183498564608 CL PROMETT PAGAMENT IN FILIALE 15/05  RIMANDA 17/05  RIMANDA 21/21/05/201805",12.0,CHI,INL,BANCA MONTE DEI PASCHI DI SIENA S.P.A.,2016-12-30,2020-01-30,,,,,,2,338.78,0.0,59.29,0.0,0.0,398.07,1883.01,169.39,0.0,5.61,0.0,175.0,CP,POSITIVA (+),93,92,92 - GALLO ORONZO ,92,2019-05-03,2019-05-31,1627759.0,1628668.0,2019-06-03 11:25:24.913,MC,0.0,Nessun Processo Temporale,,,152.0,150 - POSITIVA CON INCASSO,169.39,2019-05-31 00:00:00,3,Esattore ESTERNO,PUGLIA,,,,,,,,,,,92,,,,CNG29,,,,,,,,,,,,,,,,,,,,,,,,X2,,101,,180133 03/05/2019,f,CNG,17055342,16923409,,150,2.0,Regione Puglia,1.0,Tutti,PRATICA CHIUSA,f,CUCNG001,t,t,,,,,,152.0,228,"0994732243,3498564608",t,f,,,
+2939918,17,SAN,SANTANDER CONSUMER BANK,76,SAN - A,2016-02-01,2016-02-29,13360550,LCRRRT84D26H501V,LUCARI ROBERTO,,,"VIA G.B.MILIANI, 5",00132,ROMA,RM,,,0660654983,,,3932182003,"LUCARI CARNI SAS VIALE DELLE GARDENIE, 137 ROMA RM 00100",062312962,,,,,,,150,"La pratica è stata riattivata passando dallo stato SL ad A
+La pratica è stata modificata in data 28/10/2021 :
+ - cambiato valore di operatore da 57T con 52F
+ - cambiato valore di Fascia da SAN - CS - A con A
+ - cambiato valore di Giorni di Ritardo Iniziali da vuoto con 31
+ - cambiato valore di Giorni di Ritardo da vuoto con 0
+ - cambiato valore di ToBetter da vuoto con 0
+ - cambiato valore di Importo ToBetter da vuoto con 0.00
+ - cambiato valore di Stato Contenzioso da vuoto con UB",,"BENE : CBU / Riconduzione / New Rifinanzia
+CODICE CLIENTE:007402633
+Inizio Contratto : 28/01/14 Fine 15/02/24 Imp.Finanziato 15587
+Tipo Pag. RI  Abi/Cab 0832703265 Banca BANCA DI CREDITO COOPERATIVO DI ROMA - S C/C 00000000091
+N.Rate 20 da 208,5  Prima scad 15/03/14
+C/C 000000000914 CIN E Class.Pratica 05
+ CONVENZIONATO :                                    
+                                   
+",,CHI,STP,,,,,,,1.0,,2,418.0,15.91,21.9,0.0,1.0,456.81,9527.18,422.0,0.0,0.0,0.0,422.0,CP,POSITIVA (+),84,704,704 - D'ANTO GIO' ,704,2016-02-03,2016-02-29,4455.0,4454.0,2022-01-04 12:28:08.388698,MV,0.0,Nessun Processo Temporale,150.0,VP - VP,,,208.5,2016-02-26 00:00:00,2,Esattore INTERNO,LAZIO,051,,52F,,,,,,A,2021-09-15,,,2,,,,,,,,,,31,,0,,0,,0.00,,,,UB,,,,,,,,RPD,,18741,f,CONSULGEST,,,VP,,6.0,Credit Recovery Lab interno,1.0,Tutti,PRATICA CHIUSA,f,EER8ACO024,t,t,,,,,,,,"062312962,0660654983,3932182003",t,f,,,
+8400502,8,FGA,FCA BANK,105,SP - 250,2020-07-21,2020-08-13,4901435,RZZRSL54P64G957Y,RIZZETTO ROSALIA,1954-09-24 00:00:00,POZZOLEONE VI,VIA CESERIO 20,28040,OLEGGIO CASTELLO,NO,,,,,,,,,,,,,,,,"NEGATIVA
+",,"Cap: 28040
+CF_PIva: RZZRSL54P64G957Y
+Citta: OLEGGIO CASTELLO
+Data_Affido: 21/07/2020
+Data_Contratto: 30/03/2016
+Data_Nascita: 24/09/1954
+Data_Prev_Chius: 21/07/2020
+Debitore: RIZZETTO ROSALIA
+Fascia_Corrente: Aging 2
+Indirizzo: VIA CESERIO 20
+Intestatario: RIZZETTO ROSALIA
+Luogo_Nascita: POZZOLEONE VI
+Memo: 
+Mora: 7.44000000000000039079850466805510222911834716796875
+Posizione: 4901435
+Provincia: NO
+Rate_Scadenti: 0
+Saldo_Contabile: 378.5
+Spese_Recupero: 30
+Telefono1: 
+Telefono2: 
+Totale_Credito: 415.93999999999999772626324556767940521240234375",10.0,CHI,INL,,2020-08-13,,,,,0.0,,1,378.5,7.44,30.0,0.0,0.0,415.94,415.94,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),641,216,216 - ALATI DOMENICO ,216,2020-07-21,2020-08-13,1832919.0,1831848.0,2020-08-13 14:18:05.523,158,0.0,Nessun Processo Temporale,79.0,N - NEGATIVA,,,378.5,,2,Esattore INTERNO,PIEMONTE,,2016-03-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,812,f,,,,N,,6.0,Credit Recovery Lab interno,,,PRATICA CHIUSA,t,,t,f,,,,,,,,3397374933,t,f,,,
+8376748,1,AGOS,AGOS DUCATO SPA,245,AGOS - CARTA - DEA4,2020-06-03,2020-06-30,4301522464528208,MCHMTR49P48H501O,MICHELESSI MARIA TERESA,1949-09-08 00:00:00,ROMA,VIA ANTONIO PIETRANGELI 26,00139,ROMA,RM,Telefono Abitazione,,06-97606625,Cellulare,,338-6479784,CENTROGEST SPA VIA VAL DI CHIENTI 21 ROMA,06-8860918,,,,,,,,3386479784  risponde e chiude ,il cliente chiedeva ricontatto per definire accordi di pagamento ma si è reso irreperibile telefonicamente ,"Estratto Conto per la pratica num. 4301522464528208 alla data 03/06/2020
+  
+  Convenzionato AGOS ITAFINCO ROMA P
+  Debito aperto il 01/03/2013 presso AGOS ITAFINCO ROMA PP  0  ()
+
+  Ultimo Acquisto :      400,00 del 17/05/2016
+  
+  Ultimi Pagamenti Pervenuti
+
+  DATA                 Importo
+  ----------------------------
+  03/05/2019             33,00
+  04/06/2019             33,00
+  08/07/2019             33,00
+  17/07/2019             33,00
+  05/08/2019             33,00
+  04/10/2019             33,00
+  22/11/2019             33,00
+  24/12/2019             33,00
+  20/01/2020             33,00
+  05/02/2020             33,00
+  04/03/2020             33,00
+  21/05/2020             33,00
+  
+
+  Data        Saldo Prec      Saldo Corr     Min. Dovuto
+  ------------------------------------------------------
+  31/12/2018       99,00           33,00          132,00
+  31/01/2019       99,00           33,00          132,00
+  28/02/2019       99,00           33,00          132,00
+  31/03/2019       99,00           33,00          132,00
+  30/04/2019      132,00           33,00          165,00
+  31/05/2019      132,00           33,00          165,00
+  30/06/2019      132,00           33,00          165,00
+  31/07/2019       99,00           33,00          132,00
+  31/08/2019       99,00           33,00          132,00
+  30/09/2019      132,00           33,00          165,00
+  31/10/2019      132,00           33,00          165,00
+  30/11/2019      132,00           33,00          165,00
+  31/12/2019      132,00           33,00          165,00
+  31/01/2020      132,00           33,00          165,00
+  29/02/2020      132,00           33,00          165,00
+  31/03/2020      132,00           33,00          165,00
+  30/04/2020      165,00           33,00          198,00
+  31/05/2020      165,00           33,00          198,00
+  
+  SITUAZIONE GENERALE
+  Num.Pratica          Imp.Dovuto   Imp.Scaduto    Rate   Imp.Rata  DataProxScad. RUOLO
+  -------------------------------------------------------------------------------------
+   4301522464528208        287,34        198,00      0        0,00   --/--/----   I
+  
+
+  Informazione Garante
+  NOME          : 
+  DATA NASCITA  : --/--/----
+  LUOGO NASCITA : 
+  COD. FISCALE  : 
+  RESIDENZA     : 
+  DOMICILO      : 
+  LAVORO        : 
+  CELLULARE     : 
+  TIPO GARANTE  : 
+  FIRMA DOPPIA  : N
+
+  Informazioni Aggiuntive alla pratica
+  Numero Rate Orig.  : 0 Importo Rata Orig. :        0,00
+  Classe Scivolamento:  ",11.0,CHI,INL,,2020-06-09,,,,,,33.0,1,198.0,0.0,0.0,16.5,0.0,214.5,287.34,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),646,221,221 - DI BLASI VERUSKA,221,2020-06-03,2020-06-30,1833736.0,1833735.0,2020-07-06 15:07:44.901,NAD,0.0,Nessun Processo Temporale,,,279.0,N - NEGATIVA,33.0,,5,PHONE COLLECTION,LAZIO,,,,,,,,,,,221,,,,,,,,,,,,OKSMS,,,,,,,,,,,,,,,,,,,400,AGOS - CARTA - DEA4 del  04/06/2020,f,5264,15466670,43015224645,,N,11.0,Gruppo Reggio,,,PRATICA CHIUSA,t,AGONDC8,t,f,,,,,,279.0,,"068860918,0697606625,3386479784",t,f,,,
+3012233,28,BIF,BANCA IFIS S.P.A.,98,BIF - IN BOUND,2016-03-24,2016-06-30,4313517,LFRFNC59C28B737A,LAFORGE FRANCESCO,,,VIA FABIO FILZI 62,25128,BRESCIA,BS,,,,,,3383943179,,,,,,,,,,"i recapiti telefonici in nostro possesso non si rivelano utili, le ricerche effettuate non hanno prodotto alcun esito. Il debitore non si mostra assolutamente interessato a definire la pendenza malgrado l'invio del vostro sollecito a mezzo raccomandata.","i recapiti telefonici in nostro possesso non si rivelano utili, le ricerche effettuate non hanno prodotto alcun esito. Il debitore non si mostra assolutamente interessato a definire la pendenza malgrado l'invio del vostro sollecito a mezzo raccomandata.","
+
+RIGO                                     = 10537
+COMMESSA                                 = 2675
+CEDENTE                                  = NEOS FINANCE
+TELEFONO3                                = 
+ALTRO RECAPITO 1                         = 
+ALTRO RECAPITO 2                         = 
+DATA INVIO NOTIFICA DEBITORE             = 11/05/2009
+CAPITALEDATACESSIONE                     = 822,72
+INTERESSIDATACESSIONE                    = 263,64
+VNOMINALEDATACESSIONE                    = 1086,36
+INTERESSISUAFFID                         = 238,746581917808
+AFFIDATO                                 = 1325,10658191781
+FASCIA                                   = D
+RATING                                   = A
+TIPO AFFIDAMENTO                         = P",,CHI,,,,,,,,1.0,,1,1325.1066,0.0,0.0,0.0,0.0,1325.1066,,0.0,0.0,0.0,0.0,0.0,SL,Sospesa Lavorazione,88,708,708 - GAGLIONE STEFANO ,708,,2016-06-30,1514134.0,1514133.0,2017-12-04 18:29:02,admin,0.0,Nessun Processo Temporale,68.0,070 - IRREPERIBILE,209.0,CN - CN,1325.1066,2016-05-11 00:00:00,2,Esattore INTERNO,LOMBARDIA,,,,,,,,,BIF - IN - 2675,,,,24032016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33958,f,,,,070,CN,5.0,Credit Recovery Lab esterno,1.0,Tutti,PRATICA CHIUSA,f,,t,t,,,,,,,,3383943179,t,f,,,
+8273185,17,SAN,SANTANDER CONSUMER BANK,76,SAN - A,2020-01-02,2020-01-31,6754672,CRFDNL67S67E472V,CARFAGNA DANIELA,1967-11-27 00:00:00,LATINA,"STRADA CAPOGRASSA, 996BORGO SAN MICHELE",04100,LATINA,LT,Telefono principale,,39 25011267,Cellulare,,327 3584174,SHIVA SPORT SRL,0773 1762265,G,,,,00000,,,La pratica non e' presente nel file di aggiornamento! verra' sospesa la lavorazione in attesa di verifica di storno dalla committente,,"ESTRATTO CONTO posizione N. 6754672
+----------------------------------------------------------------------
+LOTTO_ESTERNO             34112
+PROVENIENZA               CO
+OPERATORE                 52F
+CLASSIFICAZ               05
+TIPO_SCADENZA_MEMO        VP
+DATA_SCADENZA_MEMO        31-12-2019
+RECUPERATORE              CO
+DATA_AFFIDAMENTO          30-08-2019
+
+---- DATI CLIENTE ----------------------------------------------------
+COD_CLIENTE               3294543
+RAG_SOC_CLIENTE           CARFAGNA DANIELA
+TIPO_ANAGRAFICA           P
+FORMA_GIURIDICA_CL        
+INDIRIZZO_CLIENTE         STRADA CAPOGRASSA, 996BORGO SAN MICHELE
+CAP_CLIENTE               04100
+LOCALITA_CLIENTE          LATINA
+PROVINCIA_CLIENTE         LT
+DT_NASCITA_CLIENTE        27-11-1967
+LUOGO_NASCI_CLIENTE       LATINA
+SESSO_CLIENTE             F
+COD_FISCALE_CLIENTE       CRFDNL67S67E472V
+TELEFONO1_CLIENTE         39 25011267
+TELEFONO2_CLIENTE         
+CELLULARE_CLIENTE         327 3584174
+EMAIL_CLIENTE             danielacarfagna@gmail.com
+
+DATORE_LAV_CLIENTE        SHIVA SPORT SRL
+TEL_DAT_LAV_CLIENTE       0773 1762265
+ABITAZIONE_CL             C/O GENITORI
+DECESSO_CL                
+
+---- ALTRI DATI ------------------------------------------------------
+NUMERO_UTENZE_TELEF       4
+TIPO_PRODOTTO             PP
+PRODOTTO                  2D
+FINANZIATO                  25.115,00
+NUMERO_RATE               120
+IMPORTO_RATE                   251,00
+DATA_DECORRENZA           23-12-2011
+PRIMA_SCADENZA            01-02-2012
+ULTIMA_SCADENZA           15-01-2022
+BENE                      CBU
+MARCA_AUTO                
+TARGA_AUTO                
+CONVENZIONATO             
+GARANZIA1                 CAM
+GARANZIA2                 
+TIPO_PAGAMENTO            BP
+BANCA                     
+ABI                       0
+CAB                       0
+STATO_MANDATO_SEPA        
+CAUSA_ULT_RID_SEPA        
+ATTRIBUTO_PRATICA         
+ATTRIBUTO_RECUPERO        
+---- DATI CONTABILI --------------------------------------------------   
+RISCHIO_GLOBALE              9.483,65
+ALTRI_ADDEBITI                   0,00
+TOT_ADDEBITATO                 766,64
+MORA_ADDEBITATA                  0,00
+MORA_CALCOLATA                 259,80
+MORA_INSERITA                  259,80
+CAPITALE_RESIDUO             8.717,01
+A_SCADERE                   10.349,64
+NUM_RATE_INSOLUTE         2
+RATE_RESIDUE              27
+IMP_RATE_INSOLUTE              766,64
+
+---- TABELLA RATE SCADUTE --------------------------------------------
+
+    NUMERO_RATA       SCADENZA_RATA     IMPORTO_RATA     
+----------------------------------------------------------------------
+             94          15-11-2019           383,32
+             95          15-12-2019           383,32
+              0          ..-..-....             0,00
+              0          ..-..-....             0,00
+              0          ..-..-....             0,00
+              0          ..-..-....             0,00
+              0          ..-..-....             0,00
+              0          ..-..-....             0,00
+
+
+NUM_RATA_IN_SCAD          32
+DATA_RATA_IN_SCAD         15-02-2022
+IMP_RATA_IN_SCAD               383,32
+PERCENT_RATE_PAGATE       76
+VALUTA_ULTIMO_PAGAM       30-12-2019
+NUM_ULTIMA_RATA_PAG       93
+SCAD_ULT_RATA_PAGAM       15-10-2019
+ANZIANITA_BUCKET          77
+ANZIANITA_PRATICA         48
+SPESE_CALCOLATE                525,24
+FAX_CLIENTE               380 6545271
+FLAG_SOFFERENZA           
+TAN                       11.99
+TAEG                      12.99
+CODICE_EVIDENZA           
+NOTE_EVIDENZA             
+DATA_EVIDENZA             
+CONT_RIMODULAZIONE        
+RECUPERO_STORICO          41
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+RCAZIDTIN          19042019
+RCAZIDTSI          31122019
+RCAZISTATO         70
+RCAZILEGAL         
+RCAZIUFFIC         C1S
+RCAZISALDO         1111628
+RCAZIFILIA         051
+RCAZISTAPR         40
+RCAZIPUNVE         0
+RCAZIVENDI         0
+RCAZIAGENT         999999
+RCAZIEMETT         0
+RCAZITABFI         RR6
+RCAZILOTIN         1199
+RCAZIDTRIE         0
+RCAZIDTSCD         0
+RCAZIFID           N
+RCAZIINDDL         VIA CAPOGRASSA, 379
+RCAZILOCDL         LATINA
+RCAZIPRODL         LT
+RCAZICAPDL         4100
+RCAZIINGAD         
+RCAZILOGAD         
+RCAZIPRGAD         
+RCAZICAGAD         0
+RCAZIING1D         
+RCAZILOG1D         
+RCAZIPRG1D         
+RCAZICPG1D         0
+RCAZIING2D         
+RCAZILOG2D         
+RCAZIPRG2D         
+RCAZICPG2D         0
+RCAZIGARA3         
+RCAZIGARA4         
+RCAZIGARA5         
+RCAZIDESBN         RICONDUZIONE PRATICA 4871561
+RCAZIDTIMM         0
+RCAZIULTRI         
+RCAZISESG1         
+RCAZITELAI         
+RCAZICILIN         0000
+RCAZITATCL         A
+RCAZITOCCL         SO
+RCAZIDASCL         201002
+RCAZIRANCL         1
+RCAZITATGA         
+RCAZITOCGA         
+RCAZIDASGA         0
+RCAZIRANGA         0
+RCAZITATG1         
+RCAZITOCG1         
+RCAZIDASG1         0
+RCAZIRANG1         0
+RCAZITATG2         
+RCAZITOCG2         
+RCAZIRANG2         0
+RCAZITIPCL         
+RCAZIFLACC         S
+RCAZISECUR         N
+RCAZIDTINR         20190830
+RCAZIDTPER         0
+RCAZICNTGA         0
+RCAZICAPIN         58602
+RCAZIINTIN         17698
+RCAZIADDIN         364
+RCAZIADDFU         158349
+RCAZITRAFR         2
+RCAZINR1FR         94
+RCAZIDR1FR         20191115
+RCAZIIR1FR         38332
+RCAZINR2FR         95
+RCAZIDR2FR         20191215
+RCAZIIR2FR         38332
+RCAZIRTPAG         91
+RCAZIRTPAF         91
+RCAZIIPEDT         0
+RCAZIRPEDT         0
+RCAZICPEDT         0
+RCAZIDTEDT         0
+RCAZITPDOC         CAR
+RCAZINMDOC         AS2471998
+RCAZIUFRIL         COM
+RCAZILURIL         LATINA
+RCAZIPRRIL         LT
+RCAZIDTRIL         20100712
+RCAZIASSIC         
+RCAZIIBTID         0
+RCAZISBTID         0
+RCAZICBTID         0
+RCAZIIMODT         0
+RCAZISMODT         0
+RCAZIAINDT         0
+RCAZITBTID         0
+RCAZITIMSR         0
+RCAZIIRAT2         38150
+RCAZIACCED         N
+RCAZITIPOL         
+RCAZISOTCL         
+RCAZIDTINS         0
+RCAZIDTULP         0
+RCAZIULTPG         0
+RCAZIFLGRI         SI",12.0,CHI,INL,,,,,,,,,1,766.64,259.8,525.24,0.0,0.0,1551.68,8276.0,383.32,0.0,0.0,0.0,383.32,SL,Sospesa Lavorazione,27,148,148 - TOLVO SIMONE ,148,2020-01-02,2020-01-31,4477.0,4476.0,2021-10-28 10:40:29.57,admin,0.0,Nessun Processo Temporale,457.0,RPD - RPD,597.0,VSC - VSC,766.64,2020-01-28 00:00:00,3,Esattore ESTERNO,LAZIO,,,52F,,ST,,,2019-11-15,A,2020-03-15,148,2019-08-30,4,,,,,,,,,,51,,53,,0,,0.00,,RIF,,CB,,,,SI,,,,101,,34112 02/01/2020,f,CONSULGEST,3294543,6754672,RPD,VSC,8.0,Gruppo Lazio,1.0,Tutti,PRATICA CHIUSA,f,EER8ACO024,t,t,,,,,,597.0,,"0773176226,07731762265,3273584174,3925011267",t,f,,,
+8100092,8,FGA,FCA BANK,105,SP - 250,2018-12-31,2019-01-23,5252139,,MANZINI FAUSTO,,,VIA GIUSEPPE MARAMOTTI 8,,REGGIO EMILIA,RE,,,,,,,,,,,,,,,,"VERIFICATA PROVVIGIONABILE
+",,"Pratica num.   : 5252139 di MANZINI FAUSTO
+Rif. Lotto     : 214851
+Importo Rata   :      533,24
+Interessi      :       15,27
+Spese          :       30,00
+-----------------------------------
+Totale         :      578,51
+-----------------------------------
+Debito Residuo :   15.112,09
+",11.0,CHI,INL,,,,,,,,,1,533.24,15.27,30.0,0.0,0.0,578.51,15112.09,533.24,15.27,30.0,0.0,578.51,CP,POSITIVA (+),579,730,730 - VALENTINA DAMIANI,730,2018-12-31,2019-01-23,1692090.0,1631070.0,2019-09-26 11:41:19.973,AR,0.0,Nessun Processo Temporale,150.0,VP - VP,,,533.24,,4,DIPENDENTE AMMINISTRATIVO,EMILIA ROMAGNA,,2019-03-31,,,,,,,,,730,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VP,214851 02/01/2019,f,,,,VP,,9.0,Staff MC,,,PRATICA CHIUSA,f,,t,f,,,,,,,,,f,f,,,
+8151044,1,AGOS,AGOS DUCATO SPA,16,AG2 - CS - HC2B,2019-04-02,2019-04-30,43311861,CMPMRA60B19I057E,CAMPITELLI MARIO,1960-02-19 00:00:00,SAN NICOLA DELL'ALTO,VIA DEL SANTUARIO 104,01030,CASTEL SANT'ELIA,VT,Telefono Abitazione,,,Cellulare,,389-2640538,CAMPITELLI MARIO VIA FONTANA MATUCCIA SNC CIVITA CASTELLANA,,C,GRANDICELLI SABRINA,VIA VINCENZO DE PLACIDI 10,CASTEL SANT'ELIA,01030,,446,"Cliente assente alle visite del collaboratore, lasciati messaggi ad oggi senza ottenere alcun riscontro , telefonicamente non abbiamo ottenuto alcun riscontro","Il cliente e assente alle visite esattoriali, non avviene nessun riscontro telefonico, i messaggi lasciati sono del tutto ignorati dal debitore. Vani ulteriori tentativi per il rintraccio","Estratto Conto per la pratica num. 43311861 alla data 02/04/2019
+
+  Convenzionato TRASFERIMENTO POSTA
+  
+  Prodotto: PREST. PERSONAL (PRESTITI PERSON) 
+    Marca :  Modello:  Targa: 
+
+********************************************************************************  
+  Importo Finanziato :   16.195,89 in data 14/02/2011
+           Num. Rate : 120 rate di cui rimanenti 120 e scadute 0
+          Prima Rata : 20/03/2011
+         Ultima Rata : 20/02/2021
+********************************************************************************
+
+   Ultima Rata Accod.:  20/05/2021     Numero rate accodate     :           3
+    Imp.Rate Scadute :      856,00     Altri Addebiti           :      491,52
+Interessi Mora Cont. :        0,30     Interessi Mora Non Cont. :       79,93
+      Spese Esattore :        0,00
+        Spese In Co. :       50,00
+    Spese Precedenti :      850,00
+     Rata a Scadenza :  --/--/----     Imp.Rata a Scadenza      :        0,00
+    
+  Ultimi Pagamenti Pervenuti
+  Rata   Dovuta        Pagata           Importo
+  ---------------------------------------------
+  0092   20/10/2018    31/12/2018        214,00
+  0093   20/11/2018    31/12/2018          1,00
+  0093   20/11/2018    31/01/2019        213,00
+  0093   20/11/2018    07/02/2019       -213,00
+  0093   20/11/2018    26/03/2019        213,00
+  
+  Ultimi Pagamenti NON Pervenuti
+  Rata   Dovuta           Importo      Int.Mora
+  ---------------------------------------------
+  0094   20/12/2018        214,00          7,44
+  0095   20/01/2019        214,00          5,82
+  0096   20/02/2019        214,00          3,38
+  0097   20/03/2019        214,00          1,14
+  
+  SITUAZIONE GENERALE
+  Num.Pratica          Imp.Dovuto   Imp.Scaduto    Rate   Imp.Rata  DataProxScad. RUOLO
+  -------------------------------------------------------------------------------------
+           43311861      7.891,68        856,00      4      214,00   20/04/2019   I
+  
+
+  Informazione Garante
+  NOME          : GRANDICELLI SABRINA
+  DATA NASCITA  : 08/03/1965
+  LUOGO NASCITA : CIVITA CASTELLANA (VT)
+  COD. FISCALE  : GRNSRN65C48C765V
+  RESIDENZA     : VIA VINCENZO DE PLACIDI 10 CASTEL SANT'ELIA (VT)
+  DOMICILO      : 
+  LAVORO        : REDDITO NON DIMOSTRABILE
+  CELLULARE     : 392-7954976
+  TIPO GARANTE  : C
+  FIRMA DOPPIA  : S
+
+  Informazioni Aggiuntive alla pratica
+  Numero Rate Orig.  : 0 Importo Rata Orig. :        0,00
+  Classe Scivolamento: PS ",10.0,CHI,INL,,,,,,,,,4,856.0,80.23,1391.52,0.0,0.0,2327.75,7301.76,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),467,712,712 - RICCIO ANTONIO,712,2019-04-04,2019-04-30,1628724.0,1628700.0,2019-05-02 15:01:48.224,ME,0.0,Nessun Processo Temporale,,,279.0,N - NEGATIVA,214.0,,2,Esattore INTERNO,LAZIO,,,,,,,,,,,712,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AG2 - CS - HC2B del  03/04/2019,f,5264,12685775,43311861,,N,5.0,Credit Recovery Lab esterno,2.0,Alessandria,PRATICA CHIUSA,t,AGONDC8,t,f,,,,,,279.0,,"0761576784,3388438717,3892640538,3927954976",t,f,,,
+3630614,8,FGA,FCA BANK,101,SP - 210,2017-08-23,2017-09-15,5059027,,MANGIAMELI LUANA,,,VIA EDMONDO DE AMICIS 50,,SIRACUSA,SR,,,,,,,,,,,,,,,,,,,,CHI,,,,,,,,1.0,,1,177.1,0.26,10.64,0.0,0.0,188.0,11151.0,177.1,0.26,10.64,0.0,188.0,CP,POSITIVA (+),212,105,105 - RICCI ELEONORA ,105,2017-08-24,2017-09-15,542.0,541.0,2018-03-30 21:57:31,admin,0.0,Nessun Processo Temporale,150.0,VP - VP,,,177.1,,5,PHONE COLLECTION,SICILIA,,,3467764241,,,,,,SP - 210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37732,f,,,,VP,,12.0,Gruppo Sava/Agos,1.0,Tutti,PRATICA CHIUSA,f,,t,f,,,,,,,,,f,f,,,
+3242016,8,FGA,FCA BANK,105,SP - 250,2016-10-17,2016-11-09,4423236,,MURADOR GIORGIO,,,VIA GABRIELE D'ANNUNZIO,,MUGGIA,TS,,,,,,,,,,,,,,,,,,,,CHI,,,,,,,,1.0,,1,325.22,30.1,35.53,0.0,0.0,390.85,12340.0,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),249,161,161 - STELLA ANNA,161,2016-10-18,2016-11-09,550.0,549.0,2018-03-30 21:57:31,admin,0.0,Nessun Processo Temporale,66.0,222 - INVIATA LETTERA,,,325.22,,5,PHONE COLLECTION,FRIULI VENEZIA GIULIA,,,,,,,,,SP - 250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35387,f,,,,222,,1.0,Regione Campania,1.0,Tutti,PRATICA CHIUSA,t,,t,f,,,,,,,,,f,f,,,
+2471090,6,CDL,CREDIT LIFT SPA,91,CDL - CS,2014-03-03,2014-03-31,938193,BRCNGL42T41G282K,BRACCO ANGELA,1942-12-01 00:00:00,PALMA DI MONTECHIARO,VIA VENEZIA 17,92020,PALMA DI MONTECHIARO,AG,,,,,,3202660116,INPS,,,MANGANELLO GIUSEPPE,VIA GERMANIA 8,PALMA DI MONTECHIARO,92020,0922965401,,PRATICA POSITIVA,PRATICA POSITIVA,"Estratto conto al 03/03/2014                              Contratto           938193
+
+Convenzionato : AGOS DUCATO SPA EX A     
+
+Prodotto   :GIA' CLIENTI AG
+Bene : PRESTITI PERSON                                             
+Rate       : 072           Importo Rata   :       0,00
+Montante   :   5.205,00    Residuo Debito :   5.296,50
+Prima Scad : 15/03/2012    Ultima Scad.   : 15/02/2018
+Rata Accod : 00/00/0000     Rate Accodate : 000
+Imp.Rate S.:     108,00     Altri Addebit.:       3,30
+I.M. Cont. :       0,00     I.M. Non Co.  :       1,20
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00
+Spese Esat.:      50,00
+Spese In Co:       0,00
+Spese Prec.:       0,00
+
+Ultimi pagamenti pervenuti (ultimi 6 mesi)
+
+Rata     Dovuta     Pagata          Importo
+19     15/09/2013     17/09/2013         108,00
+20     15/10/2013     18/10/2013         108,00
+21     15/11/2013     15/11/2013         108,00
+22     15/12/2013     24/12/2013         108,00
+23     15/01/2014     20/01/2014         108,00
+       
+
+Pagamenti NON pervenuti (ultimi 12 mesi)
+
+Rata     Dovuta         Importo          I.Mora
+24     15/02/2014         108,00           0,86
+ Firma Doppia=S
+
+        SITUAZIONE GENERALE
+          938193   5.296,50     108,00 001     108,00 15032014 I
+
+ Num.Rate Orig = 000 Importo Rata Orig =       0,00
+                 FIRMA = G
+Cellulare Garante = 320-4407321 
+Cod.Fisc. Garante = MNGGPP68S01G282Z
+  Nascita Garante = 19681101 PALMA DI MONTECHIARO          
+Posto Lav.Garante = MINEO GIOVANNI VIA PELORITANI 11 PALMA DI MONTECHIARO
+Tel.Posto Lav.Gar = 0922-26872
+",,CHI,,,,,,,,1.0,,1,108.0,1.2,50.0,0.0,0.0,159.2,5296.0,108.0,0.0,0.0,0.0,108.0,CP,POSITIVA (+),236,146,146 - INNER ALESSANDRO,146,2014-03-03,2014-03-31,1832111.0,1832110.0,2019-11-19 09:58:29.807,MAR,0.0,Nessun Processo Temporale,150.0,VP - VP,309.0,PA - INCASSO EFFETTUATO,108.0,,5,PHONE COLLECTION,SICILIA,,,MNGGPP68S01G282Z,,,,,,CDL - CS - ESAA,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28723,f,,,3,VP,PA,12.0,Gruppo Sava/Agos,1.0,Tutti,PRATICA CHIUSA,f,,t,f,,,,,,309.0,,"0922965401,3202660116",t,f,,,
+3217143,4,CPS,COMPASS BANCA SPA,90,CAF - COMPASS FONIA CARTE,2016-09-02,2016-09-30,005135251754,RMONNN49A17H224H,ROMEO ANTONINO LUCIO,1949-01-17 00:00:00,REGGIO DI CALABRIA,VIA DELLE MIMOSE 6 GALLINA,89131,REGGIO DI CALABRIA,RC,,,0965682822,,,3493939550,,,,,,,00000,,,"Notifica per PINTO MARGHERITA  (160): PERV VT DI EU 222 DEL 08/09/16
+Msg da: GM",Il cliente versa euro 222.00,"Tipo Prodotto         = N5
+Desc.Tipo Prodotto    =                               
+Bene Finanziato       =    
+Descrizione del bene  =                               
+Modello Auto          =                               
+mmaaaa Immatricolaz.  = 000000
+Cilindrata            = 0000
+Targa Auto            =         
+Telaio Auto           =                     
+Rag.Soc.Convenzionato = COMPASS BANCA SPA             
+Codice  Convenzionato = 000000012
+Garanzie              = Nessuna                       
+Rate Finanziamento    = 0036
+Importo Rata          = 181,11
+Data Liquidazione     = 30/07/2011
+Data Inizio Rimborso  = 00/00/0000
+Data Fine Rimborso    = 31/07/2017
+Data Ult.Rata Pag.    = 00/00/0000
+Rate Pag. ad Oggi     = 0000
+Score Compor.         = 0000
+Filiale       = 227
+Filiale Oper. = 506
+       ABI:00000
+Descr. ABI:                                                                                
+       CAB:00000
+Descr. CAB:00000                                   
+        CC:            
+       CIN: 
+  C_ANACLI:005772302
+  C_ANACOO:000000000
+ C_GARANTE:000000000
+C_GARANTE2:000000000
+
+RATA MEDIA:181,11
+
+Indirizzo Alt.:                              
+ Telefono Alt.:               
+Controparte R.:                                                            
+Cod.Caus.Ins. :      Des.Caus.Ins. :                              
+ Blocco Carta :DA X1                
+PAN Plastica  :0000000000000000
+     Score CA :1292
+ CLASSESPE CA :7
+ Fascia Operativa:X2
+Tipo Parentela:                    
+Num. Pratica 1:CO000010482927
+Saldo Resid. 1:5809,44
+N.rate Arrer.1:001
+Num. Pratica 2:  000000000000
+Saldo Resid. 2:0
+N.rate Arrer.2:000
+Num. Pratica 3:  000000000000
+Saldo Resid. 3:0
+N.rate Arrer.3:000
+Num. Pratica 4:  000000000000
+Saldo Resid. 4:0
+N.rate Arrer.4:000
+
+Data Nasc Coob:00000000
+Loc. Nasc Coob:                              
+Cod.Fisc. Coob:                
+Telefono  Coob:               
+Telefono2 Coob:               
+Cellulare Coob:               
+Dat.  Lav.Coob:                              
+Ind.Dat.L.Coob:                              
+Loc.Dat.L Coob:                              
+Pr. Dat.L.Coob:  
+CAP Dat.L.Coob:00000
+Tel Dat.L.Coob:               
+Tip.Dat.L.Coob: 
+
+Rag.Soc. Garan:                                                            
+Indirizz.Garan:                              
+Località Garan:                               Pr:   Cap:00000
+Data Nas.Garan:00000000 Loc. Nas.Garan:                              
+Cod.Fisc.Garan:                
+Telefono Garan:               Tel2:                Cell:               
+Dat. Lav.Garan:                              
+Ind.Da.L.Garan:                              
+Loc.Da.L.Garan:                              Pr.:   Cap:00000
+Tel.Da.L.Garan:               
+ Ult.Mod.Indirizzo:00000000
+     Mod.Indirizzo:                                              00000
+Penu.Mod.Indirizzo:00000000
+     Mod.Indirizzo:                                              00000
+ Data Ult.Pagamento:20160804 150 Scad.00000000 Rata 000
+ Data Pen.Pagamento:20160627 196 Scad.00000000 Rata 000
+ Data Ter.Pagamento:20160416 215,93 Scad.00000000 Rata 000
+ Storico Insolvenze:001001000001000000000001000002001001
+      NOTE:*NOTE AZIONE   AZ   11/04/2012   12 56 CB CHIAMO CLIENTE AL FX SQUILLA RISP E NN PARLA RICHIAMO STESSA SITUAZIONE  CELL SQUILLA NXRS  *NOTE AZIONE   AZ   20/04/2012   12 32 SF    CELL 3493939550 SQ RISP CLI   DICE HA EFF VERS L ALTRO IERI   SOLL SP ED FAX ENTRO DOMANI PAGAMENTO PERVENUTO
+Franchigia Azz:0
+         C_FLAGCQS:              C_FLAGPAG:        
+",,CHI,,,,,,,,1.0,,1,181.11,0.0,104.45,0.0,0.0,285.56,2913.0,181.11,0.0,40.89,0.0,222.0,CP,POSITIVA (+),248,160,160 - PINTO MARGHERITA ,160,2016-09-13,,421.0,420.0,2016-09-13 09:21:32,GM,0.0,Nessun Processo Temporale,102.0,C - POSITIVA,,,181.11,,5,PHONE COLLECTION,CALABRIA,227,,1292,,0152103,,CM,,CAF - TEL - 506,,07,,0,,CNG20,,,,,,,,,,,,,,,,,,,,,,,,,,100,,152103,f,CNG,,,C,,13.0,Gruppo Compass,1.0,Tutti,PRATICA CHIUSA,f,CUCNG001,t,f,,,,,,,,"013493939550,083493939550,0965682822,13493939550,3493939550,83493939550",t,f,,,
+8277406,6,CDL,CREDIT LIFT SPA,211,ESAP-CDL,2020-01-03,2020-01-31,507200,NCLBRN57D16L219Z,NICOLETTO BRUNO,1957-04-16 00:00:00,TORINO,CORSO ROMA 39/Q,10024,MONCALIERI,TO,Telefono Abitazione,,,Cellulare,,339-7476860,,,,,,,,,,"VERIFICATA PROVVIGIONABILE
+VP
+",,"Estratto Conto per la pratica num. 507200 alla data 03/01/2020
+
+  Convenzionato AGOS DUCATO SPA EX A
+  
+  Prodotto: PP GIA' CLIENTI (PRESTITI PERSON) 
+    Marca :  Modello:  Targa: 
+
+********************************************************************************  
+  Importo Finanziato :   10.699,80 in data 18/06/2010
+           Num. Rate : 120 rate di cui rimanenti 120 e scadute 0
+          Prima Rata : 20/07/2010
+         Ultima Rata : 20/06/2015
+********************************************************************************
+
+   Ultima Rata Accod.: 20/07/2021     Numero rate accodate     :          13
+    Imp.Rate Scadute :       26,70     Altri Addebiti           :        9,00
+Interessi Mora Cont. :        0,00     Interessi Mora Non Cont. :        0,00
+      Spese Esattore :       50,00
+        Spese In Co. :        0,00
+    Spese Precedenti :        0,00
+     Rata a Scadenza : --/--/----     Imp.Rata a Scadenza      :        0,00
+    
+  Ultimi Pagamenti Pervenuti
+  Rata   Dovuta        Pagata           Importo
+  ---------------------------------------------
+  0ALL   20/07/2019    31/07/2019        234,80
+  0110   20/08/2019    12/10/2019        117,40
+  0111   20/09/2019    12/10/2019        117,40
+  0112   20/10/2019    12/10/2019         26,70
+  0113   20/11/2019    12/10/2019         90,70
+  0113   20/11/2019    09/11/2019         26,70
+  
+  Ultimi Pagamenti NON Pervenuti
+  Rata   Dovuta           Importo      Int.Mora
+  ---------------------------------------------
+  0114   20/12/2019        117,40           ,79
+  
+  SITUAZIONE GENERALE
+  Num.Pratica          Imp.Dovuto   Imp.Scaduto    Rate   Imp.Rata  DataProxScad. RUOLO
+  -------------------------------------------------------------------------------------
+             507200      3.876,61         26,70      1      117,40   20/01/2020   I
+  
+
+  Informazione Garante
+  NOME          : 
+  DATA NASCITA  : --/--/----
+  LUOGO NASCITA : 
+  COD. FISCALE  : 
+  RESIDENZA     : 
+  DOMICILO      : 
+  LAVORO        : 
+  CELLULARE     : 
+  TIPO GARANTE  : 
+  FIRMA DOPPIA  : N
+
+  Informazioni Aggiuntive alla pratica
+  Numero Rate Orig.  : 60 Importo Rata Orig. :      241,27
+  Classe Scivolamento:   
+  Versione           : V1 ",9.0,CHI,INL,,,,,,,,,1,117.4,0.0,9.0,0.0,0.0,126.4,3867.61,117.4,0.0,0.0,0.0,117.4,CP,POSITIVA (+),209,102,102 - MELLONE CARMELA ,102,2020-01-03,2020-01-31,1831971.0,1828423.0,2020-02-07 14:18:44.838,94,0.0,Nessun Processo Temporale,150.0,VP - VP,,,117.4,,2,Esattore INTERNO,PIEMONTE,,,,,,,,,,,102,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VP,ESAP-CDL del  07/01/2020,f,,438903,507200,VP,,6.0,Credit Recovery Lab interno,1.0,Tutti,PRATICA CHIUSA,f,,t,f,,,,,,,,"083397476860,3397476860",t,f,,,
+8061763,10,FID,FIDITALIA S.P.A.,177,FID - 2A ,2018-09-04,2018-09-29,0010273036700580,ZFFNLN72M14I744A,ZAFFINO NICOLA ANTONIO,1972-08-14 00:00:00,SIMBARIO,VIA MUNI 36,88060,TORRE DI RUGGIERO,CZ,Telefono principale,,,,,,TECHNOLOGY & SERVICES SPA dal 2014,,,,,,,,B1,"Notifica per D""AGUI PIETRO (68): Pratica N.0010273036700580 di ZAFFINO NICOLA ANTONIO per FIDITALIA S.P.A. trans bb da sistema","28 09 Il cliente versa euro 251,50 ","ESTRATTO CONTO posizione N. 10273036700580
+
+----------------------------------------------------------------------------
+ Lotto affidamento n..: 820
+ Organizzazione.......: 1
+ Tipo Prodotto........: 27
+ Tipo Servizio........: 2A
+ SETTORE_OPERATIVO....: B1
+ Codice ID Cliente....: 10000011516681
+----------------------------------------------------------------------------
+
+ Banca................: 
+ Agenzia..............: 
+ Localit….............: 
+ Numero Conto.........: 
+ IBAN.................: 
+ Intestatario C/C.....: 
+
+        -------- Altri Telefoni -------
+    Numero DT Acquisiz. Ult.Contatto   Tipo
+3408370511   2017-04-27                cellulare
+
+ -----  D A T I    C O N T R A T T O  ----
+  SETTORE_MERCEOLOGICO....: 250
+  SALDO_GESTIONALE........: 5470,66
+  SALDO_INIZIALE..........: 5470,66
+  IN_RIFINANZIAMENTO......: N
+  DATA_APERTURA...........: 2017-04-26 00:00:00
+  IMPORTO_FINANZIATO......:    8.081,00
+  TAN.....................: 7.5359999999999996
+  TAEG....................: 10.208
+  CONVENZIONATO...........: AUTOCURTI SRL
+  DATA_ULTIMO_PAGAMENTO...: 2018-08-16 00:00:00
+  IMPORTO_ULTIMO_REVOLVING:      251,50
+  PRESTITO_PERSONALE......: N
+  PROTESTI................: N
+  CONSOLIDATION...........: N
+  RATAUP..................:      251,50
+  RATAUC..................:        0,00
+  RATAGLOBALE.............:      251,50
+  ASSICURAZIONE...........: Attiva
+  ASSICURAZIONE_LINEARE...: Non attiva/Non esiste
+  MODALITA_PAGAMENTO......: Bollettino
+  
+  DATA_ULTIMO_CICLO.......: 2018-08-13 00:00:00
+  DATA_PROSSIMO_CICLO.....: 2018-09-13 00:00:00
+  DATA_ULTIMA_SCADENZA....: 2018-08-28 00:00:00
+  DATA_PROSSIMA_SCADENZA..: 2018-09-28 00:00:00
+
+  --------    Dati Bene   -------
+ Numero utilizzo  : 1
+ Progressivo      : 0
+ Tipo             : 
+ Descrizione      : PEUGEOT 3008
+ Marca veicolo    : PEUGEOT AUTO
+ Stato veicolo    : USATO
+ Bene garanzia    : 
+ Liquidato        : 7500,00
+ Commissione      : 300,00
+ Totale           : 7780,80
+ Data utilizzo    : 2017-04-26
+
+
+ ----  D A T I    D I    A F F I D A M E N T O  ----
+  DATA_INIZIO.............: 2018-09-04 00:00:00
+  DATA_FINE...............: 2018-09-30 00:00:00
+  DOVUTO..................:      757,70
+  CAPITALE................:      757,70
+  INTERESSI_MORA..........:        0,00
+  SPESE_RECUPERO..........:      113,66
+  OBIETTIVO...............:      871,36
+  RIUTILIZZI..............: N
+  SETTORE_OPERATIVO.......: B1
+  
+  CYCLE_DUE...............: 4
+  IMPORTO_RATA............:   25.450,00
+  MODALITA_PAGAMENTO_AFF..: Bollettino
+  FLAG_RIAFFIDO...........: S
+  SCADUTO_UNDER_30_GG.....:      251,50
+  SCADUTO_30_GG...........:      251,50
+  SCADUTO_60_GG...........:      254,70
+  SCADUTO_90_GG...........:        0,00
+  SCADUTO_120_GG..........:        0,00
+  SCADUTO_150_GG..........:        0,00
+  SCADUTO_180_GG..........:        0,00
+  SCADUTO_210_GG..........:        0,00
+  SPESE_UNDER_30_GG.......:       37,72
+  SPESE_30_GG.............:       37,72
+  SPESE_60_GG.............:       38,20
+  SPESE_90_GG.............:        0,00
+  SPESE_120_GG............:        0,00
+  SPESE_150_GG............:        0,00
+  SPESE_180_GG............:        0,00
+  SPESE_210_GG............:        0,00
+  
+
+
+
+  --------    Utilizzi    -------
+ ID                    : 1
+ Data apertura         : 2017-04-26
+ Stato up              : Attivo
+ Importo finanziato    : 8080,80
+ Numero rate           : 36
+ Numero rate scadute   : 16
+ Importo erogato       : 7500,00
+ Commissione           : 300,00
+ Importo assicurazione : 280,80
+ Tipo                  : UP
+
+  ----------------------- Movimenti di Estratto Conto -----------------------
+  DT Reg.    DT Valuta       Causale     DIV.       Dare       Avere   Descrizione Causale
+2018-08-16   2018-08-13            0     EUR        0,00      251,50   ACCREDITO SCT ESTERNO                
+2018-08-13   2018-08-13            0     EUR     1009,20        0,00   SALDO E/C              5.722,16      
+2018-08-13   2018-08-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/08/18
+2018-07-16   2018-07-13            0     EUR        0,00      251,50   ACCREDITO SCT ESTERNO                
+2018-07-15   2018-07-15            0     EUR     1009,20        0,00   SALDO E/C              5.942,68      
+2018-07-13   2018-07-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/07/18
+2018-06-13   2018-06-13            0     EUR      757,70        0,00   SALDO E/C              5.910,32      
+2018-06-13   2018-06-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/06/18
+2018-05-13   2018-05-13            0     EUR      506,20        0,00   SALDO E/C              5.876,59      
+2018-05-11   2018-05-11            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/05/18
+2018-04-16   2018-04-13            0     EUR        0,00      254,50   RIMBORSO POSTALE DEL         10/04/18
+2018-04-16   2018-04-16            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2018-04-15   2018-04-15            0     EUR      506,20        0,00   SALDO E/C              6.093,00      
+2018-04-13   2018-04-16            0     EUR        1,20        0,00   SPESE ACCESSORIE (E/C UP)            
+2018-04-13   2018-04-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/04/18
+2018-04-13   2018-04-13            0     EUR        2,00        0,00   SPESE ACCESSORIE E/C UP  (BOLLO)     
+2018-03-13   2018-03-13            0     EUR      251,50        0,00   SALDO E/C              6.053,36      
+2018-03-13   2018-03-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/03/18
+2018-03-12   2018-03-10            0     EUR        0,00      254,50   RIMBORSO POSTALE DEL         07/03/18
+2018-03-12   2018-03-12            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2018-02-14   2018-02-14            0     EUR        0,00      254,50   RIMBORSO POSTALE DEL         12/02/18
+2018-02-14   2018-02-14            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2018-02-13   2018-02-13            0     EUR      503,00        0,00   SALDO E/C              6.518,58      
+2018-02-13   2018-02-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/02/18
+2018-01-14   2018-01-14            0     EUR      251,50        0,00   SALDO E/C              6.479,47      
+2018-01-12   2018-01-12            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/01/18
+2018-01-11   2018-01-11            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2018-01-11   2018-01-11            0     EUR        0,00      254,50   RIMBORSO POSTALE DEL         08/01/18
+2017-12-13   2017-12-13            0     EUR      251,50        0,00   SALDO E/C              6.690,53      
+2017-12-13   2017-12-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/12/17
+2017-12-05   2017-12-04            0     EUR        0,00      254,50   RIMBORSO POSTALE DEL         01/12/17
+2017-12-05   2017-12-05            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2017-11-13   2017-11-13            0     EUR      251,50        0,00   SALDO E/C              6.900,28      
+2017-11-13   2017-11-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/11/17
+2017-11-06   2017-11-05            0     EUR        0,00      254,50   RIMBORSO POSTALE DEL         02/11/17
+2017-11-06   2017-11-06            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2017-10-15   2017-10-15            0     EUR      251,50        0,00   SALDO E/C              7.108,72      
+2017-10-13   2017-10-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/10/17
+2017-10-02   2017-10-01            0     EUR        0,00      254,50   RIMBORSO POSTALE DEL         28/09/17
+2017-10-02   2017-10-02            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2017-09-13   2017-09-13            0     EUR      251,50        0,00   SALDO E/C              7.315,86      
+2017-09-13   2017-09-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/09/17
+2017-09-04   2017-09-02            0     EUR        0,00      254,50   RIMBORSO POSTALE DEL         30/08/17
+2017-09-04   2017-09-04            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2017-08-13   2017-08-13            0     EUR      251,50        0,00   SALDO E/C              7.521,70      
+2017-08-11   2017-08-11            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/08/17
+2017-08-03   2017-08-03            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2017-08-03   2017-08-03            0     EUR        0,00      254,50   RIMBORSO POSTALE DEL         31/07/17
+2017-07-13   2017-07-13            0     EUR      251,50        0,00   SALDO E/C              7.726,26      
+2017-07-13   2017-07-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/07/17
+2017-07-03   2017-07-01            0     EUR        0,00      254,50   RIMBORSO POSTALE DEL         28/06/17
+2017-07-03   2017-07-03            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2017-06-13   2017-06-13            0     EUR      251,50        0,00   SALDO E/C              7.929,54      
+2017-06-13   2017-06-13            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/06/17
+2017-06-01   2017-06-01            0     EUR        3,00        0,00   SPESE ACCESSORIE INCASSO BOLLETTINI  
+2017-06-01   2017-06-01            0     EUR        0,00      270,50   RIMBORSO POSTALE DEL         29/05/17
+2017-05-14   2017-05-14            0     EUR      267,50        0,00   SALDO E/C              8.147,55      
+2017-05-12   2017-05-12            0     EUR      251,50        0,00   UT.PART. N.001      RATA DEL 28/05/17
+2017-04-26   2017-04-26            0     EUR      300,00        0,00   UT.PART. N.001 COMMISSIONE   26/04/17
+2017-04-26   2017-04-26            0     EUR     7500,00        0,00   UTILIZZO N.001 PARTICOLARE   26/04/17
+2017-04-26   2017-04-26            0     EUR       16,00        0,00   RIVALSA BOLLO SU CONTRATTO           ",5.0,CHI,INL,,2017-04-26,,,,,,,1,757.7,0.0,113.66,0.0,0.0,871.36,5470.66,251.5,0.0,0.0,0.0,251.5,CP,POSITIVA (+),317,68,68 - D'AGUI PIETRO,68,2018-09-17,2018-09-29,1832066.0,1832065.0,2019-11-08 16:11:33.948,MAR,0.0,Nessun Processo Temporale,,,,,757.7,2018-09-28 00:00:00,3,Esattore ESTERNO,CALABRIA,,,,,,,,,,,156,,,,2A,,,,,,,,,,,,,,,,,,,,,,,,,,101,056,820 05/09/2018,t,0016,10000011516681,,,,2.0,Regione Puglia,1.0,Tutti,PRATICA CHIUSA,f,,t,t,,,,,,,,3408370511,t,f,,,
+3615777,28,BIF,BANCA IFIS S.P.A.,113,IFI - BANCA IFIS CONTENZIOSO,2017-07-26,2017-10-24,40027002,TRTNGL60M22E932B,TARTAGLIONE ANGELO,,,VIA GUGLIELMO PEPE 4,81025,MARCIANISE,CE,,,3338811089,,,3409376070,,,,,,,,,AR,"Il cliente ha dichiarato di essere impossibilitato al saldo della debitoria, in quanto verte in gravi difficoltà economiche. Vani i tentativi di concordare un piano di rientro a risoluzione dell'insoluto.
+","Il cliente ha dichiarato di essere impossibilitato al saldo della debitoria, in quanto verte in gravi difficoltà economiche. Vani i tentativi di concordare un piano di rientro a risoluzione dell'insoluto.
+","
+
+RIGO                                     = 24947
+COMMESSA                                 = 3221
+CEDENTE                                  = SPV PROJECT 130
+TELEFONO3                                = '
+ALTRO RECAPITO 1                         = '
+ALTRO RECAPITO 2                         = '
+DATA INVIO NOTIFICA DEBITORE             = 02/10/2015
+DATA RICEZIONE NOTIFICA DEBITORE         = 06/10/2015
+ESITO NOTIFICA DEBITORE                  = Compiuta giacenza
+CAPITALEDATACESSIONE                     = 611,62
+INTERESSIDATACESSIONE                    = 348,13
+VNOMINALEDATACESSIONE                    = 1278,87
+ACCONTI                                  = 0
+INTERESSISUAFFID                         = 48,59
+AFFIDATO                                 = 1327,46
+FASCIA                                   = G
+RATING                                   = C
+TIPO AFFIDAMENTO                         = H
+DATA ULTIMA RICERCA ANAGRAFICA           = 25/01/2017
+DATA CONTRATTO                           = 19/11/2007
+DATA DBT                                 = 29/04/2009
+FORMA TECNICA                            = 59 - CARTE DI CREDITO: UTILIZZO - REVOLVING",,CHI,,,,,,,,1.0,,1,1327.46,0.0,0.0,0.0,0.0,1327.46,0.0,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),545,720,720 - DANILO VISCIANO ,720,,2017-10-24,1622588.0,1622587.0,2017-12-28 09:47:44.797,AR,0.0,Nessun Processo Temporale,153.0,404 - NEGATIVA-DIFFICOLTA ECONOMICHE,,,1327.46,2017-09-14 00:00:00,2,Esattore INTERNO,CAMPANIA,,,,,,,,,IFI - OUT - 3221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37539,f,,,,404,,5.0,Credit Recovery Lab esterno,2.0,Alessandria,PRATICA CHIUSA,t,,t,t,,,,,,,,"3338811089,3409376070",t,f,,,
+2688119,10,FID,FIDITALIA S.P.A.,9,FID - 3B,2015-04-07,2015-05-06,0013013030573470,TTVMRP59T69F839H,OTTAVIO MARIAPIA,1959-12-29 00:00:00,NAPOLI,"VIA SPAZZILLI, 23",80014,GIUGLIANO IN CAMPANI,,,,0817216510,,,3339931001,,,,,,,,,MC,"Il nostro funzionario lascia diversi messaggi ma non sortiscono effetto, vani anche i tentativi di contatto telefonico.
+
+indirizzo ok - cliente assente al domicilio","Il nostro funzionario lascia diversi messaggi ma non sortiscono effetto, vani anche i tentativi di contatto telefonico.
+
+indirizzo ok - cliente assente al domicilio","----------------------------------------------------------------------
+CLIENTE
+	                          NOME = OTTAVIO MARIAPIA
+	                CODICE_FISCALE = TTVMRP59T69F839H
+	                  DATA_NASCITA = 1959-12-29
+	                 LUOGO_NASCITA = NAPOLI
+	             PROVINCIA_NASCITA = NA
+	            ANNO_INIZIO_LAVORO = 2000
+	                     RESIDENZA = VIA SPAZZILLI, 23 GIUGLIANO IN CAMPANI 80014 NA 0817216510
+	                     DOMICILIO = VIA SPAZZILLI, 23 GIUGLIANO IN CAMPANI 80014 NA
+	                ALTRI_TELEFONI = 0817216510 abitazione 2014-06-25 3339931001 cellulare 2014-06-25
+----------------------------------------------------------------------
+DATI_CONTRATTO
+	          SETTORE_MERCEOLOGICO = 600
+	                SALDO_INIZIALE = 961,33
+	              SALDO_GESTIONALE = 961,33
+	            IN_RIFINANZIAMENTO = false
+	                 CONVENZIONATO = PINCAL SRL
+	                 DATA_APERTURA = 2014-06-24
+	            IMPORTO_FINANZIATO = 1069
+	                           TAN = 6,136
+	                          TAEG = 5,832
+	         DATA_ULTIMO_PAGAMENTO = 2014-12-22
+	      IMPORTO_ULTIMO_REVOLVING = 47,86
+	            PRESTITO_PERSONALE = false
+	                      PROTESTI = false
+	                 CONSOLIDATION = false
+	                        RATAUP = 47,86
+	                        RATAUC = 0
+	                   RATAGLOBALE = 47,86
+	                 ASSICURAZIONE = Nessuna Polizza
+	         ASSICURAZIONE_LINEARE = Non attiva/Non esiste
+	            MODALITA_PAGAMENTO = Bollettino
+	 DATI_BENE
+		BENE
+			               NUMERO_UTILIZZO = 1
+			                   PROGRESSIVO = 0
+			                          TIPO = 
+			                   DESCRIZIONE = DIVANO
+			                 MARCA_VEICOLO = 
+			                 STATO_VEICOLO = 
+			                 BENE_GARANZIA = 
+			                     LIQUIDATO = 1068,00
+			                   COMMISSIONE = 0,00
+			                        TOTALE = 1068,00
+			                 DATA_UTILIZZO = 2014-06-24
+	 UTILIZZI
+		UTILIZZO
+			                            ID = 1
+			                 DATA_APERTURA = 2014-06-24
+			                      STATO_UP = Attivo
+			            IMPORTO_FINANZIATO = 1068,00
+			                   NUMERO_RATE = 24
+			           NUMERO_RATE_SCADUTE = 7
+			               IMPORTO_EROGATO = 1068,00
+			                   COMMISSIONE = 0,00
+			         IMPORTO_ASSICURAZIONE = 0,00
+			                          TIPO = UP
+	 ANAGRAFICHE
+----------------------------------------------------------------------
+AFFIDAMENTI
+	 ATTUALE
+		                   DATA_INIZIO = 2015-04-07
+		                     DATA_FINE = 2015-05-06
+		                      CAPITALE = 191,44
+		                        DOVUTO = 191,44
+		                INTERESSI_MORA = 0
+		                SPESE_RECUPERO = 35,03
+		                     OBIETTIVO = 226,47
+		                    RIUTILIZZI = false
+		             SETTORE_OPERATIVO = E3
+		                     CYCLE_DUE = 5
+		                  IMPORTO_RATA = 000000000004916
+		            MODALITA_PAGAMENTO = Bollettino
+		                 FLAG_RIAFFIDO = N
+		           SCADUTO_UNDER_30_GG = 47,86
+		                 SCADUTO_30_GG = 47,86
+		                 SCADUTO_60_GG = 47,86
+		                 SCADUTO_90_GG = 47,86
+		                SCADUTO_120_GG = 0
+		                SCADUTO_150_GG = 0
+		                SCADUTO_180_GG = 0
+		                SCADUTO_210_GG = 0
+		             SPESE_UNDER_30_GG = 8,75
+		                   SPESE_30_GG = 8,75
+		                   SPESE_60_GG = 8,75
+		                   SPESE_90_GG = 8,75
+		                  SPESE_120_GG = 0
+		                  SPESE_150_GG = 0
+		                  SPESE_180_GG = 0
+		                  SPESE_210_GG = 0
+----------------------------------------------------------------------
+ESTRATTO_CONTO
+	RIASSUNTO_PRECONTENZIOSO
+		                SALDO_CORRENTE = 191,44
+		           DATA_SALDO_CORRENTE = 2015-03-20
+		                 SALDO_SCADUTO = 191,44
+		                 SALDO_INF30GG = 47,86
+		                    SALDO_30GG = 47,86
+		                    SALDO_60GG = 47,86
+		                    SALDO_90GG = 47,86
+		                   SALDO_120GG = 0
+		                   SALDO_150GG = 0
+		                   SALDO_180GG = 0
+		                   SALDO_210GG = 0
+	MOVIMENTI
+		DATA REG   VALUTA     CAUSALE      DARE    AVERE CAUSALE ANALITICA              
+		22/03/2015 22/03/2015 0          191,44     0,00 SALDO E/C                961,33
+		20/03/2015 20/03/2015 0-00-50     47,86     0,00 UT.PART. N.001      RATA DEL 05/04/15
+		22/02/2015 22/02/2015 0          143,58     0,00 SALDO E/C                956,71
+		20/02/2015 20/02/2015 0-00-50     47,86     0,00 UT.PART. N.001      RATA DEL 08/03/15
+		21/01/2015 21/01/2015 0           95,72     0,00 SALDO E/C                951,87
+		21/01/2015 21/01/2015 0-00-50     47,86     0,00 UT.PART. N.001      RATA DEL 05/02/15
+		30/12/2014 22/12/2014 0-20-08      0,00    49,16 BONIFICO POSTALE DEL         22/12/14
+		30/12/2014 30/12/2014 0-14-26      1,30     0,00 SPESE ACCESSORIE INCASSO BOLLETTINI
+		21/12/2014 21/12/2014 0           95,72     0,00 SALDO E/C                994,67
+		19/12/2014 19/12/2014 0-00-50     47,86     0,00 UT.PART. N.001      RATA DEL 05/01/15
+		23/11/2014 23/11/2014 0           47,86     0,00 SALDO E/C                989,40
+		21/11/2014 21/11/2014 0-00-50     47,86     0,00 UT.PART. N.001      RATA DEL 06/12/14
+		19/11/2014 13/11/2014 0-20-08      0,00    49,16 BONIFICO POSTALE DEL         13/11/14
+		19/11/2014 19/11/2014 0-14-26      1,30     0,00 SPESE ACCESSORIE INCASSO BOLLETTINI
+		21/10/2014 21/10/2014 0           47,86     0,00 SALDO E/C              1.031,77
+		21/10/2014 21/10/2014 0-00-50     47,86     0,00 UT.PART. N.001      RATA DEL 05/11/14
+		15/10/2014 09/10/2014 0-20-08      0,00    65,16 BONIFICO POSTALE DEL         09/10/14
+		15/10/2014 15/10/2014 0-14-26      1,30     0,00 SPESE ACCESSORIE INCASSO BOLLETTINI
+		21/09/2014 21/09/2014 0           63,86     0,00 SALDO E/C              1.089,92
+		19/09/2014 19/09/2014 0-00-50     47,86     0,00 UT.PART. N.001      RATA DEL 06/10/14
+		21/08/2014 21/08/2014 0           16,00     0,00 SALDO E/C              1.084,00
+		21/07/2014 21/07/2014 0           16,00     0,00 SALDO E/C              1.084,00
+		24/06/2014 24/06/2014 0-30-30   1068,00     0,00 UTILIZZO N.001 PARTICOLARE   24/06/14
+		24/06/2014 24/06/2014 0-60-05     16,00     0,00 RIVALSA BOLLO SU CONTRATTO
+----------------------------------------------------------------------",,CHI,,,,,,,,1.0,,1,191.44,0.0,35.03,0.0,0.0,226.47,961.0,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),542,718,718 - FASCIGLIONE DAVIDE ,718,2015-04-28,2015-05-06,758.0,4366.0,2017-12-06 13:19:22,admin,0.0,Nessun Processo Temporale,29.0,14 - DEBITORE ASSENTE SI CONFERMANO DATI DOMICILIO,259.0,F2 - INDIRIZZO OK - CLIENTE ASSENTE AL DOMICILIO,191.44,2015-05-06 00:00:00,2,Esattore INTERNO,CAMPANIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,113,,31624,f,0016,,,14,F2,6.0,Credit Recovery Lab interno,2.0,Alessandria,PRATICA CHIUSA,t,,t,t,,,,,,,,"0817216510,3339931001",t,f,,,
+8280556,4,CPS,COMPASS BANCA SPA,197,C0T - 1 RT SCAD. 30,2020-01-08,2020-01-31,000016089683,CGTFNC61S21H501Y,CAGETTI FRANCESCO,1961-11-21 00:00:00,ROMA,VIA MARIO RIDOLFI 36,163,ROMA,RM,Telefono Abitazione,,06 66144880,Cellulare,,347 2240561,ILARDI ERNESTO - VIA TARO 35 100 ROMA (RM),06 8558498,,,,,,,527,chiesto ss,"Il cliente versa euro 1.007,80","Estratto Conto per la pratica num. 16089683 alla data 08/01/2020
+
+  Convenzionato (141264) PLURI CARS SRL
+  
+  Prodotto           : (PA) Prestiti Auto 
+  Bene Finanziato    : (AUU) - 500L -  500L 1.3 Multijet 85 C
+  Modello            : 500L Cilindrata: 1248 
+  Immatr. (Anno/Mese): 2013/3 Targa: ER552GX
+
+********************************************************************************  
+  Importo Finanziato :   14.500,00 in data 22/04/2016
+           Num. Rate : 60 di cui pagate 40 e scadute 1
+  Importo Rata Media :      307,80
+          Prima Rata : 30/05/2016
+         Ultima Rata : 30/07/2021
+  Ultima rata pagata : 30/11/2019
+
+   Numero Rapportino : 23067
+       Score Pratica : 0 Rata Variabile : 
+   Filiale           : 218
+   Filiale Operativa : 527
+                 ABI : 7601 CAB : 3200 CC : 000073977324 CIN : I
+               Banca : POSTE ITALIANE SPA
+             Agenzia : POSTE CENTROVIALE EUROPA, 175ROMA00100
+         Accodamento : No
+    Fascia Operativa : 
+********************************************************************************
+
+ Numero rate Scadute :           1
+    Imp.Rate Scadute :      307,80
+       Insoluto Mora :        0,00
+    Spese Accessorie :        2,56
+      Spese Recupero :    1.897,81
+        Importo Rata :      306,30
+
+  Ultimi Pagamenti Pervenuti
+  Rata   Dovuta        Pagata           Importo Mod.Pag.
+  ------------------------------------------------------
+  0043   30/11/2019    16/12/2019        307,80       BP
+  0042   30/10/2019    18/11/2019        307,80       BP
+  0041   30/09/2019    22/10/2019        307,80       BP
+
+  Ultimi Pagamenti NON Pervenuti
+  Rata   Dovuta           Importo
+  -------------------------------
+  0044   30/12/2019        307,80
+  
+
+  Pagamenti in Accodamento
+  Rata   Dovuta           Importo
+  -------------------------------
+  0004   30/05/2021        307,80
+  0025   30/06/2021        376,61
+  0033   30/07/2021        367,32
+  
+********************************************************************************
+
+
+  
+Informazioni aggiuntive
+  Causale Ins.  : 
+  
+  Storico Insolvenze : 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001
+  Cod.Anagrafico Cliente     [10919923]
+  
+STORICO NOTE:
+   29/10/2018PAGAMENTO GIÀ CONTABILIZZATO O IN TRANSITO 24/10/2018PAGAMENTO GIÀ CONTABILIZZATO O IN TRANSITO 19/10/2018PAGAMENTO GIÀ CONTABILIZZATO O IN TRANSITO 16/10/2018PAGAMENTO GIÀ CONTABILIZZATO O IN TRANSITO 12/10/2018PAGAMENTO GIÀ CONTABILIZZATO O IN TRANSITO 09/10/2018 IL CLIENTE PROMETTE IL PAGAMENTO DI EURO 407,8 PER IL 28/10/2018 CON MODAL",10.0,CHI,INL,POSTE ITALIANE SPA,2016-05-30,2021-07-30,,,,,,1,307.8,0.0,700.0,0.0,0.0,1007.8,6286.89,307.8,0.0,700.0,0.0,1007.8,CP,POSITIVA (+),228,134,134 - BELLASTELLA LUCIA ,134,2020-01-08,2020-01-31,1805283.0,1805282.0,2020-01-31 17:07:01.92,DAN,0.0,Nessun Processo Temporale,102.0,C - POSITIVA,1454.0,521 - positiva,307.8,,5,PHONE COLLECTION,LAZIO,,,,,,,,,,,134,,,,CNG35,,,,,,,,,,,,,,,,,,,,,,,,,,,201,187177 08/01/2020,t,CNG,10919923,16089683,C,521,13.0,Gruppo Compass,1.0,Tutti,PRATICA CHIUSA,f,CUCNG001,t,f,,,,,,1454.0,,"0666144880,068558498,3472240561",t,f,,,
+8457685,8,FGA,FCA BANK,101,SP - 210,2020-12-10,2021-01-02,5028430,CRCMRT76L41H224Q,CRIACO MARTA,1976-07-01 00:00:00,REGGIO CALABRIA RC,VIA VALLONE CROCE S.CRIST 19P1,89100,REGGIO CALABRIA,RC,,,,,,,,,,,,,,,,"VERIFICATA PROVVIGIONABILE
+VP
+",,"Posizione: 5028430
+Data_Contratto: 23/09/2016
+Debitore: CRIACO MARTA
+Data_Affido: 10/12/2020
+Data_Prev_Chius: 10/12/2020
+Intestatario: CRIACO MARTA
+Indirizzo: VIA VALLONE CROCE S.CRIST 19P1
+Cap: 89100
+Citta: REGGIO CALABRIA
+Provincia: RC
+Data_Nascita: 01/07/1976
+Luogo_Nascita: REGGIO CALABRIA RC
+CF_PIva: CRCMRT76L41H224Q
+Telefono1: 
+Telefono2: 
+Saldo_Contabile: 0
+Mora: 0.64000000000000001332267629550187848508358001708984375
+Spese_Recupero: 0
+Totale_Credito: 0.64000000000000001332267629550187848508358001708984375
+Rate_Scadenti: 0
+Fascia_Corrente: Aging
+Memo:",9.0,INL,STP,,2021-01-04,,,,,0.0,,1,232.0,0.64,0.0,0.0,232.0,464.64,0.64,232.0,0.0,0.0,0.0,232.0,A,AFFIDATA,224,121,121 - ORNELLA DE FRANCESCO ,121,2020-12-10,2021-01-02,1832900.0,1832112.0,2021-01-04 14:03:41.172,NAD,0.0,Nessun Processo Temporale,150.0,VP - VP,,,0.0,,2,Esattore INTERNO,CALABRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VP,,f,,,,VP,,6.0,Credit Recovery Lab interno,1.0,Tutti,PRATICA IN LAVORAZIONE,f,,t,f,,,,,,,,"3479197936,3920021447",t,f,,,
+8554504,28,BIF,BANCA IFIS S.P.A.,262,BIF - RIATTIVAZIONI 3 INS,2021-09-01,2021-09-30,0343600556,RIOGNN54E29F839H,IORIO GIOVANNI,1954-05-29 00:00:00,,STR. PROV. PIANURA 7,80078,POZZUOLI,,,,,,,,,,,,,,,,,"rettifico  memo   PROMETTE DI PAGARE
+",,"TIPO_ANAGRAFICA: PF
+TIPO: DEBITORE
+nominativo: IORIO GIOVANNI
+NDG: 9639378
+ ----------------------------------------------------------------------
+ ---------- INFO AGGIUNTIVE DA AGGIORNAMENTO CAMPI EXTRA --------------
+ --------------------- (01/09/2021 16:13:05) --------------------------
+CEDENTE: FLORENCE SPV S.R.L.
+CONTRATTO: 20108925091713
+GESTIONE: CC - Business
+SOCIETA: GESTIONE CALL CENTER
+PRIMA_SCADENZA: 16/03/2020
+ULTIMA_SCADENZA: 16/06/2028
+ULTIMO_PAGAMENTO: 30/08/2021
+NR_INSOLUTI: 3
+
+
+ ----------------------------------------------------------------------
+ ---------- INFO AGGIUNTIVE DA AGGIORNAMENTO ANAGRAFICHE --------------
+ --------------------- (03/09/2021 09:30:16) --------------------------
+ MC: 0343600556
+NDG: 9639378
+nominativo: IORIO GIOVANNI
+DATA_NASCITA: 29/05/1954
+cod_fisc: RIOGNN54E29F839H
+TIPO_ANAGRAFICA: PF
+TIPO: DEBITORE
+INDIRIZZO: STR. PROV. PIANURA 7
+LOCALITA: POZZUOLI
+CAP: 80078
+PROVINCIA: NA",5.0,CHI,INL,Tracciati_riattivazioni_Consulgest_01_12_214529905,2021-09-30,,,,,0.0,,8,400.0,0.0,0.0,0.0,0.0,400.0,400.0,50.0,0.0,0.0,0.0,50.0,CP,POSITIVA (+),238,149,149 - FRANCA D'ERRICO ,149,2021-09-01,2021-09-30,1835356.0,1835355.0,2021-12-02 09:31:26.295572,725,,,109.0,201 - PROMETTE DI PAGARE,1552.0,APPU - APPUNTAMENTO,50.0,2021-09-28 00:00:00,2,Esattore INTERNO,CAMPANIA,,,,,,,,,,,,,1,,,,,,,,,,PAG,,20108925091713,,,,,,,,,,,,0343600556,,,,,201,,t,,9639378,9639378,201,APPU,6.0,Credit Recovery Lab interno,1.0,Tutti,PRATICA CHIUSA,f,,t,t,,,,,,,,3402159998,t,f,,,
+3446065,4,CPS,COMPASS BANCA SPA,89,C0R - PRIMA RATA - TEL,2017-03-08,2017-03-31,000010446630,LMBPPN67D07B532L,LOMBARDO PEPPINO,1967-04-07 00:00:00,CAMPOFELICE DI ROCCELLA,VIA BELGIO 2,90010,CAMPOFELICE ROCCELLA,PA,,,,,,3472507148,OFFICINA MECCANICA VIA PAOLO RUSSO 11/B CAMPOFELICE DI ROCCELLA,,,VECCHIO CONCETTA,VIA BELGIO 2,CAMPOFELICE ROCCELLA,90010,,,Il cliente versa euro 168.00,Il cliente versa euro 168.00,"
+Tipo Prodotto         = PP
+Desc.Tipo Prodotto    = Prestiti Personali            
+Bene Finanziato       = RIM
+Descrizione del bene  =                               
+Modello Auto          =                               
+mmaaaa Immatricolaz.  = 000000
+Cilindrata            = 0000
+Targa Auto            =         
+Telaio Auto           =                     
+Rag.Soc.Convenzionato = COMPASS BANCA SPA             
+Codice  Convenzionato = 000000012
+Garanzie              =                               
+Rate Finanziamento    = 0072
+Importo Rata          = 166,29
+Data Liquidazione     = 19/12/2011
+Data Inizio Rimborso  = 15/01/2012
+Data Fine Rimborso    = 30/01/2018
+Data Ult.Rata Pag.    = 30/01/2017
+Rate Pag. ad Oggi     = 0060
+Score Compor.         = 0000
+Filiale       = 158
+Filiale Oper. = 582
+       ABI:00000
+Descr. ABI:                                                                                
+       CAB:00000
+Descr. CAB:00000                                   
+        CC:            
+       CIN: 
+  C_ANACLI:004530440
+  C_ANACOO:004531637
+ C_GARANTE:000000000
+C_GARANTE2:000000000
+
+RATA MEDIA:166,29
+
+Indirizzo Alt.:                              
+ Telefono Alt.:               
+Controparte R.:                                                            
+Cod.Caus.Ins. :      Des.Caus.Ins. :                              
+ Accodamento:N
+ Fascia Operativa:X1
+
+Rag.Soc. Garan:                                                            
+Indirizz.Garan:                              
+Località Garan:                               Pr:   Cap:00000
+Data Nas.Garan:00000000 Loc. Nas.Garan:                              
+Cod.Fisc.Garan:                
+Telefono Garan:               Tel2:                Cell:               
+Dat. Lav.Garan:                              
+Ind.Da.L.Garan:                              
+Loc.Da.L.Garan:                              Pr.:   Cap:00000
+Tel.Da.L.Garan:               
+ Ult.Mod.Indirizzo:20090406
+     Mod.Indirizzo:VIA BELGIO 2                        CAMPOFELICE DI ROCCELLA    PA90010
+Penu.Mod.Indirizzo:00000000
+     Mod.Indirizzo:                                              00000
+ Data Ult.Pagamento:20170228 170 Scad.20170130 Rata 061
+ Data Pen.Pagamento:20170126 170 Scad.20161230 Rata 060
+ Data Ter.Pagamento:20161227 170 Scad.20161130 Rata 059
+ Storico Insolvenze:001001001001001001001001001001001001
+      NOTE:24/02/2017PROMESSA DI PAGAMENTO IN FILIALE ENTRO SCADENZA 21/02/2017PROMESSA DI PAGAMENTO IN FILIALE ENTRO SETTIMANA CORRENTE 17/02/2017PROMESSA DI PAGAMENTO IN FILIALE IL 18 13/02/2017CLIENTE NON RISPONDE AI NUMERI LASCIATI IN PRATICA, SI EFFETTUANO ULTERIORI13/02/2017 RICERCHE 30/01/2017PAGAMENTO EFFETTUATO
+Franchigia Azz:0
+         C_FLAGCQS:              C_FLAGPAG:CO-CO-CO
+",,CHI,,,,,,,,1.0,,1,166.29,0.0,328.43,0.0,0.0,494.72,2038.0,166.29,0.0,1.71,0.0,168.0,CP,POSITIVA (+),235,145,145 - CALIN DANIEL ,145,2017-03-30,,419.0,418.0,2019-02-04 22:01:24,admin,0.0,Nessun Processo Temporale,150.0,VP - VP,,,166.29,,5,PHONE COLLECTION,SICILIA,158,,0000,,0158039,,CM,,C0R - TEL - 582,,,,0,,CNG23,,,,,,,,,,,,,,,,,,,,,,,,,,100,,158039,f,CNG,,3,VP,,1.0,Regione Campania,1.0,Tutti,PRATICA CHIUSA,f,CUCNG001,t,f,,,,,,,,"010921600175,053472507148,070921600175,080921600175,0921600175,3290956939,3472507148",t,f,,,
+3651680,1,AGOS,AGOS DUCATO SPA,212,PHSP-AGS,2017-10-03,2017-11-30,52922328,RTRCTN81C31Z112T,RITROVATO COSTANZO,1981-03-31 00:00:00,GERMANIA,PIAZZA EUROPA 104,71013,SAN GIOVANNI ROTONDO,FG,,,,,,03665472769,FONDAZIONE S. PIO DA P.LE SANTA MARIA DELLE GRAZIE SAN GIOVANNI ROTONDO,0882417327,,,,,,,,Il cliente non ha mai risposto ai recapiti forniti effettuati solleciti in diverse fasce orarie,Il cliente non ha mai risposto ai recapiti forniti effettuati solleciti in diverse fasce orarie,"Estratto conto al 04/10/2017                              Contratto         52922328
+
+Convenzionato : MANFREDONIA ELETTROS     
+
+Prodotto   :PRESTITI FINALI
+Bene : TV/HI FI                                                    
+Rate       : 024           Importo Rata   :       0,00
+Montante   :     661,10    Residuo Debito :      99,64
+Prima Scad : 20/10/2015    Ultima Scad.   : 20/09/2017
+Rata Accod : 00/00/0000     Rate Accodate : 000
+Imp.Rate S.:      27,55     Altri Addebit.:      62,96
+I.M. Cont. :       0,00     I.M. Non Co.  :       9,13
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00
+Spese Esat.:      50,00
+Spese In Co:       0,00
+Spese Prec.:       0,00
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00 in affido  
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00 in affido  
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00 in affido  
+
+Ultimi pagamenti pervenuti (ultimi 6 mesi)
+
+Rata     Dovuta     Pagata          Importo
+19     20/04/2017     20/04/2017          27,55
+20     20/05/2017     29/05/2017          27,55
+21     20/06/2017     21/07/2017          27,55
+22     20/07/2017     28/08/2017          27,55
+23     20/08/2017     29/08/2017          27,55
+       
+
+Pagamenti NON pervenuti (ultimi 12 mesi)
+
+Rata     Dovuta         Importo          I.Mora
+24     20/09/2017          27,55           0,19
+
+ Firma Doppia=N
+
+        SITUAZIONE GENERALE
+        52922328      99,64      27,55 001      27,55 00000000 I
+
+ Num.Rate Orig = 000 Importo Rata Orig =       0,00",,CHI,,,,,,,,1.0,,1,27.55,9.13,62.96,0.0,0.0,99.64,91.0,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),249,161,161 - STELLA ANNA,161,2017-10-04,2017-11-30,1828426.0,1828425.0,2019-04-02 23:26:59,admin,0.0,Nessun Processo Temporale,88.0,030 - NON RISPONDE PRIMO,279.0,N - NEGATIVA,27.55,,5,PHONE COLLECTION,PUGLIA,,,,,,,,,AGS - CS - PHSP,,,,,,,,,,,,,,Il cliente non ha mai risposto ai recapiti forniti effettuati solleciti in diverse fasce orarie,,,,,,,,,,,,,,,,,,,,38021,f,5264,,,030,N,1.0,Regione Campania,1.0,Tutti,PRATICA CHIUSA,t,AGONDC8,t,f,,,,,,279.0,,"0882417327,3665472769",f,f,,,
+2642203,28,BIF,BANCA IFIS S.P.A.,113,IFI - BANCA IFIS CONTENZIOSO,2015-01-28,2015-04-30,90000066726,SLZNTN49R16D471R,SALZILLO ANTONIO,,,"VIA EDUARDO NICOLARDI, 159",80131,NAPOLI,,,,,,,3382232491,,,,,,,,,AB,"Sempre assente, il suo nome compare su campanello/buca della posta, lasciato messaggio, il deb non dà riscontro","Sempre assente, il suo nome compare su campanello/buca della posta, lasciato messaggio, il deb non dà riscontro","
+
+Rigo                                     = 12876
+Commessa                                 = EURO SERVICE GROUP
+ImportoDebito                            = 8293
+InteressiSuAffid                         = 128,87
+CELL1   = 338 2232491
+CECK    = NUMERO PRESENTE",,CHI,,,,,,,,1.0,,1,8421.87,0.0,0.0,0.0,0.0,8421.87,,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),547,721,721 - DOMENICO CASSESE ,721,2015-04-09,2015-04-29,1514138.0,1514137.0,2017-12-04 18:29:02,admin,0.0,Nessun Processo Temporale,139.0,010 - TELEFONO ERRATO-RICERCHE DA FARE,535.0,"SN - SEMPRE ASSENTE, IL SUO NOME COMPARE SU CAMPANELLO/BUCA DELLA POSTA, LASCIATO MESSAGGIO, IL DEB NON DÀ RISCONTRO",8421.87,2015-04-30 00:00:00,2,Esattore INTERNO,CAMPANIA,SN,,,,,,,,IFI - CO - 3140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31138,f,,,,010,SN,6.0,Credit Recovery Lab interno,2.0,Alessandria,PRATICA CHIUSA,t,,t,t,,,,,,,,"3333366892,3382232491",t,f,,,
+2644504,4,CPS,COMPASS BANCA SPA,20,CMP - CD3,2015-02-03,2015-02-28,000013272658,PGNGLG90R21F912E,PAGANO GIANLUIGI,1990-10-21 00:00:00,NOCERA INFERIORE,VIA PAPA GIOVANNI XXIII 87,84012,ANGRI,SA,,,0815134668,,,3935308117,GLOBALS BUSINESS SERVICES SRL VIA PONCHIELLI 10 BELLUSCO,0239259650,,,,,00000,,250,Il cliente versa euro 229.19,Il cliente versa euro 229.19,"
+Tipo Prodotto         = PA
+Desc.Tipo Prodotto    = Prestiti Auto                 
+Bene Finanziato       = MOT
+Descrizione del bene  = MONSTER 696 + -  MONSTER 696+ 
+Modello Auto          = Monster 696 +                 
+mmaaaa Immatricolaz.  = 052013
+Cilindrata            = 0696
+Targa Auto            = EA40737 
+Telaio Auto           =                     
+Rag.Soc.Convenzionato = DUECENTOVENTIDUE SRL          
+Codice  Convenzionato = 000263481
+Garanzie              =                               
+Rate Finanziamento    = 0036
+Importo Rata          = 229,19
+Data Liquidazione     = 07/01/2014
+Data Inizio Rimborso  = 30/01/2014
+Data Fine Rimborso    = 28/02/2017
+Data Ult.Rata Pag.    = 30/10/2014
+Rate Pag. ad Oggi     = 0010
+Score Compor.         = 0000
+Filiale       = 212
+Filiale Oper. = 508
+       ABI:01030
+Descr. ABI:BANCA MONTE DEI PASCHI DI SIENA S.P.A.                                          
+       CAB:76040
+Descr. CAB:VIA MURELLE, 21ANGRI84012               
+        CC:000001238742
+       CIN:J
+  C_ANACLI:012431164
+  C_ANACOO:000000000
+ C_GARANTE:000000000
+C_GARANTE2:000000000
+
+RATA MEDIA:229,19
+
+Indirizzo Alt.:CORSO MAGENTA 73              
+ Telefono Alt.:               
+Controparte R.:                                                            
+Cod.Caus.Ins. :      Des.Caus.Ins. :                              
+ Accodamento:Y
+ Fascia Operativa:X1
+
+Rag.Soc. Garan:                                                            
+Indirizz.Garan:                              
+Località Garan:                               Pr:   Cap:00000
+Data Nas.Garan:00000000 Loc. Nas.Garan:                              
+Cod.Fisc.Garan:                
+Telefono Garan:               Tel2:                Cell:               
+Dat. Lav.Garan:                              
+Ind.Da.L.Garan:                              
+Loc.Da.L.Garan:                              Pr.:   Cap:00000
+Tel.Da.L.Garan:               
+ Ult.Mod.Indirizzo:00000000
+     Mod.Indirizzo:                                              00000
+Penu.Mod.Indirizzo:00000000
+     Mod.Indirizzo:                                              00000
+ Data Ult.Pagamento:20150127 232 Scad.20141030 Rata 010
+ Data Pen.Pagamento:20141013 251,19 Scad.20140930 Rata 009
+ Data Ter.Pagamento:20140830 229,19 Scad.20140830 Rata 008
+ Storico Insolvenze:002003001001001000000000000000000000
+      NOTE:*NOTE AZIONE   CUCRS010   11/11/2014   13 21 PN   3935308117 RISP CL SPIEGO INSOLUTO   DICE KE EFF BB+E MAIL DOMANI 11/1 1   *NOTE AZIONE   CUCRS007   21/11/2014   12 57 PN   3935308117 RISP CL SPIEGO INSOLUTO   DICE KE EFF BB+E MAIL DOMANI 11/1 1   17/11 CL NR    LASC RECAPIT    19/11 CL NR   20/11 CL SPOST IL PAG AL 2
+Franchigia Azz:0
+         C_FLAGCQS:              C_FLAGPAG:CO-AL-NE
+",,CHI,,,,,,,,1.0,,2,458.38,0.0,185.49,0.0,0.0,643.87,5961.0,229.19,0.0,0.0,0.0,229.19,CP,POSITIVA (+),71,51,51 - NAPOLI CATELLO ,51,2015-02-28,2015-02-28,604.0,603.0,2017-11-01 23:39:37,admin,0.0,Nessun Processo Temporale,57.0,P - INCASSO PARZIALE,163.0,250 - PROMESSE DISATTESE,229.19,2015-02-28 00:00:00,3,Esattore ESTERNO,CAMPANIA,212,,0000,,0132703,,CM,,CMP - CD3 - 508,,,,0,,A2   ,,,,,,,,,,,,,,,,,,,,,,,,,,101,,132703,f,CNG,,,P,250,1.0,Regione Campania,1.0,Tutti,PRATICA CHIUSA,f,CUCNG001,t,t,,,,,,163.0,R3,"0239259650,0815134668,3935308117",t,f,,,
+2561509,8,FGA,FCA BANK,101,SP - 210,2014-09-05,2014-09-28,3925776,,CAPOFERRI ERICA,,,VIA CESARE BATTISTI 137,,ALBA ADRIATICA,TE,,,,,,,,,,,,,,,,,,,,CHI,,,,,,,,1.0,,1,236.93,0.68,11.88,0.0,0.0,249.49,2122.0,236.93,0.19,11.88,0.0,249.0,CP,POSITIVA (+),240,151,151 - CARMEN GENOVESE ,151,2014-09-08,2014-09-28,542.0,541.0,2017-11-01 23:39:37,admin,0.0,Nessun Processo Temporale,150.0,VP - VP,,,236.93,,2,Esattore INTERNO,ABRUZZO,,,,,,,,,SP - 210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30128,f,,,,VP,,6.0,Credit Recovery Lab interno,1.0,Tutti,PRATICA CHIUSA,f,,t,f,,,,,,,,,f,f,,,
+3500934,17,SAN,SANTANDER CONSUMER BANK,75,SAR - C2 ,2017-04-01,2017-04-28,13775481,GDCCSR66R19I253A,GIUDICE CESARE,,SANTA MARINA,PAPA GIOVANNI XXIII 3,42030,VEZZANO SUL CROSTOLO,RE,,,,,,3664613735,SGA AUTOTRASPORTI SRL,0522507090,,,,,0,,,La pratica non e' presente nel file di aggiornamento! verra' sospesa la lavorazione in attesa di verifica di storno dalla committente,,"LOTTO_ESTERNO      = 23266
+PROVENIENZA        = CO
+OPERATORE          = 68T
+CLASSIFICAZ        = 22
+TIPO_SCADENZA_MEMO = RV
+DATA_SCADENZA_MEMO = 20170323
+RECUPERATORE       = CO
+DATA_AFFIDAMENTO   = 20170401
+RCAZITIPAN         = P
+DT_NASCITA_CLIENTE = 19661019
+LUOGO_NASCI_CLIENTE= SANTA MARINA
+SESSO_CLIENTE      = M
+EMAIL_CLIENTE      = GIUDICECESARE@ALICE.IT
+RCAZITABCL         = IN AFFITTO
+COD_GARANTE        = 0
+DT_NASCITA_GARANTE = 0
+DT_NASCITA_GARANTE1= 0
+TIPO_PRODOTTO      = PA
+PRODOTTO           = 62
+FINANZIATO         = 1342825
+NUMERO_RATE        = 30
+IMPORTO_RATE       = 49200
+DATA_DECORRENZA    = 20160802
+PRIMA_SCADENZA     = 20160915
+ULTIMA_SCADENZA    = 20190215
+BENE               = D
+CONVENZIONATO      = PENTA MOTORS SRL
+TIPO_PAGAMENTO     = RI
+BANCA              = CREDITO EMILIANO  S.P.A.      QUATTRO CASTELLA - FRAZ. PUIAN
+ABI                = 3032
+CAB                = 66422
+STATO_MANDATO_SEPA = Attivo
+CAUSA_ULT_RID_SEPA = AG01
+RISCHIO_GLOBALE    = 1298436
+ALTRI_ADDEBITI     = 0
+MORA_ADDEBITATA    = 0
+MORA_CALCOLATA     = 8385
+MORA_INSERITA      = 8385
+CAPITALE_RESIDUO   = 1051436
+A_SCADERE          = 1138500
+NUM_RATE_INSOLUTE  = 5
+RATE_RESIDUE       = 23
+IMP_RATE_INSOLUTE  = 247000
+NUM_RATA_IN_SCAD   = 8
+DATA_RATA_IN_SCAD  = 20170415
+IMP_RATA_IN_SCAD   = 49500
+PERCENT_RATE_PAGATE= 6,666
+VALUTA_ULTIMO_PAGAM= 20170116
+NUM_ULTIMA_RATA_PAG= 2
+SCAD_ULT_RATA_PAGAM= 20161015
+ANZIANITA_BUCKET   = 137
+ANZIANITA_PRATICA  = 140
+SPESE_CALCOLATE    = 37125
+TAN                = 7,4
+TAEG               = 
+DATA_EVIDENZA      = 0
+RCAZIPREST         = 0
+TOT_ADDEBITATO     = 247000",,CHI,,,,,,,,1.0,,1,2470.0,83.85,371.25,0.0,0.0,2925.1,12984.0,0.0,0.0,0.0,0.0,0.0,SL,Sospesa Lavorazione,69,55,55 - PESTORINO ERNESTO ,55,,2017-04-28,4461.0,4460.0,2021-10-28 10:40:29.57,admin,0.0,Nessun Processo Temporale,113.0,RV - RV,597.0,VSC - VSC,2470.0,2017-04-18 00:00:00,2,Esattore INTERNO,EMILIA ROMAGNA,,,68T,,,,,,SAR - CS - C2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NPP,,36622,t,CONSULGEST,,,RV,VSC,1.0,Regione Campania,1.0,Tutti,PRATICA CHIUSA,f,EER8ACO024,t,t,,,,,,597.0,,"0522507090,3664613735",t,f,,,
+8043677,8,FGA,FCA BANK,103,SP - 230,2018-06-30,2018-07-23,4433679,,EURO TRASPORTI 2003 SOCI,,,STRADALE CRAVONE 83,,CATANIA,CT,,,,,,,,,,,,,,,,"VP
+",,"Pratica num.   : 4433679 di EURO TRASPORTI 2003 SOCI
+Rif. Lotto     : 209507
+Importo Rata   :      288,50
+Interessi      :        1,76
+Spese          :       26,12
+-----------------------------------
+Totale         :      316,38
+-----------------------------------
+Debito Residuo :    1.440,50
+",12.0,CHI,CHI,,,,,,,,,1,288.5,1.76,26.12,0.0,0.0,316.38,1440.5,288.5,1.76,26.12,0.0,316.38,CP,POSITIVA (+),246,158,158 - RICCIO NUNZIA ,158,2018-07-02,2018-07-23,1631067.0,1631066.0,2019-09-26 11:39:19.459,AR,0.0,Nessun Processo Temporale,150.0,VP - VP,,,288.5,,5,PHONE COLLECTION,SICILIA,,,,,,,,,,,158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,209507 02/07/2018,f,,,,VP,,10.0,Staff back office fonia,1.0,Tutti,PRATICA CHIUSA,f,,t,f,,,,,,,,,f,f,,,
+3571140,28,BIF,BANCA IFIS S.P.A.,171,BIF - PRE LEGAL,2017-05-22,2017-07-21,"4,30152051010465E+15",LSNMSM67R13H501G,LUSINI MASSIMO,,,VIA FANTAUZZO 5,60,MAZZANO ROMANO,RM,,,,,,3937101408,,,,,,,,,,Notifica per VITIELLO ALESSANDRO  (738): PR PROROGATA AL 20/8,Il cliente ha piu' volte disatteso l'impegno per valutare la definizione della propria posizione manifestando la mancanza di volonta' di chiudere la pratica. Ogni nostro sollecito e' risultato vano.,"DISOCCUPATO
+Si richiede proroga al fine di poter inserire eventuale proposta pratica
+
+N.Tel = LSNMSM67R13H501G
+N.Tel = '
+N.Tel = '
+N.Tel = 3937101408
+N.Tel = '3937101408
+N.Tel = '
+N.Tel = '
+N.Tel = '
+N.Tel = LSNMSM67R13H501G
+N.Tel = '
+N.Tel = '
+N.Tel = 3937101408
+N.Tel = '3937101408
+N.Tel = '
+N.Tel = '
+N.Tel = '
+
+N.Tel = LSNMSM67R13H501G
+N.Tel = '
+N.Tel = '
+N.Tel = 3937101408
+N.Tel = '3937101408
+N.Tel = '
+N.Tel = '
+N.Tel = '
+N.Tel = LSNMSM67R13H501G
+N.Tel = '
+N.Tel = '
+N.Tel = 3937101408
+N.Tel = '3937101408
+N.Tel = '
+N.Tel = '
+N.Tel = '
+
+
+RIGO                                     = 3525
+COMMESSA                                 = 3349
+CEDENTE                                  = RUBIDIO SPV
+TELEFONO3                                = '
+ALTRO RECAPITO 1                         = '
+ALTRO RECAPITO 2                         = '
+DATA INVIO NOTIFICA DEBITORE             = 19/04/2017
+CAPITALEDATACESSIONE                     = 4787,19
+INTERESSIDATACESSIONE                    = 0
+VNOMINALEDATACESSIONE                    = 4787,19
+ACCONTI                                  = 0
+INTERESSISUAFFID                         = 25,71
+AFFIDATO                                 = 4812,9
+FASCIA                                   = G
+TIPO AFFIDAMENTO                         = I",,CHI,,,,,,,,1.0,,1,4812.9,0.0,0.0,0.0,0.0,4812.9,0.0,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),586,738,738 - VITIELLO ALESSANDRO ,738,,2017-08-20,1514136.0,1514135.0,2017-07-12 15:41:52,AR,0.0,Nessun Processo Temporale,6.0,056 - APPUNTAMENTO TEL CON CL.,,,4812.9,2017-08-21 00:00:00,2,Esattore INTERNO,LAZIO,,,,,,,,,BIF - S - 3349,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DIS,,37022,f,,,3,056,,6.0,Credit Recovery Lab interno,,,PRATICA CHIUSA,t,,t,t,,,,,,,,3937101408,t,f,,,
+3349537,4,CPS,COMPASS BANCA SPA,100,C0H - TEL,2016-12-07,2016-12-31,000014284724,FRDFNC78H13G273J,FARDELLA FRANCESCO,1978-06-13 00:00:00,PALERMO,VIA CAPPUCCINI 339,90129,PALERMO,PA,,,0916518815,,,3206577328,CAMPANIA TRASPORTI S.R.L. VIA GIOVANNI AGNELLI N.2 PALERMO,0916604411,,SULEMAN SILVANA,VIA CAPPUCCINI 339,PALERMO,90129,0916518815,,Il cliente versa euro 550.00,Il cliente versa euro 550.00,"Tipo Prodotto         = PP
+Desc.Tipo Prodotto    = Prestiti Personali            
+Bene Finanziato       = FAM
+Descrizione del bene  = LIQUIDITA                     
+Modello Auto          =                               
+mmaaaa Immatricolaz.  = 000000
+Cilindrata            = 0000
+Targa Auto            =         
+Telaio Auto           =                     
+Rag.Soc.Convenzionato = COMPASS BANCA SPA             
+Codice  Convenzionato = 000000012
+Garanzie              =                               
+Rate Finanziamento    = 0084
+Importo Rata          = 529,52
+Data Liquidazione     = 06/11/2014
+Data Inizio Rimborso  = 30/11/2014
+Data Fine Rimborso    = 30/11/2021
+Data Ult.Rata Pag.    = 30/10/2016
+Rate Pag. ad Oggi     = 0023
+Score Compor.         = 0000
+Filiale       = 185
+Filiale Oper. = 579
+       ABI:02008
+Descr. ABI:UNICREDIT SPA                                                                   
+       CAB:04629
+Descr. CAB:PALERMO AGENZIA N.26CORSO CALATAFIMI, 99
+        CC:000300423263
+       CIN:S
+  C_ANACLI:005304483
+  C_ANACOO:000600802
+ C_GARANTE:000000000
+C_GARANTE2:000000000
+
+RATA MEDIA:529,52
+
+Indirizzo Alt.:                              
+ Telefono Alt.:               
+Controparte R.:                                                            
+Cod.Caus.Ins. :      Des.Caus.Ins. :                              
+ Accodamento:N
+ Fascia Operativa:X1
+
+Rag.Soc. Garan:                                                            
+Indirizz.Garan:                              
+Località Garan:                               Pr:   Cap:00000
+Data Nas.Garan:00000000 Loc. Nas.Garan:                              
+Cod.Fisc.Garan:                
+Telefono Garan:               Tel2:                Cell:               
+Dat. Lav.Garan:                              
+Ind.Da.L.Garan:                              
+Loc.Da.L.Garan:                              Pr.:   Cap:00000
+Tel.Da.L.Garan:               
+ Ult.Mod.Indirizzo:00000000
+     Mod.Indirizzo:                                              00000
+Penu.Mod.Indirizzo:00000000
+     Mod.Indirizzo:                                              00000
+ Data Ult.Pagamento:20161130 550 Scad.20161030 Rata 024
+ Data Pen.Pagamento:20161031 550 Scad.20160930 Rata 023
+ Data Ter.Pagamento:20160830 550 Scad.20160730 Rata 021
+ Storico Insolvenze:001002001000001001002001002001001001
+      NOTE:25/11/2016PAGAMENTO EFFETTUATO 21/11/2016PAGAMENTO EFFETTUATO 16/11/2016PAGAMENTO EFFETTUATO 11/11/2016PAGAMENTO EFFETTUATO 19/10/2016ACCORDI DI PAGAMENTO 29/08/2016PAGAMENTO GIÀ CONTABILIZZATO O IN TRANSITO
+Franchigia Azz:0
+         C_FLAGCQS:              C_FLAGPAG:CO-CO-CO
+",,CHI,,,,,,,,1.0,,1,529.52,0.0,538.63,0.0,0.0,1068.15,32477.0,0.0,0.0,0.0,0.0,0.0,CP,POSITIVA (+),536,169,169 - SAVASTANO MATILDE ,169,2016-12-13,,540.0,539.0,2017-11-16 19:34:28,admin,0.0,Nessun Processo Temporale,102.0,C - POSITIVA,,,529.52,,5,PHONE COLLECTION,SICILIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,155426,f,CNG,,,C,,13.0,Gruppo Compass,,,PRATICA CHIUSA,f,CUCNG001,t,f,,,,,,,,"0916518815,0916604411,3206577328,3288149372",t,f,,,
+8474793,4,CPS,COMPASS BANCA SPA,198,C0Z - 1 RT SCAD. 15,2021-01-22,2021-02-15,000021583486,PLLGLC76H30H703B,PALLADINO GIANLUCA,1976-06-30 00:00:00,SALERNO,VIA NAZIONALE 485,84015,NOCERA SUPERIORE,SA,Telefono Abitazione,,081 932662,Cellulare,,328 4133425,POWER TECH SRL - VIA XXV LUGLIO 66 84013 CAVA DE' TIRRENI (SA),,,,,,,,508,Pratica positiva,"Il cliente versa euro 40,19","Estratto Conto per la pratica num. 21583486 alla data 22/01/2021
+
+  Convenzionato (133493) PROGETTO ACQUE SRL
+
+  Prodotto           : (PF) Prestiti Finalizzati
+  Bene Finanziato    : (CLI) - ADDOLCITORE
+
+********************************************************************************
+  Importo Finanziato :    1.800,00 in data 07/11/2019
+           Num. Rate : 60 di cui pagate 13 e scadute 1
+  Importo Rata Media :       40,19
+          Prima Rata : 15/12/2019
+         Ultima Rata : 15/11/2024
+  Ultima rata pagata : 15/12/2020
+
+   Numero Rapportino : 35033
+       Score Pratica : 0 Rata Variabile : 
+   Filiale           : 099
+   Filiale Operativa : 508
+                 ABI : 0 CAB : 0 CC :  CIN : 
+               Banca : 
+             Agenzia : 00000
+         Accodamento : No
+    Fascia Operativa : 
+********************************************************************************
+
+ Numero rate Scadute :           1
+    Imp.Rate Scadute :       40,19
+       Insoluto Mora :        0,00
+    Spese Accessorie :        0,00
+      Spese Recupero :      140,00
+        Importo Rata :       38,69
+
+  Ultimi Pagamenti Pervenuti
+  Rata   Dovuta        Pagata           Importo Mod.Pag.
+  ------------------------------------------------------
+  0013   15/12/2020    02/01/2021         40,75       NE
+  0012   15/11/2020    30/11/2020         40,19       NE
+  0011   15/10/2020    30/10/2020         40,19       NE
+
+  Ultimi Pagamenti NON Pervenuti
+  Rata   Dovuta           Importo
+  -------------------------------
+  0014   15/01/2021         40,19
+  
+
+  Pagamenti in Accodamento
+  Rata   Dovuta           Importo
+  -------------------------------
+  0015   15/02/2021         40,19
+  0016   15/03/2021         40,19
+  0017   15/04/2021         40,19
+  
+********************************************************************************
+
+
+
+Informazioni aggiuntive
+  Causale Ins.  : 
+
+  Storico Insolvenze : 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001
+  Cod.Anagrafico Cliente     [8559290]
+  ",10.0,CHI,INL,,2021-02-01,2024-11-15,,,,,,1,40.19,0.0,140.0,0.0,0.0,180.19,1888.93,40.19,0.0,0.0,0.0,40.19,CP,POSITIVA (+),231,140,140 - CASTIELLO DONATELLA ,140,2021-01-22,2021-02-15,1831662.0,1831661.0,2021-02-15 18:37:07.575,90,0.0,Nessun Processo Temporale,150.0,VP - VP,1454.0,521 - positiva,40.19,,5,PHONE COLLECTION,CAMPANIA,,,,,,,,,,,,,,,CNG36,,,,,,,,,,,,,,,,,,,,,,,,,,,202,199313 22/01/2021,f,CNG,8559290,21583486,VP,521,13.0,Gruppo Compass,1.0,Tutti,PRATICA CHIUSA,f,CUCNG001,t,f,,,,,,1454.0,,"081932662,3284133425",t,f,,,
+3541801,28,BIF,BANCA IFIS S.P.A.,98,BIF - IN BOUND,2017-05-03,2017-07-02,9323152,CMPLCU77B42C523J,CAMPAGNA LUCIA,,,VIA GIUSTINO FORTUNATO 3,75100,MATERA,MT,,,,,,,,,,,,,,,AR,"Il cliente non è raggiungibile attraverso i recapiti di telefono forniti. Nonostante i vari tentativi effettuati non ha mai risposto, palesando totale disinteresse. Anche la raccomandata da voi inviata non ha sortito alcun effetto.","Il cliente non è raggiungibile attraverso i recapiti di telefono forniti. Nonostante i vari tentativi effettuati non ha mai risposto, palesando totale disinteresse. Anche la raccomandata da voi inviata non ha sortito alcun effetto.","Il cliente non è raggiungibile attraverso i recapiti di telefono forniti. Nonostante i vari tentativi effettuati non ha mai risposto, palesando totale disinteresse. Anche la raccomandata da voi inviata non ha sortito alcun effetto.
+
+
+RIGO                                     = 177
+COMMESSA                                 = 3240
+CEDENTE                                  = COMPASS BANCA
+TELEFONO3                                = '388 4873836
+ALTRO RECAPITO 1                         = '
+ALTRO RECAPITO 2                         = '
+DATA INVIO NOTIFICA DEBITORE             = 05/01/2016
+DATA RICEZIONE NOTIFICA DEBITORE         = 08/01/2016
+ESITO NOTIFICA DEBITORE                  = Consegnato
+CAPITALEDATACESSIONE                     = 678,51
+INTERESSIDATACESSIONE                    = 14,29
+VNOMINALEDATACESSIONE                    = 719,82
+ACCONTI                                  = 0
+INTERESSISUAFFID                         = 40
+AFFIDATO                                 = 759,82
+FASCIA                                   = E
+RATING                                   = A
+TIPO AFFIDAMENTO                         = P",,CHI,,,,,,,,1.0,,1,759.82,0.0,0.0,0.0,0.0,759.82,0.0,0.0,0.0,0.0,0.0,0.0,SL,Sospesa Lavorazione,579,730,730 - VALENTINA DAMIANI,730,,2017-07-02,1514134.0,1514133.0,2017-12-04 18:29:02,admin,0.0,Nessun Processo Temporale,88.0,030 - NON RISPONDE PRIMO,165.0,350 - CLIENTE NON VERSA NULLA,759.82,2017-07-03 00:00:00,4,DIPENDENTE AMMINISTRATIVO,BASILICATA,,,,,,,,,BIF - N - 3240,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36876,f,,,,030,350,9.0,Staff MC,,,PRATICA CHIUSA,f,,t,t,,,,,,,,,f,f,,,
+8376824,1,AGOS,AGOS DUCATO SPA,245,AGOS - CARTA - DEA4,2020-06-03,2020-06-30,4301522472987685,SRNNMR47C55F839C,SARNACCHIARO ANNAMARIA,1947-03-15 00:00:00,NAPOLI,VIA CONTE DI RUVO 6 (A/B/C),80135,NAPOLI,,Telefono Abitazione,,,Cellulare,,331-5381972,,,,,,,,,,3315381972 SQUILLA NR	,il cliente ha piu' volte promesso e rimandato la data del versamento fino a disattendere gli accordi presi con il funzionario si esita la pratica negativa ,"Estratto Conto per la pratica num. 4301522472987685 alla data 03/06/2020
+  
+  Convenzionato MAILING PREAPPROVATO
+  Debito aperto il 30/07/2012 presso MAILING PREAPPROVATO  0  ()
+
+  Ultimo Acquisto :      100,00 del 15/07/2019
+  
+  Ultimi Pagamenti Pervenuti
+
+  DATA                 Importo
+  ----------------------------
+  09/01/2019            105,00
+  23/01/2019            105,00
+  06/03/2019            105,00
+  02/04/2019            105,00
+  26/04/2019            105,00
+  06/06/2019            105,00
+  04/07/2019            105,00
+  04/09/2019            105,00
+  16/10/2019            105,00
+  08/11/2019            105,00
+  03/12/2019            210,00
+  17/02/2020            105,00
+  
+
+  Data        Saldo Prec      Saldo Corr     Min. Dovuto
+  ------------------------------------------------------
+  31/12/2018      105,00          105,00          210,00
+  31/01/2019                      105,00          105,00
+  28/02/2019      105,00          105,00          210,00
+  31/03/2019      105,00          105,00          210,00
+  30/04/2019                      105,00          105,00
+  31/05/2019      105,00          105,00          210,00
+  30/06/2019      105,00          105,00          210,00
+  31/07/2019      105,00          105,00          210,00
+  31/08/2019      210,00          105,00          315,00
+  30/09/2019      210,00          105,00          315,00
+  31/10/2019      210,00          105,00          315,00
+  30/11/2019      210,00          105,00          315,00
+  31/12/2019      105,00          105,00          210,00
+  31/01/2020      210,00          105,00          315,00
+  29/02/2020      210,00          105,00          315,00
+  31/03/2020      315,00          120,49          435,49
+  30/04/2020      435,49          105,00          540,49
+  31/05/2020      540,49          105,00          645,49
+  
+  SITUAZIONE GENERALE
+  Num.Pratica          Imp.Dovuto   Imp.Scaduto    Rate   Imp.Rata  DataProxScad. RUOLO
+  -------------------------------------------------------------------------------------
+   4301522472987685      3.408,29        645,49      0        0,00   --/--/----   I
+  
+
+  Informazione Garante
+  NOME          : 
+  DATA NASCITA  : --/--/----
+  LUOGO NASCITA : 
+  COD. FISCALE  : 
+  RESIDENZA     : 
+  DOMICILO      : 
+  LAVORO        : 
+  CELLULARE     : 
+  TIPO GARANTE  : 
+  FIRMA DOPPIA  : N
+
+  Informazioni Aggiuntive alla pratica
+  Numero Rate Orig.  : 0 Importo Rata Orig. :        0,00
+  Classe Scivolamento:  ",11.0,CHI,INL,,2020-06-26,,,,,,105.0,1,645.49,0.0,0.0,50.0,0.0,695.49,3408.29,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),642,217,217 - LA ROSA ROMEO GIOVANNI,217,2020-06-05,2020-06-30,1833736.0,1833735.0,2020-07-06 15:07:44.901,NAD,0.0,Nessun Processo Temporale,,,279.0,N - NEGATIVA,105.0,,5,PHONE COLLECTION,CAMPANIA,,,,,,,,,,,217,,,,,,,,,,,,OKSMS,,,,,,,,,,,,,,,,,,,202,AGOS - CARTA - DEA4 del  04/06/2020,f,5264,11399313,43015224729,,N,11.0,Gruppo Reggio,,,PRATICA CHIUSA,t,AGONDC8,t,f,,,,,,279.0,,3315381972,t,f,,,
+8473420,4,CPS,COMPASS BANCA SPA,20,CMP - CD3,2021-01-17,2021-02-15,000022019036,DDTPLA95T27F839U,ADDATO PAOLO,1995-12-27 00:00:00,NAPOLI,VIA GIUSEPPE CAPALDO 7,80128,NAPOLI,,Telefono Abitazione,,081 5604311,Cellulare,,334 2446312,,,,,,,,,514,cl salda il dovuto,"Il cliente versa euro 141,78","Estratto Conto per la pratica num. 22019036 alla data 17/01/2021
+
+  Convenzionato (3047451) NEW ELECTRONICS GIUSEPPE SRL
+
+  Prodotto           : (PF) Prestiti Finalizzati
+  Bene Finanziato    : (CCV) - IPAD
+
+********************************************************************************
+  Importo Finanziato :      615,00 in data 13/01/2020
+           Num. Rate : 10 di cui pagate 8 e scadute 2
+  Importo Rata Media :       63,80
+          Prima Rata : 15/02/2020
+         Ultima Rata : 15/12/2020
+  Ultima rata pagata : 15/10/2020
+
+   Numero Rapportino : 25391
+       Score Pratica : 0 Rata Variabile : 
+   Filiale           : 159
+   Filiale Operativa : 514
+                 ABI : 36081 CAB : 5138 CC : 212137012145 CIN : V
+               Banca : POSTEPAY S.P.A.
+             Agenzia : 77666 UFFICIO VIRTUALE IMELVIALE EUROPA,
+         Accodamento : No
+    Fascia Operativa : X2
+********************************************************************************
+
+ Numero rate Scadute :           2
+    Imp.Rate Scadute :      129,02
+       Insoluto Mora :        0,00
+    Spese Accessorie :        0,00
+      Spese Recupero :       12,76
+        Importo Rata :       65,22
+
+  Ultimi Pagamenti Pervenuti
+  Rata   Dovuta        Pagata           Importo Mod.Pag.
+  ------------------------------------------------------
+  0009   15/10/2020    13/11/2020         66,00       CO
+  0008   15/09/2020    16/10/2020         79,00       AL
+  0006   15/07/2020    28/07/2020         78,31       AL
+
+  Ultimi Pagamenti NON Pervenuti
+  Rata   Dovuta           Importo
+  -------------------------------
+  0007   15/12/2020         65,22
+  0010   15/11/2020         63,80
+  
+
+  Pagamenti in Accodamento
+  Rata   Dovuta           Importo
+  -------------------------------
+  
+********************************************************************************
+
+
+
+Informazioni aggiuntive
+  Causale Ins.  : 
+
+  Storico Insolvenze : 003 - 002 - 001 - 002 - 002 - 001 - 001 - 001 - 001 - 001
+  Cod.Anagrafico Cliente     [19974480]
+  ",5.0,CHI,INL,POSTEPAY S.P.A.,2021-02-04,2020-12-15,,,,,,2,129.02,0.0,12.76,0.0,1.42000000000002,143.2,129.02,129.02,0.0,12.76,0.0,141.78,CP,POSITIVA (+),652,229,229 - PELLEGRINO FRANCESCO,229,2021-01-19,2021-02-15,1832541.0,1653587.0,2021-02-16 10:50:33,716,0.0,Nessun Processo Temporale,,,152.0,150 - POSITIVA CON INCASSO,63.8,2021-02-15 00:00:00,2,Esattore INTERNO,CAMPANIA,,,,,,,,,,,,,,,CNG18,,,,,,,,,,,,,,,,,,,,,,,,X2,,100,201,199148 18/01/2021,f,CNG,19974480,22019036,,150,6.0,Credit Recovery Lab interno,,,PRATICA CHIUSA,f,CUCNG001,t,t,,,,,,152.0,228,"0815604311,3342446312",t,f,,,
+2295452,11,FIN,FINDOMESTIC BANCA SPA,65,FINDOMESTIC IV LIVELLO,2013-04-24,2013-07-19,10018605835765,SMNMNO84R45H501C,SIMEONE MONIA,1984-10-05 00:00:00,ROMA,13 VIA TRIESTE,81050,SAN TAMMARO,CE,,,0823697636,,,,,,,,,,,,G,La cliente non ha dato ad oggi alcun riscontro ai numerosi messaggi lasciati dal nostro esattore in sua assenza anche ai genitori che promettevano contatto. Chiaro il disinteresse.,La cliente non ha dato ad oggi alcun riscontro ai numerosi messaggi lasciati dal nostro esattore in sua assenza anche ai genitori che promettevano contatto. Chiaro il disinteresse.,"Tipo Aff=AFF4
+Data Tras.Contenzioso=06/10/2011
+   Data Notifica LDBT=26/11/2011 Comp.Giac.LDBT=SI
+Professione Debitore =IMP.TI PRIVATI, COMMESSI SOLO FISSO
+Situazione Familiare =CELIBE
+Coniuge / Convivente =
+Professione Con/Conv =
+          Abitazione =PRESSO PARENTI
+ Garanzia Aggiuntiva =
+   Tipologia Credito =CARTA DI CREDITO
+     Bene Acquistato =
+  Data Finenziamento =
+ Data Apertura Carta =25/10/2007
+     Importo Erogato =2708,67
+   Importo Mensilità =
+Numero Rate Previste =
+Importo Rate Scadute =2499,82
+Penale Manc/Rit Pag. =00,00
+Penale Capitale Res. =134,80
+Pagam.Ricevuti prima =1859,82
+Informazioni Aggiunt.=
+      Codice Cliente =20124052309600
+   Importo Trasmesso =       2459,74 Importo Pag=         00,00
+ Diff Erogato-Pagato =848,85
+ Indirizzo domicilio =
+        Cap/Località = PD
+    Datore di lavoro =
+ Indirizzo  dat.lav. =
+ Sede oper. dat.lav. =
+ Ind.sed.op.dat.lav. =
+        Cap/Località = 
+Telefono rintracciato=
+Info Tel.rintracciato=
+Telefono rintracciato=
+Info Tel.rintracciato=
+Telefono rintracciato=
+Info Tel.rintracciato=
+Informazioni varie ri=NO
+",,CHI,,,,,,,,1.0,,1,2459.74,496.87,0.0,0.0,0.0,2956.61,0.0,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),55,345,345 - CAMPANA VINCENZO ,345,2013-07-03,2013-07-19,3073.0,3072.0,2017-11-13 22:00:07,admin,0.0,Nessun Processo Temporale,88.0,030 - NON RISPONDE PRIMO,208.0,CLR - CLR,2459.74,2013-07-23 00:00:00,3,Esattore ESTERNO,CAMPANIA,,,,,,,,,FIN - CO - AFF4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,308,,26153,f,,,,030,CLR,1.0,Regione Campania,1.0,Tutti,PRATICA CHIUSA,t,,t,t,,,,,,208.0,,0823697636,f,f,,,
+3446873,4,CPS,COMPASS BANCA SPA,100,C0H - TEL,2017-03-08,2017-03-31,000015249706,RMNSFN62P13H501C,ROMANI STEFANO,1962-09-13 00:00:00,ROMA,LUNGOTEVERE TESTACCIO 11,00153,ROMA,RM,,,065741612,,,83382936762,COOP OPER SANITARI ASS A RL VIA LUCIO VOLUMNIO SNC ROMA,06710661,,ALVAREZ NENILITA GARDIOLA,VIA FEDERICO NANSEN 54,ROMA,00154,,,Il cliente versa euro 545.00,Il cliente versa euro 545.00,"
+Altro Telefono        = 3336172979
+Tipo Prodotto         = PP
+Desc.Tipo Prodotto    = Prestiti Personali            
+Bene Finanziato       = DIV
+Descrizione del bene  = PRESTITO PER CONSOLIDAMENTO   
+Modello Auto          =                               
+mmaaaa Immatricolaz.  = 000000
+Cilindrata            = 0000
+Targa Auto            =         
+Telaio Auto           =                     
+Rag.Soc.Convenzionato = BANCA MONTE DEI PASCHI DI SIEN
+Codice  Convenzionato = 001981762
+Garanzie              =                               
+Rate Finanziamento    = 0084
+Importo Rata          = 505,66
+Data Liquidazione     = 20/08/2015
+Data Inizio Rimborso  = 30/09/2015
+Data Fine Rimborso    = 30/10/2022
+Data Ult.Rata Pag.    = 30/01/2017
+Rate Pag. ad Oggi     = 0015
+Score Compor.         = 0000
+Filiale       = 218
+Filiale Oper. = 524
+       ABI:01030
+Descr. ABI:BANCA MONTE DEI PASCHI DI SIENA S.P.A.                                          
+       CAB:03318
+Descr. CAB:Roma Agenzia 144VIA GINORI, 77ROMA00100 
+        CC:000000627613
+       CIN:T
+  C_ANACLI:014748139
+  C_ANACOO:004255495
+ C_GARANTE:000000000
+C_GARANTE2:000000000
+
+RATA MEDIA:505,66
+
+Indirizzo Alt.:                              
+ Telefono Alt.:               
+Controparte R.:                                                            
+Cod.Caus.Ins. :AM04  Des.Caus.Ins. :InsufficentFunds              
+ Accodamento:N
+ Fascia Operativa:X1
+
+Rag.Soc. Garan:                                                            
+Indirizz.Garan:                              
+Località Garan:                               Pr:   Cap:00000
+Data Nas.Garan:00000000 Loc. Nas.Garan:                              
+Cod.Fisc.Garan:                
+Telefono Garan:               Tel2:                Cell:               
+Dat. Lav.Garan:                              
+Ind.Da.L.Garan:                              
+Loc.Da.L.Garan:                              Pr.:   Cap:00000
+Tel.Da.L.Garan:               
+ Ult.Mod.Indirizzo:20140610
+     Mod.Indirizzo:LUNGOTEVERE TESTACCIO 11 SC. F INT. 10           ROMA             RM00153
+Penu.Mod.Indirizzo:00000000
+     Mod.Indirizzo:                                              00000
+ Data Ult.Pagamento:20170227 540 Scad.20170130 Rata 017
+ Data Pen.Pagamento:20170126 505 Scad.20161230 Rata 016
+ Data Ter.Pagamento:20161130 505,66 Scad.20161130 Rata 015
+ Storico Insolvenze:001000000000000001000000000000001000
+      NOTE:17/02/2017CL ACCORDA PAG 18/01/2017CL NON CONTATTATO 20/09/2016CL NN CONTATTATA 17/06/2016BB INTERO IMPORTO 18/04/2016BB INTERO IMPORTO
+Franchigia Azz:0
+         C_FLAGCQS:              C_FLAGPAG:NE-CO-CO
+",,CHI,,,,,,,,1.0,,1,505.66,0.0,412.07,0.0,0.0,917.73,35219.0,505.66,0.0,39.34,0.0,545.0,CP,POSITIVA (+),248,160,160 - PINTO MARGHERITA ,160,2017-03-08,,540.0,539.0,2019-02-04 22:01:24,admin,0.0,Nessun Processo Temporale,102.0,C - POSITIVA,,,505.66,,5,PHONE COLLECTION,LAZIO,218,,0000,,0158040,,CM,,C0H - TEL - 524,,,,0,,CNG28,,,,,,,,,,,,,,,,,,,,,,,,,,100,,158040,f,CNG,,,C,,13.0,Gruppo Compass,1.0,Tutti,PRATICA CHIUSA,f,CUCNG001,t,f,,,,,,,,"053382936762,065741612,06710661,083382936762,08382936762,3382936762,8382936762",t,f,,,
+3255640,28,BIF,BANCA IFIS S.P.A.,171,BIF - PRE LEGAL,2016-10-07,2016-12-06,10027257228032,SLMMRT80R19G964P,SOLIMEO UMBERTO,1980-10-19 00:00:00,POZZUOLI,VIA DANTE ALIGHIERI 9,60043,CERRETO D'ESI,AN,,,,,,,,,,,,,,,,"i recapiti telefonici in nostro possesso non si rivelano utili, le ricerche effettuate non hanno prodotto alcun esito. Il debitore non si mostra assolutamente interessato a definire la pendenza malgrado l'invio del vostro sollecito a mezzo raccomandata.","i recapiti telefonici in nostro possesso non si rivelano utili, le ricerche effettuate non hanno prodotto alcun esito. Il debitore non si mostra assolutamente interessato a definire la pendenza malgrado l'invio del vostro sollecito a mezzo raccomandata.","i recapiti telefonici in nostro possesso non si rivelano utili, le ricerche effettuate non hanno prodotto alcun esito. Il debitore non si mostra assolutamente interessato a definire la pendenza malgrado l'invio del vostro sollecito a mezzo raccomandata.
+Cliente inizialmente disposto a concordare definizione, chiede ripetutamente di essere ricontattato per poi rendersi volontariamente irreperibile. Inutili i vari tentativi si sollecito.
+
+
+CEDENTE                                  = FINDOMESTIC BANCA
+FORMA_TECNICA                            = 59 - CARTE DI CREDITO: UTILIZZO - REVOLVING
+ID_ANAG                                  = 2100294
+SOCIETA                                  = CONSULGEST ITALIA  SRL
+DATA_AFFID                               = 07/10/2016
+PROVNASCITA                              = NA
+PIVADEB                                  = 
+DATAAFFIDO                               = 07/10/2016
+SCADAFFIDO                               = 06/12/2016
+INIZIO_FINANZ                            = 28/08/2014
+VN_RES_DEB                               =  4966.24
+REGIONE_RESID                            = MARCHE
+TELEFONO1                                = 
+TELEFONO2                                = 
+TELEFONO3                                = '
+TELEFONO4                                = '
+TELEFONO5                                = '815243470
+TELEFONO6                                = 
+POT_LF                                   = S
+VN_INIZIALE                              = 05/08/1913 05:45:36
+INIZIO_FINANZ                            = 28/08/2014
+DATA_ACQUISTO                            = 19/09/2016",,CHI,,,,,,,,1.0,,1,4975.39,0.0,0.0,0.0,0.0,4975.39,4966.0,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),596,806,806 - GALLO ALESSANDRO ,806,,2016-12-06,1514136.0,1514135.0,2017-12-04 18:29:02,admin,0.0,Nessun Processo Temporale,68.0,070 - IRREPERIBILE,,,4975.39,2016-12-06 00:00:00,2,Esattore INTERNO,MARCHE,S,,,,,,,,BIF - S - 0330348784,,2100294,,,,,,03,,,,,,,,,,,,,,,,,,,,,,,,114,,35393,f,,,,070,,6.0,Credit Recovery Lab interno,,,PRATICA CHIUSA,t,,t,t,,,,,,,,,f,f,,,
+6008487,33,DML,DAIMLER FINANCIAL SERVICES,182,DML - DAIMLER,2018-01-15,2018-03-01,2381912,,PLACIDO CUTULI,,,"VIA ALDO MORO, 9",95022,ACI CATENA,CT,,,3939068894,,,,,,,,,,,,,"Conferiamo nuovamente con l""avvocato civilista Riccardo Sudano dichiara che il cliente è stato sicuramente vittima di una truffa, spergiura di non aver mai ritirato l""auto che da visura PRA oggi risulta essere intestata ad un certo Sig. Esposito Ciro di Napoli  dal 05/04/2017, ma ad oggi non è stata presentata alcuna denuncia, l""avvocato si impegna ad invitare il cliente a denunciare l""intera situazione, lo stesso è convinto che siano state apposte delle firme false su diversi documenti, sicuramente sulla modulistica relativa al ritiro dell""auto. ","05/01/2018	XE	05/01/2018	20180105	15/01/2018	0000000002381912	0000000002381912		350,68	XE16087880	Rata/Canone
+05/12/2017	XE	05/12/2017	20171205	15/12/2017	0000000002381912	0000000002381912		350,68	XE15946450	Rata/Canone
+05/11/2017	XE	05/11/2017	20171105	15/11/2017	0000000002381912	0000000002381912		350,68	XE15807177	Rata/Canone
+05/10/2017	XE	05/10/2017	20171005	15/10/2017	0000000002381912	0000000002381912		350,68	XE15669656	Rata/Canone                                   SL01
+05/09/2017	XE	05/09/2017	20170905	15/09/2017	0000000002381912	0000000002381912		350,68	XE15535763	Rata/Canone                                   SL01
+04/08/2017	XE	04/08/2017	20170804	15/08/2017	0000000002381912	0000000002381912		350,68	XE15422553	Rata/Canone                                   MS02
+18/10/2017	QB	18/10/2017	20171018	18/10/2017	0000000002381912	0000000002381912		18,30	5500106687	commissioni recupero crediti
+18/09/2017	QB	18/09/2017	20170918	18/09/2017	0000000002381912	0000000002381912		18,30	5500103055	commissioni recupero crediti
+21/08/2017	QB	21/08/2017	20170821	21/08/2017	0000000002381912	0000000002381912		18,30	5500099935	commissioni recupero crediti                  MS02
+08/11/2017	QA	08/11/2017	20171108	08/11/2017	0000000002381912	0000000002381912		64,17	5400108545	commissioni recupero crediti
+09/10/2017	QA	09/10/2017	20171009	09/10/2017	0000000002381912	0000000002381912		64,17	5400104982	commissioni recupero crediti
+21/08/2017	QA	21/08/2017	20170821	21/08/2017	0000000002381912	0000000002381912		64,17	5400099538	commissioni recupero crediti                  MS02
+					PLACIDO CUTULI	0000000002381912		2351,49		
+
+Società	Tipo Contratto	Codice Cliente	Nominativo Cliente	Numero Contratto	Tipo Diffida da utilizzare	Total Arrears 
+MBFSI	Financing	391476123	PLACIDO CUTULI	2381912	Diffida Finanziamento	€2.000,81
+
+
+inizio contratto 15/03/17 scad. 15/03/22. veicolo A 180 dci - finanziamento, importo rata 350,68. Via Aldo Moro 9 Acicatena. Tel. Legale cliente (Avv. Riccardo Sudano) 095/535899. Probabile truffa.
+
+NEGATIVA: L'indirizzo fornito è confermato. Il cliente ci rimanda al legale per la gestione della posizione. Tel. Legale cliente (Avv. Riccardo Sudano) 095/535899. Il legale spiega che l'auto oggetto del finanziamento non è mai stata ritirata dal debitore, contestando pertanto l'importo che chiede Daimler. Conferiamo nuovamente con l'avvocato civilista Riccardo Sudano dichiara che il cliente è stato sicuramente vittima di una truffa, spergiura di non aver mai ritirato l'auto che da visura PRA oggi risulta essere intestata ad un certo Sig. Esposito Ciro di Napoli dal 05/04/2017, ma ad oggi non è stata presentata alcuna denuncia, l'avvocato si impegna ad invitare il cliente a denunciare l'intera situazione, lo stesso è convinto che siano state apposte delle firme false su diversi documenti, sicuramente sulla modulistica relativa al ritiro dell'auto. Ad oggi nessuna documentazione che attesti quanto sopra.","Codice Cliente: 391476123 
+NOTE:  
+Numero Contratto: 2381912 
+Societa: MBFSI 
+Tipo Contratto: Financing 
+Tipo Diffida da utilizzare: Diffida Finanziamento",2.0,CHI,INL,,,,,,,0.0,,1,1753.4,247.41,0.0,0.0,0.0,2000.81,,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),40,28,28 - CATANIA ROSARIO,28,2018-01-17,2018-03-01,1627692.0,1629397.0,2018-03-08 15:10:00.09,MAR,0.0,Nessun Processo Temporale,,,,,1753.4,,3,Esattore ESTERNO,SICILIA,,,,,,,,,,,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,f,,391476123,,,,2.0,Regione Puglia,1.0,Tutti,PRATICA CHIUSA,t,,t,f,,,,,,,,3939068894,t,f,,,
+2951500,28,BIF,BANCA IFIS S.P.A.,98,BIF - IN BOUND,2016-02-10,2016-03-18,7422855,,"MELONI SEBASTIANO, BALDINO CATERINA ANGELA",,,VIA BELLIENI 13,7047,THIESI,SS,,,,,,3401251173,,,,,,,,,,"Il cliente non è raggiungibile attraverso i recapiti di telefono forniti. Nonostante i vari tentativi effettuati non ha mai risposto, palesando totale disinteresse. Anche la raccomandata da voi inviata non ha sortito alcun effetto.","Il cliente non è raggiungibile attraverso i recapiti di telefono forniti. Nonostante i vari tentativi effettuati non ha mai risposto, palesando totale disinteresse. Anche la raccomandata da voi inviata non ha sortito alcun effetto.","
+
+RIGO                                     = 132
+COMMESSA                                 = 3256
+CEDENTE                                  = COMPASS BANCA
+CAPITALEDATACESSIONE                     = 2547,28
+INTERESSIDATACESSIONE                    = 113,6
+VNOMINALEDATACESSIONE                    = 2744,36
+INTERESSISUAFFID                         = 7,816311233
+AFFIDATO                                 = 2752,176311
+FASCIA                                   = 1
+RATING                                   = A
+TIPO AFFIDAMENTO                         = P",,CHI,,,,,,,,1.0,,1,2752.1763,0.0,0.0,0.0,0.0,2752.1763,,0.0,0.0,0.0,0.0,0.0,SL,Sospesa Lavorazione,546,719,719 - ZINNO IVAN ,719,2016-02-11,2016-03-18,720.0,1514133.0,2017-12-04 18:29:02,admin,0.0,Nessun Processo Temporale,88.0,030 - NON RISPONDE PRIMO,209.0,CN - CN,2752.1763,2016-03-18 00:00:00,2,Esattore INTERNO,SARDEGNA,,,,,,,,,BIF - IN - 3256,,,,10022016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33653,f,,,,030,CN,6.0,Credit Recovery Lab interno,2.0,Alessandria,PRATICA CHIUSA,f,,t,t,,,,,,,,3401251173,t,f,,,
+2934218,28,BIF,BANCA IFIS S.P.A.,98,BIF - IN BOUND,2016-01-15,2016-02-29,17666831,CNCLVI67T06Z129V,OCNICEANU LIVIU,,,VIA UMBERTO GIORDANO 74,52,CERVETERI,RM,,,,,,,,,,,,,,,,"i recapiti telefonici in nostro possesso non si rivelano utili, le ricerche effettuate non hanno prodotto alcun esito. Il debitore non si mostra assolutamente interessato a definire la pendenza malgrado l'invio del vostro sollecito a mezzo raccomandata.","i recapiti telefonici in nostro possesso non si rivelano utili, le ricerche effettuate non hanno prodotto alcun esito. Il debitore non si mostra assolutamente interessato a definire la pendenza malgrado l'invio del vostro sollecito a mezzo raccomandata.","
+
+RIGO                                     = 2347
+COMMESSA                                 = 3253
+CEDENTE                                  = SUNRISE S.R.L.
+TELEFONO3                                = 
+ALTRO RECAPITO 1                         = 
+ALTRO RECAPITO 2                         = 
+DATA INVIO NOTIFICA DEBITORE             = 28/12/2015
+CAPITALEDATACESSIONE                     = 4724,5
+INTERESSIDATACESSIONE                    = 783,83
+VNOMINALEDATACESSIONE                    = 5797,84
+INTERESSISUAFFID                         = 12,4260821917808
+AFFIDATO                                 = 5810,26608219178
+FASCIA                                   = 1
+RATING                                   = A
+TIPO AFFIDAMENTO                         = P",,CHI,,,,,,,,1.0,,1,5810.2661,0.0,0.0,0.0,0.0,5810.2661,,0.0,0.0,0.0,0.0,0.0,SL,Sospesa Lavorazione,553,725,725 - TOLVO ROBERTO ,725,2016-01-18,2016-02-29,1514134.0,1514133.0,2017-12-04 18:29:02,admin,0.0,Nessun Processo Temporale,68.0,070 - IRREPERIBILE,209.0,CN - CN,5810.2661,2016-02-26 00:00:00,4,DIPENDENTE AMMINISTRATIVO,LAZIO,,,,,,,,,BIF - IN - 3253,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33449,f,,,,070,CN,9.0,Staff MC,2.0,Alessandria,PRATICA CHIUSA,f,,t,t,,,,,,,,,f,f,,,
+2780075,8,FGA,FCA BANK,105,SP - 250,2015-07-22,2015-08-14,4441958,,ARCANGIOLI ROSSELLA,,,VIA DELLA BARRA 22,,VECCHIANO,PI,,,,,,,,,,,,,,,,,,,,CHI,,,,,,,,1.0,,1,427.6,17.08,44.46,0.0,0.0,489.14,8832.0,210.1,0.0,0.0,0.0,210.1,CP,POSITIVA (+),211,104,104 - RITA CICCHITTO ,104,2015-07-23,2015-08-14,550.0,549.0,2017-11-01 23:39:37,admin,0.0,Nessun Processo Temporale,151.0,VPP - VERIFICATA PROVVIGIONABILE PARZIALE,,,427.6,,5,PHONE COLLECTION,TOSCANA,,,,,,,,,SP - 250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32314,f,,,,VPP,,12.0,Gruppo Sava/Agos,1.0,Tutti,PRATICA CHIUSA,f,,t,f,,,,,,,,,f,f,,,
+3590626,8,FGA,FCA BANK,103,SP - 230,2017-06-19,2017-07-12,4992330,,GIOVINAZZO CATERINA,,,VILLAGGIO INA CASA 87/11,,CESATE,MI,,,3492389505,,,,,,,,,,,,,,,,,CHI,,,,,,,,1.0,,1,163.63,0.28,14.75,0.0,0.0,178.66,13669.0,163.63,0.28,14.75,0.0,178.66,CP,POSITIVA (+),239,150,150 - DANIELA CAPANNI ,150,2017-06-20,2017-07-12,546.0,545.0,2018-03-30 21:57:31,admin,0.0,Nessun Processo Temporale,150.0,VP - VP,,,163.63,,5,PHONE COLLECTION,LOMBARDIA,,,,,,,,,SP - 230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37250,f,,,,VP,,12.0,Gruppo Sava/Agos,1.0,Tutti,PRATICA CHIUSA,f,,t,f,,,,,,,,3492389505,t,f,,,
+3706529,8,FGA,FCA BANK,102,SP - 220,2018-02-10,2018-03-05,4805685,,BATTISTELLI EMANUELE,,,VIA MONTE TOTAGNA 124,,TERNI,TR,,,3477622894,,,,,,,,,,,,,,,,,CHI,,,,,,,,1.0,,1,203.0,1.11,18.36,0.0,0.0,222.47,9136.0,198.5,0.0,0.0,0.0,198.5,CP,POSITIVA (+),221,117,117 - LOCATELLI ANTONIETTA,117,2018-02-12,2018-03-05,1630961.0,1630960.0,2018-04-17 10:24:59.194,999,0.0,Nessun Processo Temporale,150.0,VP - VP,,,203.0,,5,PHONE COLLECTION,UMBRIA,,,,,,,,,SP - 220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38778,f,,,,VP,,12.0,Gruppo Sava/Agos,1.0,Tutti,PRATICA CHIUSA,f,,t,f,,,,,,,,3477622894,t,f,,,
+2681193,1,AGOS,AGOS DUCATO SPA,85,AGP - CS - PHSA,2015-04-02,2015-04-30,51605067,PGNMNL60P43E730W,PAGANI EMANUELA,1960-09-03 00:00:00,LUGO,VIA SAN GIORGIO 37,48022,LUGO,RA,,,50545288442,,,3403304501,LOVECCHIO CLAUDIO VIA DEL LIMITE 11 LUGO,5054523105,,,,,,,,"Notifica per ROSARIA DONNARUMMA  (155): PERV VT DI € 150.78 DEL 18/04/2015
+Msg da: MIC",Il cliente versa euro 150.78,"Estratto conto al 03/04/2015                              Contratto         51605067
+
+Convenzionato : COMET S.P.A.             
+
+Prodotto   :PRESTITI FINALI
+Bene : TELEFONO CELLUL                                             
+Rate       : 010           Importo Rata   :       0,00
+Montante   :     599,00    Residuo Debito :     630,85
+Prima Scad : 08/03/2015    Ultima Scad.   : 08/12/2015
+Rata Accod : 00/00/0000     Rate Accodate : 000
+Imp.Rate S.:      59,90     Altri Addebit.:      30,98
+I.M. Cont. :       0,00     I.M. Non Co.  :       0,87
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00
+Spese Esat.:      50,00
+Spese In Co:       0,00
+Spese Prec.:       0,00
+Rata a Sc. : 08/04/2015     Imp.Rata a Sc :      59,90 in affido S
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00 in affido  
+Rata a Sc. :   /  /         Imp.Rata a Sc :       0,00 in affido  
+
+Ultimi pagamenti pervenuti (ultimi 6 mesi)
+
+Rata     Dovuta     Pagata          Importo
+                                          
+
+Pagamenti NON pervenuti (ultimi 12 mesi)
+
+Rata     Dovuta         Importo          I.Mora
+ 1     08/03/2015          59,90           0,78
+
+ Firma Doppia=N
+
+        SITUAZIONE GENERALE
+        51605067     630,85      59,90 001       0,00 08042015 I
+
+ Num.Rate Orig = 000 Importo Rata Orig =       0,00",,CHI,,,,,,,,1.0,,1,119.8,0.87,30.98,0.0,0.0,151.65,614.0,119.8,0.0,30.98,0.0,150.78,CP,POSITIVA (+),243,155,155 - ROSARIA DONNARUMMA ,155,2015-04-02,2015-04-30,411.0,410.0,2015-04-22 11:19:32,MIC,0.0,Nessun Processo Temporale,150.0,VP - VP,309.0,PA - INCASSO EFFETTUATO,119.8,2015-04-14 00:00:00,5,PHONE COLLECTION,EMILIA ROMAGNA,,2015-04-30,,,,,,,AGP - CS - PHSA,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31577,f,5264,,,VP,PA,12.0,Gruppo Sava/Agos,1.0,Tutti,PRATICA CHIUSA,f,AGONDC8,t,t,,,,,,309.0,,"05054523105,050545288442,3403304501",t,f,,,

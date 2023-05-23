@@ -1,0 +1,483 @@
+id,committente_id,committente_codice,committente_desc,profilo_id,profilo_desc,data_affido,scadenza_mandato,pratica_num,p_iva,nominativo,data_nascita,luogo_nascita,indirizzo,cap,citta,provincia,tipo_telefono1,prefisso1,telefono1,tipo_telefono2,prefisso2,telefono2,recapito,tel_recapito,tipo_garante,garante,ind_garante,citta_garante,cap_garante,tel_garante,filiale,nota,memo,memo_ec,gg_arr,status,pre_status,banca,apertura,scadenza,fido,saldo_iniziale,saldo_attivo,estratto_conto,minimo_dovuto,rate_arretrate,importo_capitale,importo_interessi,importo_spese,importo_spese_recupero,importo_differenza,importo_totale,debitoresiduo,incasso_capitale,incasso_interessi,incasso_spese,incasso_spese_rec,incasso_tot,stato_codice,stato_desc,esattore_id,esattore_codice,esattore_desc,utente,dataaffidoesattore,datascadaffesat,id_provvigioni,id_provvigioni_az,data_ultima_modifica,utente_ultima_modifica,tp_proc_temp,tp_proc_temp_desc,cod_memo,cod_memo_desc,cod_scarico,cod_scarico_desc,importo_rata,data_trasmissione,id_profilo_esattore,profilo_esattore,regione,campo1,data1,campo2,data2,campo3,data3,campo4,data4,campo5,data5,campo6,data6,campo7,data7,campo8,data8,campo9,data9,campo10,data10,campo11,data11,campo12,data12,campo13,data13,campo14,data14,campo15,data15,campo16,data16,campo17,data17,campo18,data18,campo19,data19,campo20,data20,stato_lavorazione1,stato_lavorazione2,lotto_import,riaffidata,az_vs_committente,codice_cliente,codice_pratica,memo_cod,scarico_cod,gruppo,gruppo_desc,macroarea,macroarea_desc,status_desc,blocco,ut_az_vs_committente,fl_stampa,trasmessa,esa_prec,data_notifica,espatriato,deceduto,indirizzo_confermato,cod_scarico_2,codice_scarico_2,telefoni,abilitato_sms,presenza_foto,data_null,testo_null,importo_null
+8381231,2,FNB,FINECO BANK,112,FNC Fidi Scoperti,2020-06-12,2020-07-12,64056,ZCCNDR73C25H501X,ZUCCAROLI ANDREA,,,VIA ANTIFONTE DI RAMNUNTE 324,00124,ROMA,RM,Telefono principale,,,Cellulare,,3470118865,VIA ANTIFONTE DI RAMNUNTE 324 00124 ROMA (RM),,,,,,,,,"  cell   ant  8     cl  riferisce  di  aver  effettuato  bb 500,00    ed  inviato  riscontro------   ok------  nn sa  se  riesce  ad  azzerare  il  tutto  x  gg 12  cm  VERIFICATA PROVVIGIONABILE PARZIALE
+",,,5.0,CHI,INL,,2020-06-19,,,,,,,1,1570.73,0.0,0.0,0.0,0.0,1570.73,1570.73,1092.6,0.0,0.0,0.0,1092.6,CP,POSITIVA (+),238,149,149 - FRANCA D'ERRICO ,149,2020-06-12,2020-07-12,1805305.0,1805304.0,2020-07-13 18:14:25.333,90,0.0,Nessun Processo Temporale,151.0,VPP - VERIFICATA PROVVIGIONABILE PARZIALE,,,1570.73,,2,Esattore INTERNO,LAZIO,,,,,,,,,,,,,,,,,,,,,,,IT73P0301503200000000064056,,ANDREA.ZUCCAROLI@GMAIL.COM,,,,,,,,,,,,,,,,,VPP,,f,,1035569,,VPP,,6.0,Credit Recovery Lab interno,1.0,Tutti,PRATICA CHIUSA,f,,t,f,,,,,,,,3470118865,t,f,,,
+3239423,8,FGA,FCA BANK,101,SP - 210,2016-10-10,2016-11-02,4875527,,FABIANI LIZA,,,VIA PINARELLA 343/E - TA,,CERVIA,RA,,,,,,,,,,,,,,,,"Notifica per ORNELLA DE FRANCESCO  (121): chiami marito dopo le 17?
+Msg da: 104",,,,CHI,,,,,,,,1.0,,1,223.0,0.56,13.41,0.0,0.0,236.97,14463.0,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),211,104,104 - RITA CICCHITTO ,104,2016-10-11,2016-11-02,542.0,541.0,2016-10-26 15:04:50,104,0.0,Nessun Processo Temporale,66.0,222 - INVIATA LETTERA,,,223.0,,5,PHONE COLLECTION,EMILIA ROMAGNA,,,,,,,,,SP - 210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35337,f,,,3,222,,12.0,Gruppo Sava/Agos,1.0,Tutti,PRATICA CHIUSA,t,,t,f,,,,,,,,,f,f,,,
+8339637,4,CPS,COMPASS BANCA SPA,197,C0T - 1 RT SCAD. 30,2020-04-07,2020-04-30,000015566839,NVCMRA60C55Z140E,NOVAC MARIA,1960-03-15 00:00:00,MOLDAVIA,VIA CONSORZIALE 5/E,23881,AIRUNO,LC,Telefono Abitazione,,,Cellulare,,389 5635327,GIUSEPPE MANDELLI - LARGO POMEO 9 23885 CALCO (LC),039 507809,,,,,,,537,"STORNO
+",,"Estratto Conto per la pratica num. 15566839 alla data 07/04/2020
+
+  Convenzionato (12) COMPASS BANCA SPA
+  
+  Prodotto           : (RI) Ridefinizione 
+  Bene Finanziato    : (RIM) - RIMBORSO PRESTITI PRECEDENTI
+
+********************************************************************************  
+  Importo Finanziato :    6.666,00 in data 20/11/2015
+           Num. Rate : 102 di cui pagate 51 e scadute 1
+  Importo Rata Media :      104,63
+          Prima Rata : 30/12/2015
+         Ultima Rata : 30/05/2024
+  Ultima rata pagata : 29/02/2020
+
+   Numero Rapportino : 26691
+       Score Pratica : 0 Rata Variabile : 
+   Filiale           : 191
+   Filiale Operativa : 537
+                 ABI : 0 CAB : 0 CC :  CIN : 
+               Banca : 
+             Agenzia : 00000
+         Accodamento : No
+    Fascia Operativa : 
+********************************************************************************
+
+ Numero rate Scadute :           1
+    Imp.Rate Scadute :      104,63
+       Insoluto Mora :        0,00
+    Spese Accessorie :        0,00
+      Spese Recupero :       31,38
+        Importo Rata :      103,63
+
+  Ultimi Pagamenti Pervenuti
+  Rata   Dovuta        Pagata           Importo Mod.Pag.
+  ------------------------------------------------------
+  0052   30/03/2020    06/04/2020        104,63       BP
+  0051   29/02/2020    02/03/2020        104,63       BP
+  0050   30/01/2020    05/02/2020        104,63       BP
+
+  Ultimi Pagamenti NON Pervenuti
+  Rata   Dovuta           Importo
+  -------------------------------
+  0052   30/03/2020        104,63
+  
+
+  Pagamenti in Accodamento
+  Rata   Dovuta           Importo
+  -------------------------------
+  0053   30/04/2020        104,63
+  0054   30/05/2020        104,63
+  0055   30/06/2020        104,63
+  
+********************************************************************************
+
+
+  
+Informazioni aggiuntive
+  Causale Ins.  : 
+  
+  Storico Insolvenze : 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001 - 001
+  Cod.Anagrafico Cliente     [6966997]
+  
+STORICO NOTE:
+   02/01/2017PERVENUTO INCASSO RATA 30/11/20163895635327 RISPONDE TITOLARE PROVVEDE AL PAGAMENTO ENTRO SCADENZA 30/11/2016 _ 31/10/20163895635327 TITOLARE PROM PAG 48 H 31/10/2016 _ 28/09/2016PAGAMENTO EFFETTUATO",10.0,CHI,CHI,,2015-12-30,2024-05-30,,,,,,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Z,STORNATA DA COMMITTENTE,228,134,134 - BELLASTELLA LUCIA ,134,2020-04-07,2020-04-30,1805283.0,1805282.0,2020-04-08 14:37:03.325,DAN,0.0,Nessun Processo Temporale,138.0,Z - STORNO,,,0.0,,5,PHONE COLLECTION,LOMBARDIA,,,,,,,,,,,,,,,CNG35,,,,,,,,,,,,,,,,,,,,,,,,,,,,189639 07/04/2020,f,CNG,6966997,15566839,Z,,13.0,Gruppo Compass,1.0,Tutti,PRATICA CHIUSA,t,CUCNG001,t,f,,,,,,,,"039507809,3895635327,39507809",t,f,,,
+8244728,8,FGA,FCA BANK,102,SP - 220,2019-10-29,2019-11-21,5282973,,VITALE SIRIA CRISTINA,,,VIA GIOVANNI PASCOLI 2,,BAGHERIA,PA,,,,,,,,,,,,,,,," Si confermano numeri in pratica, cli ha eff pag durante mandato. Altra rata non
+  di competenza",,"Pratica num.   : 5282973 di VITALE SIRIA CRISTINA
+Rif. Lotto     : 222210
+Importo Rata   :      165,55
+Interessi      :        0,22
+Spese          :       16,57
+-----------------------------------
+Totale         :      182,34
+-----------------------------------
+Debito Residuo :    4.065,55
+",10.0,CHI,INL,,,,,,,,,1,165.55,0.22,16.57,0.0,0.0,182.34,4065.55,165.55,0.22,16.57,0.0,182.34,CP,POSITIVA (+),640,215,215 - GIOVANNA MARINO,215,2019-10-29,2019-11-21,1832916.0,1831838.0,2020-05-06 11:56:40.615,NAD,0.0,Nessun Processo Temporale,150.0,VP - VP,,,165.55,,5,PHONE COLLECTION,SICILIA,,,,,,,,,,,NAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VP,222210 30/10/2019,f,,,,VP,,11.0,Gruppo Reggio,,,PRATICA CHIUSA,f,,t,f,,,,,,,,"3311018701,3336625393",t,f,,,
+8254301,10,FID,FIDITALIA S.P.A.,177,FID - 2A ,2019-11-20,2019-12-16,0010273038269780,DMTMRT70M02F839E,DI MATTEO UMBERTO,1970-08-02 00:00:00,NAPOLI,VIA OFANTO 5,80126,NAPOLI,,Telefono principale,,0812462115,,,,ORVI SRL dal 2013,,,,,,,,C5,int tel cell spento,"16 12 Confermati dati in pratica. Il cliente non ha rispettato gli accordi presi col nostro esattore per definire la posizione eludendo i solleciti effettuati.
+","ESTRATTO CONTO posizione N. 10273038269780
+
+----------------------------------------------------------------------------
+ Lotto affidamento n..: 2136
+ Organizzazione.......: 1
+ Tipo Prodotto........: 27
+ Tipo Servizio........: 2A
+ SETTORE_OPERATIVO....: C5
+ Codice ID Cliente....: 10000007862412
+----------------------------------------------------------------------------
+
+ Banca................: UNICREDIT SPA
+ Agenzia..............: NOLA 2 - CIS 1
+ Localit….............: NOLA
+ Numero Conto.........: 000400255366
+ IBAN.................: IT38L0200840022000400255366
+ Intestatario C/C.....: DI MATTEO UMBERTO
+
+        -------- Altri Telefoni -------
+    Numero DT Acquisiz. Ult.Contatto   Tipo
+ 812462115   2008-09-04                abitazione
+ 815108363   2017-11-24                lavoro
+3290117491   2017-11-24                cellulare
+3404997194   2008-09-04                cellulare
+
+ -----  D A T I    C O N T R A T T O  ----
+  SETTORE_MERCEOLOGICO....: 250
+  SALDO_GESTIONALE........: 8358,47
+  SALDO_INIZIALE..........: 8358,47
+  IN_RIFINANZIAMENTO......: false
+  DATA_APERTURA...........: 2017-11-23 00:00:00
+  IMPORTO_FINANZIATO......:   13.301,00
+  TAN.....................: 7
+  TAEG....................: 8.4879999999999995
+  CONVENZIONATO...........: F. FERRAJOLI & C. SRL
+  DATA_ULTIMO_PAGAMENTO...: 2019-11-05 00:00:00
+  IMPORTO_ULTIMO_PAGAMENTO:      321,49
+  IMPORTO_ULTIMO_REVOLVING:      326,27
+  PRESTITO_PERSONALE......: false
+  PROTESTI................: false
+  CONSOLIDATION...........: true
+  RATAUP..................:      318,49
+  RATAUC..................:        0,00
+  RATAGLOBALE.............:      318,49
+  ASSICURAZIONE...........: Nessuna Polizza
+  ASSICURAZIONE_LINEARE...: Non attiva/Non esiste
+  MODALITA_PAGAMENTO......: SDD
+  
+  DATA_ULTIMO_CICLO.......: 2019-10-21 00:00:00
+  DATA_PROSSIMO_CICLO.....: 2019-11-21 00:00:00
+  DATA_ULTIMA_SCADENZA....: 2019-11-05 00:00:00
+  DATA_PROSSIMA_SCADENZA..: 2019-12-06 00:00:00
+
+  --------    Dati Bene   -------
+ Numero utilizzo  : 1
+ Progressivo      : 0
+ Tipo             : 
+ Descrizione      : FIAT 500  LOUNGE                
+ Marca veicolo    : FIAT
+ Stato veicolo    : NUOVO
+ Bene garanzia    : 
+ Liquidato        : 12950,00
+ Commissione      : 350,00
+ Totale           : 12950,00
+ Data utilizzo    : 2017-11-23
+
+
+ ----  D A T I    D I    A F F I D A M E N T O  ---- 
+  DATA_INIZIO.............: 2019-11-20 00:00:00
+  DATA_FINE...............: 2019-12-16 00:00:00
+  DOVUTO..................:      969,81
+  CAPITALE................:      969,81
+  INTERESSI_MORA..........:        0,00
+  SPESE_RECUPERO..........:      145,47
+  OBIETTIVO...............:    1.115,28
+  RIUTILIZZI..............: false
+  SETTORE_OPERATIVO.......: C5
+  
+  CYCLE_DUE...............: 4
+  IMPORTO_RATA............:   32.149,00
+  MODALITA_PAGAMENTO_AFF..: SDD
+  FLAG_RIAFFIDO...........: S
+  SCADUTO_UNDER_30_GG.....:      326,27
+  SCADUTO_30_GG...........:      322,05
+  SCADUTO_60_GG...........:      321,49
+  SCADUTO_90_GG...........:        0,00
+  SCADUTO_120_GG..........:        0,00
+  SCADUTO_150_GG..........:        0,00
+  SCADUTO_180_GG..........:        0,00
+  SCADUTO_210_GG..........:        0,00
+  SPESE_UNDER_30_GG.......:       48,93
+  SPESE_30_GG.............:       48,30
+  SPESE_60_GG.............:       48,22
+  SPESE_90_GG.............:        0,00
+  SPESE_120_GG............:        0,00
+  SPESE_150_GG............:        0,00
+  SPESE_180_GG............:        0,00
+  SPESE_210_GG............:        0,00
+  
+
+
+  --------  Coobbligati   ------- 
+ Nome         : 
+ Cod.Fiscale  : 
+ Data nascita : 
+ Luogo nascita: 
+ Indirizzo    : 
+ Comune       : 
+ CAP          : 
+ Provincia    : 
+ Telefono     : 
+  --------    Utilizzi    -------
+ ID                    : 1
+ Data apertura         : 2017-11-23
+ Stato up              : Attivo
+ Importo finanziato    : 13300,00
+ Numero rate           : 48
+ Numero rate scadute   : 23
+ Importo erogato       : 12950,00
+ Commissione           : 350,00
+ Importo assicurazione : 0,00
+ Tipo                  : UP",5.0,CHI,INL,000400255366,2017-11-23,,,,,,,1,969.81,0.0,145.47,0.0,0.0,1115.28,8358.47,0.0,0.0,0.0,0.0,0.0,N,NEGATIVA (-),272,311,311 - DE BIASE FRANCO ,311,2019-11-21,2019-12-16,1832066.0,1832065.0,2019-12-19 10:08:29.485,GS1,0.0,Nessun Processo Temporale,,,251.0,EENP - IMPOSSIBILITATO A PAGARE/NON VUOLE PAGARE,969.81,2019-12-13 00:00:00,3,Esattore ESTERNO,CAMPANIA,,,155,,,,,,,,311,,,,2A,,,,,,,,,,,,,,,,,,,,,,,,,,703,,2136 20/11/2019,t,0016,10000007862412,,,EENP,1.0,Regione Campania,1.0,Tutti,PRATICA CHIUSA,t,,f,t,,,,,,,,"0812462115,0815108363,3290117491",t,f,,,
+8369538,8,FGA,FCA BANK,101,SP - 210,2020-05-27,2020-07-12,5654573,PGNTRS62A41I234R,PAGNOTTA TERESA,1962-01-01 00:00:00,SANTA MARIA CAPUA VETERE CE,VIA RUTA,81100,CASERTA,CE,,,,,,,,,,,,,,,,,,"Cap: 81100
+CF_PIva: PGNTRS62A41I234R
+Citta: CASERTA
+Data_Affido: 27/05/2020
+Data_Contratto: 20/03/2019
+Data_Nascita: 01/01/1962
+Data_Prev_Chius: 27/05/2020
+Debitore: PAGNOTTA TERESA
+Fascia_Corrente: Aging 1
+Indirizzo: VIA RUTA
+Intestatario: PAGNOTTA TERESA
+Luogo_Nascita: SANTA MARIA CAPUA VETERE CE
+Memo: 
+Mora: 3.640000000000000124344978758017532527446746826171875
+Posizione: 5654573
+Provincia: CE
+Rate_Scadenti: 0
+Saldo_Contabile: 234.25
+Spese_Recupero: 23.780000000000001136868377216160297393798828125
+Telefono1: 
+Telefono2: 
+Totale_Credito: 261.67000000000001591615728102624416351318359375",9.0,CHI,INL,,2020-07-10,,,,,0.0,,1,234.25,3.64,23.78,0.0,0.0,261.67,261.67,0.0,0.0,0.0,0.0,0.0,Z,STORNATA DA COMMITTENTE,639,214,214 - LOGOTETA DANILA,214,2020-05-27,2020-07-12,1831228.0,1832112.0,2020-07-10 17:54:32.593,158,0.0,Nessun Processo Temporale,138.0,Z - STORNO,,,234.25,,5,PHONE COLLECTION,CAMPANIA,,2019-03-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,558,f,,,,Z,,11.0,Gruppo Reggio,,,PRATICA CHIUSA,t,,t,f,,,,,,,,3396863152,t,f,,,
+8257097,8,FGA,FCA BANK,102,SP - 220,2019-11-26,2019-12-19,5350084,,GP SERVICE SRL,,,VIA CUSSIGNACCO 78/41,,PRADAMANO,UD,,,,,,,,,,,,,,,,cli ha eff pag durante mandato ,,"Pratica num.   : 5350084 di GP SERVICE SRL
+Rif. Lotto     : 223126
+Importo Rata   :      269,50
+Interessi      :        0,95
+Spese          :       27,04
+-----------------------------------
+Totale         :      297,49
+-----------------------------------
+Debito Residuo :   10.491,50
+",1.0,CHI,INL,,,,,,,,,1,269.5,0.95,27.04,0.0,0.0,297.49,10491.5,269.5,0.95,27.04,0.0,297.49,CP,POSITIVA (+),640,215,215 - GIOVANNA MARINO,215,2019-11-26,2019-12-19,1832916.0,1831838.0,2020-05-06 11:56:40.615,NAD,0.0,Nessun Processo Temporale,150.0,VP - VP,,,269.5,,5,PHONE COLLECTION,FRIULI VENEZIA GIULIA,,,,,,,,,,,215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VP,223126 28/11/2019,f,,,,VP,,11.0,Gruppo Reggio,,,PRATICA CHIUSA,f,,t,f,,,,,,,,"0432685145,3285339219",t,f,,,
+3019465,2,FNB,FINECO BANK,107,FNC BANKING 1° Liv.,2016-03-30,2016-05-12,7129878,,PRIMAVERA PASQUALE E TOTARO PATRIZIA,,,VIA F.SCO VALENTE 86,70013,CASTELLANA GROTTE,BA,,,804961052,,,804961052,3386205851,,,VIA F.SCO VALENTE 86,CASTELLANA GROTTE,BA,70013,,,"Notifica per FRANCA D""ERRICO  (149): pervenuta copia bb di euro 12.00 al 06/04
+Msg da: 90",IT71C0301503200000002628515,,,CHI,,,,,,,,1.0,,1,10.19,0.0,0.0,0.0,0.0,10.19,,10.19,0.0,0.0,0.0,10.19,CP,POSITIVA (+),238,149,149 - FRANCA D'ERRICO ,149,2016-03-31,2016-05-12,1805299.0,1805298.0,2019-02-06 11:52:22.732,DAN,0.0,Nessun Processo Temporale,150.0,VP - VP,,,10.19,2016-05-12 00:00:00,2,Esattore INTERNO,PUGLIA,,,,,,,,,FNC - TEL - /2628515,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,33982,f,,,,VP,,6.0,Credit Recovery Lab interno,1.0,Tutti,PRATICA CHIUSA,f,,t,t,,,,,,,,"0804961052,0804961052",f,f,,,
+8566291,28,BIF,BANCA IFIS S.P.A.,262,BIF - RIATTIVAZIONI 3 INS,2021-10-01,2021-10-30,0335841062,PMUSVT66R03H148O,PUMA SALVATORE,1966-10-03 00:00:00,,VIA SOTTOTENENTE CASUCCIO 7,92020,RACALMUTO,AG,,,,,,,,,,,,,,,,"FAX PERVENUTO
+",,"TIPO_ANAGRAFICA: PF
+TIPO: DEBITORE
+nominativo: PUMA SALVATORE
+NDG: 1605688
+ ----------------------------------------------------------------------
+ ---------- INFO AGGIUNTIVE DA AGGIORNAMENTO CAMPI EXTRA --------------
+ --------------------- (01/10/2021 16:34:57) --------------------------
+CEDENTE: BARCLAYS BANK PLC
+CONTRATTO: 109688202147
+GESTIONE: SR
+SOCIETA: R.C. COLLECTION SRL
+PRIMA_SCADENZA: 12/02/2018
+ULTIMA_SCADENZA: 20/02/2023
+ULTIMO_PAGAMENTO: 21/09/2021
+NR_INSOLUTI: 3
+ ----------------------------------------------------------------------
+ ---------- INFO AGGIUNTIVE DA AGGIORNAMENTO CAMPI EXTRA --------------
+ --------------------- (04/10/2021 15:08:58) --------------------------
+CEDENTE: BARCLAYS BANK PLC
+CONTRATTO: 109688202147
+GESTIONE: SR
+SOCIETA: R.C. COLLECTION SRL
+PRIMA_SCADENZA: 12/02/2018
+ULTIMA_SCADENZA: 20/02/2023
+ULTIMO_PAGAMENTO: 21/09/2021
+NR_INSOLUTI: 3",5.0,CHI,INL,PAG IFIS 7 10.xlsx,2021-10-29,,,,,0.0,,6,300.0,0.0,0.0,0.0,0.0,300.0,300.0,100.0,0.0,0.0,0.0,100.0,CP,POSITIVA (+),209,102,102 - MELLONE CARMELA ,102,2021-10-01,2021-10-30,1835356.0,1835355.0,2021-11-02 12:43:37.415025,725,,,147.0,105 - VERIFICA DEI PAGAMENTI,1565.0,VERIF - VERIF. INCASSO,50.0,2021-10-29 00:00:00,2,Esattore INTERNO,SICILIA,,,,,,,,,,,,,2,,,,,,,,,,PAG1,,109688202147,,,,,,1605688,,,,,,0335841062,,OK,,,302,,f,,1605688,1605688,105,VERIF,6.0,Credit Recovery Lab interno,1.0,Tutti,PRATICA CHIUSA,f,,t,t,,,,,,,,"3381642478,338642478",t,f,,,
+8564318,17,SAN,SANTANDER CONSUMER BANK,77,SAN - B,2021-10-01,2021-10-29,13111338,BRRPTR73L22L328L,BARRACCHIA PIETRO,1973-07-22 00:00:00,TRANI,"PZA DOTT A.ALBANESE,37",76125,TRANI,BT,Telefono principale,,,Cellulare,,347 8275540,BARRACCHIA PIETRO,088 31983073,G,,,,00000,,,"La pratica è stata modificata in data 11/02/2022 :
+ - cambiato valore di Campagna1 da vuoto con RIF
+ - cambiato valore di Scadenza Rata 1 da 01/07/2021 con 01/11/2021
+ - cambiato valore di Giorni di Ritardo da 59 con 103
+ - cambiato valore di ToBetter da -1 con 0
+ - cambiato valore di Importo ToBetter da 345.66 con 0.00",,"ESTRATTO CONTO posizione N. 13111338
+----------------------------------------------------------------------
+LOTTO_ESTERNO             44221
+PROVENIENZA               CO
+OPERATORE                 58T
+CLASSIFICAZ               21
+TIPO_SCADENZA_MEMO        VP
+DATA_SCADENZA_MEMO        30-09-2021
+RECUPERATORE              CO
+DATA_AFFIDAMENTO          01-07-2021
+
+---- DATI CLIENTE ----------------------------------------------------
+COD_CLIENTE               7606173
+RAG_SOC_CLIENTE           BARRACCHIA PIETRO
+TIPO_ANAGRAFICA           P
+FORMA_GIURIDICA_CL        
+INDIRIZZO_CLIENTE         PZA DOTT A.ALBANESE,37
+CAP_CLIENTE               76125
+LOCALITA_CLIENTE          TRANI
+PROVINCIA_CLIENTE         BT
+DT_NASCITA_CLIENTE        22-07-1973
+LUOGO_NASCI_CLIENTE       TRANI
+SESSO_CLIENTE             M
+COD_FISCALE_CLIENTE       BRRPTR73L22L328L
+TELEFONO1_CLIENTE         
+TELEFONO2_CLIENTE         
+CELLULARE_CLIENTE         347 8275540
+EMAIL_CLIENTE             gestionecondominibarracchia@gmail.com
+
+DATORE_LAV_CLIENTE        BARRACCHIA PIETRO
+TEL_DAT_LAV_CLIENTE       088 31983073
+ABITAZIONE_CL             DI PROPRIETA'
+DECESSO_CL                
+
+---- ALTRI DATI ------------------------------------------------------
+NUMERO_UTENZE_TELEF       2
+TIPO_PRODOTTO             PP
+PRODOTTO                  22
+FINANZIATO                  30.000,00
+NUMERO_RATE               192
+IMPORTO_RATE                   475,09
+DATA_DECORRENZA           03-07-2012
+PRIMA_SCADENZA            01-08-2012
+ULTIMA_SCADENZA           01-07-2028
+BENE                      IMM
+MARCA_AUTO                
+TARGA_AUTO                
+CONVENZIONATO             
+GARANZIA1                 
+GARANZIA2                 
+TIPO_PAGAMENTO            BP
+BANCA                     CREDITO EMILIANO SPA          FILIALE DI TRANI
+ABI                       3032
+CAB                       41720
+STATO_MANDATO_SEPA        Annullato
+CAUSA_ULT_RID_SEPA        
+ATTRIBUTO_PRATICA         RS
+ATTRIBUTO_RECUPERO        
+---- DATI CONTABILI --------------------------------------------------   
+RISCHIO_GLOBALE             13.672,50
+ALTRI_ADDEBITI                   3,00
+TOT_ADDEBITATO                 521,49
+MORA_ADDEBITATA                  0,00
+MORA_CALCOLATA                 183,20
+MORA_INSERITA                  183,20
+CAPITALE_RESIDUO            13.151,01
+A_SCADERE                   14.173,13
+NUM_RATE_INSOLUTE         3
+RATE_RESIDUE              82
+IMP_RATE_INSOLUTE              518,49
+
+---- TABELLA RATE SCADUTE --------------------------------------------
+
+    NUMERO_RATA       SCADENZA_RATA     IMPORTO_RATA     
+----------------------------------------------------------------------
+            108          01-07-2021           172,83
+            109          01-08-2021           172,83
+            110          01-09-2021           172,83
+              0          ..-..-....             0,00
+              0          ..-..-....             0,00
+              0          ..-..-....             0,00
+              0          ..-..-....             0,00
+              0          ..-..-....             0,00
+
+
+NUM_RATA_IN_SCAD          114
+DATA_RATA_IN_SCAD         01-10-2021
+IMP_RATA_IN_SCAD               172,83
+PERCENT_RATE_PAGATE       56
+VALUTA_ULTIMO_PAGAM       20-08-2021
+NUM_ULTIMA_RATA_PAG       107
+SCAD_ULT_RATA_PAGAM       01-06-2021
+ANZIANITA_BUCKET          0
+ANZIANITA_PRATICA         93
+SPESE_CALCOLATE                463,92
+FAX_CLIENTE               
+FLAG_SOFFERENZA           
+TAN                       8.5
+TAEG                      4.9800000000000004
+CODICE_EVIDENZA           
+NOTE_EVIDENZA             
+DATA_EVIDENZA             
+CONT_RIMODULAZIONE        RSG
+RECUPERO_STORICO          34
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+RCAZIDTIN          5052020
+RCAZIDTSI          30092021
+RCAZISTATO         70
+RCAZILEGAL         
+RCAZIUFFIC         C1S
+RCAZISALDO         1469462
+RCAZIFILIA         069
+RCAZISTAPR         40
+RCAZIPUNVE         0
+RCAZIVENDI         0
+RCAZIAGENT         4300752
+RCAZIEMETT         0
+RCAZITABFI         07W
+RCAZILOTIN         1274
+RCAZIDTRIE         0
+RCAZIDTSCD         20210701
+RCAZIFID           N
+RCAZIINDDL         VIA MARTUCCI, 12
+RCAZILOCDL         TRANI
+RCAZIPRODL         BT
+RCAZICAPDL         70059
+RCAZIINGAD         
+RCAZILOGAD         
+RCAZIPRGAD         
+RCAZICAGAD         0
+RCAZIING1D         
+RCAZILOG1D         
+RCAZIPRG1D         
+RCAZICPG1D         0
+RCAZIING2D         
+RCAZILOG2D         
+RCAZIPRG2D         
+RCAZICPG2D         0
+RCAZIGARA3         
+RCAZIGARA4         
+RCAZIGARA5         
+RCAZIDESBN         ACQ TERRENO
+RCAZIDTIMM         0
+RCAZIULTRI         50003
+RCAZISESG1         
+RCAZITELAI         
+RCAZICILIN         0000
+RCAZITATCL         A
+RCAZITOCCL         PR
+RCAZIDASCL         199501
+RCAZIRANCL         1232
+RCAZITATGA         
+RCAZITOCGA         
+RCAZIDASGA         0
+RCAZIRANGA         0
+RCAZITATG1         
+RCAZITOCG1         
+RCAZIDASG1         0
+RCAZIRANG1         0
+RCAZITATG2         
+RCAZITOCG2         
+RCAZIRANG2         0
+RCAZITIPCL         
+RCAZIFLACC         N
+RCAZISECUR         N
+RCAZIDTINR         20210701
+RCAZIDTPER         0
+RCAZICNTGA         0
+RCAZICAPIN         44736
+RCAZIINTIN         6843
+RCAZIADDIN         270
+RCAZIADDFU         94832
+RCAZITRAFR         3
+RCAZINR1FR         108
+RCAZIDR1FR         20210701
+RCAZIIR1FR         17283
+RCAZINR2FR         109
+RCAZIDR2FR         20210801
+RCAZIIR2FR         17283
+RCAZIRTPAG         107
+RCAZIRTPAF         94
+RCAZIIPEDT         0
+RCAZIRPEDT         0
+RCAZICPEDT         0
+RCAZIDTEDT         0
+RCAZITPDOC         CAR
+RCAZINMDOC         AT9637929
+RCAZIUFRIL         COM
+RCAZILURIL         TRANI
+RCAZIPRRIL         BT
+RCAZIDTRIL         20130905
+RCAZIASSIC         
+RCAZIIBTID         0
+RCAZISBTID         0
+RCAZICBTID         0
+RCAZIIMODT         0
+RCAZISMODT         0
+RCAZIAINDT         0
+RCAZITBTID         0
+RCAZITIMSR         0
+RCAZIIRAT2         23731
+RCAZIACCED         N
+RCAZITIPOL         
+RCAZISOTCL         
+RCAZIDTINS         0
+RCAZIDTULP         0
+RCAZIULTPG         0
+RCAZIFLGRI         ",10.0,CHI,INL,,2021-10-08,,,,,,,1,521.49,183.2,463.92,0.0,0.0,1168.61,13094.7,345.66,0.0,0.0,0.0,345.66,CP,POSITIVA (+),255,19,19 - MONOPOLI GIUSEPPE,19,2021-10-01,2021-10-29,4477.0,4476.0,2022-02-11 11:51:02.005,admin,0.0,Nessun Processo Temporale,457.0,RPD - RPD,599.0,TE1 - TE1,521.49,2021-10-08 00:00:00,3,Esattore ESTERNO,PUGLIA,,,58T,,,,STG3,2021-07-01,B,2021-11-01,,2021-07-01,3,,,,,,,,,,93,,103,,0,,0.00,,RIF,,CB,,ACC,,,,,,101,,44221 01/10/2021,t,CONSULGEST,7606173,13111338,RPD,TE1,2.0,Regione Puglia,1.0,Tutti,PRATICA CHIUSA,f,EER8ACO024,t,t,,,,,,,,"08831983073,3478275540",t,f,,,

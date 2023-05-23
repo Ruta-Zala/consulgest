@@ -1,0 +1,22 @@
+@import url('tailwindcss/tailwind.css');
+@import url('v-calendar/dist/style.css');
+
+/* TODO: find another way to style Daisy UI components */
+.checkbox {
+	@apply w-[15px] h-[15px] relative before:absolute before:cursor-pointer after:cursor-pointer after:absolute after:bg-c-deep-blue after:bottom-1/2 after:right-1/2 after:translate-x-1/2 after:translate-y-1/2 after:w-[12px] after:hidden after:rounded-[2px] checked:after:block after:h-[12px] before:bg-white outline-c-deep-blue before:w-[18px] before:h-[18px] before:border before:border-c-light-grey hover:before:border-c-deep-blue before:duration-150 checked:before:border-c-deep-blue before:rounded-[4px] before:right-1/2 before:translate-x-1/2 before:translate-y-1/2 before:bottom-1/2;
+}
+
+/* custom scrollbar */
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background-color: #fff;
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background: #e3edff;
+}

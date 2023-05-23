@@ -1,0 +1,1465 @@
+{
+	"info": {
+		"_postman_id": "0049baa4-79b0-4ce9-a57b-90daa28067cc",
+		"name": "Consulgest Apis",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21405451"
+	},
+	"item": [
+		{
+			"name": "HeaderCsvTemplate",
+			"item": [
+				{
+					"name": "templateList",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/template/",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"template",
+								""
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "example",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://127.0.0.1:8000/api/template/",
+									"protocol": "http",
+									"host": [
+										"127",
+										"0",
+										"0",
+										"1"
+									],
+									"port": "8000",
+									"path": [
+										"api",
+										"template",
+										""
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Thu, 29 Dec 2022 13:07:44 GMT"
+								},
+								{
+									"key": "Server",
+									"value": "WSGIServer/0.2 CPython/3.9.13"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Vary",
+									"value": "Accept, Origin"
+								},
+								{
+									"key": "Allow",
+									"value": "GET, POST, HEAD, OPTIONS"
+								},
+								{
+									"key": "X-Frame-Options",
+									"value": "DENY"
+								},
+								{
+									"key": "Content-Length",
+									"value": "91"
+								},
+								{
+									"key": "X-Content-Type-Options",
+									"value": "nosniff"
+								},
+								{
+									"key": "Referrer-Policy",
+									"value": "same-origin"
+								},
+								{
+									"key": "Cross-Origin-Opener-Policy",
+									"value": "same-origin"
+								}
+							],
+							"cookie": [],
+							"body": "[\n    {\n        \"id\": 1,\n        \"name\": \"test Template\",\n        \"colonne\": [\n            \"col1\",\n            \"col2\",\n            \"col3\",\n            \"col4\",\n            \"col5\"\n        ],\n        \"utente\": 1\n    }\n]"
+						}
+					]
+				},
+				{
+					"name": "postTemplate",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"test Template\",\r\n    \"colonne\": [\"col1\",\"col2\",\"col3\",\"col4\",\"col5\"],\r\n    \"utente\": \"1\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/template/",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"template",
+								""
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "example",
+							"originalRequest": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"name\": \"test Template\",\r\n    \"colonne\": [\"col1\",\"col2\",\"col3\",\"col4\",\"col5\"],\r\n    \"utente\": \"1\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "http://127.0.0.1:8000/api/template/",
+									"protocol": "http",
+									"host": [
+										"127",
+										"0",
+										"0",
+										"1"
+									],
+									"port": "8000",
+									"path": [
+										"api",
+										"template",
+										""
+									]
+								}
+							},
+							"status": "Created",
+							"code": 201,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Thu, 29 Dec 2022 13:07:19 GMT"
+								},
+								{
+									"key": "Server",
+									"value": "WSGIServer/0.2 CPython/3.9.13"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Vary",
+									"value": "Accept, Origin"
+								},
+								{
+									"key": "Allow",
+									"value": "GET, POST, HEAD, OPTIONS"
+								},
+								{
+									"key": "X-Frame-Options",
+									"value": "DENY"
+								},
+								{
+									"key": "Content-Length",
+									"value": "89"
+								},
+								{
+									"key": "X-Content-Type-Options",
+									"value": "nosniff"
+								},
+								{
+									"key": "Referrer-Policy",
+									"value": "same-origin"
+								},
+								{
+									"key": "Cross-Origin-Opener-Policy",
+									"value": "same-origin"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"id\": 1,\n    \"name\": \"test Template\",\n    \"colonne\": [\n        \"col1\",\n        \"col2\",\n        \"col3\",\n        \"col4\",\n        \"col5\"\n    ],\n    \"utente\": 1\n}"
+						}
+					]
+				},
+				{
+					"name": "UpdateTemplate",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"test Template\",\r\n    \"colonne\": [\r\n        \"col1\",\r\n        \"col2\",\r\n        \"col3\",\r\n        \"col4\",\r\n        \"colll\"\r\n    ],\r\n    \"utente\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/template/1/",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"template",
+								"1",
+								""
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "example",
+							"originalRequest": {
+								"method": "PATCH",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"name\": \"test Template\",\r\n    \"colonne\": [\r\n        \"col1\",\r\n        \"col2\",\r\n        \"col3\",\r\n        \"col4\",\r\n        \"colll\"\r\n    ],\r\n    \"utente\": 1\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "http://127.0.0.1:8000/api/template/1/",
+									"protocol": "http",
+									"host": [
+										"127",
+										"0",
+										"0",
+										"1"
+									],
+									"port": "8000",
+									"path": [
+										"api",
+										"template",
+										"1",
+										""
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Thu, 29 Dec 2022 13:17:42 GMT"
+								},
+								{
+									"key": "Server",
+									"value": "WSGIServer/0.2 CPython/3.9.13"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Vary",
+									"value": "Accept, Origin"
+								},
+								{
+									"key": "Allow",
+									"value": "GET, PUT, PATCH, DELETE, HEAD, OPTIONS"
+								},
+								{
+									"key": "X-Frame-Options",
+									"value": "DENY"
+								},
+								{
+									"key": "Content-Length",
+									"value": "90"
+								},
+								{
+									"key": "X-Content-Type-Options",
+									"value": "nosniff"
+								},
+								{
+									"key": "Referrer-Policy",
+									"value": "same-origin"
+								},
+								{
+									"key": "Cross-Origin-Opener-Policy",
+									"value": "same-origin"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"id\": 1,\n    \"name\": \"test Template\",\n    \"colonne\": [\n        \"col1\",\n        \"col2\",\n        \"col3\",\n        \"col4\",\n        \"colll\"\n    ],\n    \"utente\": 1\n}"
+						}
+					]
+				},
+				{
+					"name": "FilterTemplateByUserID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/template/?utente=1",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"template",
+								""
+							],
+							"query": [
+								{
+									"key": "utente",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "example",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://127.0.0.1:8000/api/template/?utente=1",
+									"protocol": "http",
+									"host": [
+										"127",
+										"0",
+										"0",
+										"1"
+									],
+									"port": "8000",
+									"path": [
+										"api",
+										"template",
+										""
+									],
+									"query": [
+										{
+											"key": "utente",
+											"value": "1"
+										}
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Thu, 29 Dec 2022 14:11:17 GMT"
+								},
+								{
+									"key": "Server",
+									"value": "WSGIServer/0.2 CPython/3.9.13"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Vary",
+									"value": "Accept, Origin"
+								},
+								{
+									"key": "Allow",
+									"value": "GET, POST, HEAD, OPTIONS"
+								},
+								{
+									"key": "X-Frame-Options",
+									"value": "DENY"
+								},
+								{
+									"key": "Content-Length",
+									"value": "349"
+								},
+								{
+									"key": "X-Content-Type-Options",
+									"value": "nosniff"
+								},
+								{
+									"key": "Referrer-Policy",
+									"value": "same-origin"
+								},
+								{
+									"key": "Cross-Origin-Opener-Policy",
+									"value": "same-origin"
+								}
+							],
+							"cookie": [],
+							"body": "[\n    {\n        \"id\": 1,\n        \"name\": \"test Template\",\n        \"colonne\": [\n            \"col1\",\n            \"col2\",\n            \"col3\",\n            \"col4\",\n            \"colll\"\n        ],\n        \"utente\": 1\n    },\n    {\n        \"id\": 2,\n        \"name\": \"test Template\",\n        \"colonne\": [\n            \"col1\",\n            \"col2\",\n            \"col3\",\n            \"col4\"\n        ],\n        \"utente\": 1\n    },\n    {\n        \"id\": 3,\n        \"name\": \"test Template\",\n        \"colonne\": [\n            \"col1\",\n            \"col2\",\n            \"col3\",\n            \"col4\"\n        ],\n        \"utente\": 1\n    },\n    {\n        \"id\": 4,\n        \"name\": \"test Template\",\n        \"colonne\": [\n            \"col1\",\n            \"col2\",\n            \"col3\",\n            \"col4\",\n            \"colll\"\n        ],\n        \"utente\": 1\n    }\n]"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Lotto",
+			"item": [
+				{
+					"name": "Lotto List",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/lotto/",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"lotto",
+								""
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Lotto List",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://127.0.0.1:8000/api/lotto/",
+									"protocol": "http",
+									"host": [
+										"127",
+										"0",
+										"0",
+										"1"
+									],
+									"port": "8000",
+									"path": [
+										"api",
+										"lotto",
+										""
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Fri, 20 Jan 2023 09:33:40 GMT"
+								},
+								{
+									"key": "Server",
+									"value": "WSGIServer/0.2 CPython/3.8.15"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Vary",
+									"value": "Accept, Origin"
+								},
+								{
+									"key": "Allow",
+									"value": "GET, POST, HEAD, OPTIONS"
+								},
+								{
+									"key": "X-Frame-Options",
+									"value": "DENY"
+								},
+								{
+									"key": "Content-Length",
+									"value": "275"
+								},
+								{
+									"key": "X-Content-Type-Options",
+									"value": "nosniff"
+								},
+								{
+									"key": "Referrer-Policy",
+									"value": "same-origin"
+								},
+								{
+									"key": "Cross-Origin-Opener-Policy",
+									"value": "same-origin"
+								}
+							],
+							"cookie": [],
+							"body": "[\n    {\n        \"id\": 1,\n        \"name\": \"test\",\n        \"created_at\": \"2023-01-19T14:50:44.113620Z\",\n        \"updated_at\": \"2023-01-19T14:50:44.113620Z\",\n        \"utente\": 1,\n        \"dossiers\": [\n            1,\n            2\n        ]\n    },\n    {\n        \"id\": 2,\n        \"name\": \"aa\",\n        \"created_at\": \"2023-01-19T14:51:21.239500Z\",\n        \"updated_at\": \"2023-01-19T14:51:21.239500Z\",\n        \"utente\": 1,\n        \"dossiers\": [\n            1,\n            2,\n            4\n        ]\n    }\n]"
+						}
+					]
+				},
+				{
+					"name": "Add Lotto",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"Lotto1\",\r\n    \"utente\": 1,\r\n    \"dossiers\": [1,2,3]\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/lotto/",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"lotto",
+								""
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Add Lotto",
+							"originalRequest": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"name\": \"Lotto1\",\r\n    \"utente\": 1,\r\n    \"dossiers\": [1,2,3]\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "http://127.0.0.1:8000/api/lotto/",
+									"protocol": "http",
+									"host": [
+										"127",
+										"0",
+										"0",
+										"1"
+									],
+									"port": "8000",
+									"path": [
+										"api",
+										"lotto",
+										""
+									]
+								}
+							},
+							"status": "Created",
+							"code": 201,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Fri, 20 Jan 2023 09:35:33 GMT"
+								},
+								{
+									"key": "Server",
+									"value": "WSGIServer/0.2 CPython/3.8.15"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Vary",
+									"value": "Accept, Origin"
+								},
+								{
+									"key": "Allow",
+									"value": "GET, POST, HEAD, OPTIONS"
+								},
+								{
+									"key": "X-Frame-Options",
+									"value": "DENY"
+								},
+								{
+									"key": "Content-Length",
+									"value": "140"
+								},
+								{
+									"key": "X-Content-Type-Options",
+									"value": "nosniff"
+								},
+								{
+									"key": "Referrer-Policy",
+									"value": "same-origin"
+								},
+								{
+									"key": "Cross-Origin-Opener-Policy",
+									"value": "same-origin"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"id\": 3,\n    \"name\": \"Lotto1\",\n    \"created_at\": \"2023-01-20T09:35:33.171269Z\",\n    \"updated_at\": \"2023-01-20T09:35:33.171269Z\",\n    \"utente\": 1,\n    \"dossiers\": [\n        1,\n        2,\n        3\n    ]\n}"
+						}
+					]
+				},
+				{
+					"name": "Lotto list by UserID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/lotto/?utente=1",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"lotto",
+								""
+							],
+							"query": [
+								{
+									"key": "utente",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Lotto list by UserID",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://127.0.0.1:8000/api/lotto/?utente=1",
+									"protocol": "http",
+									"host": [
+										"127",
+										"0",
+										"0",
+										"1"
+									],
+									"port": "8000",
+									"path": [
+										"api",
+										"lotto",
+										""
+									],
+									"query": [
+										{
+											"key": "utente",
+											"value": "1"
+										}
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Fri, 20 Jan 2023 09:37:08 GMT"
+								},
+								{
+									"key": "Server",
+									"value": "WSGIServer/0.2 CPython/3.8.15"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Vary",
+									"value": "Accept, Origin"
+								},
+								{
+									"key": "Allow",
+									"value": "GET, POST, HEAD, OPTIONS"
+								},
+								{
+									"key": "X-Frame-Options",
+									"value": "DENY"
+								},
+								{
+									"key": "Content-Length",
+									"value": "416"
+								},
+								{
+									"key": "X-Content-Type-Options",
+									"value": "nosniff"
+								},
+								{
+									"key": "Referrer-Policy",
+									"value": "same-origin"
+								},
+								{
+									"key": "Cross-Origin-Opener-Policy",
+									"value": "same-origin"
+								}
+							],
+							"cookie": [],
+							"body": "[\n    {\n        \"id\": 1,\n        \"name\": \"test\",\n        \"created_at\": \"2023-01-19T14:50:44.113620Z\",\n        \"updated_at\": \"2023-01-19T14:50:44.113620Z\",\n        \"utente\": 1,\n        \"dossiers\": [\n            1,\n            2\n        ]\n    },\n    {\n        \"id\": 2,\n        \"name\": \"aa\",\n        \"created_at\": \"2023-01-19T14:51:21.239500Z\",\n        \"updated_at\": \"2023-01-19T14:51:21.239500Z\",\n        \"utente\": 1,\n        \"dossiers\": [\n            1,\n            2,\n            4\n        ]\n    },\n    {\n        \"id\": 3,\n        \"name\": \"Lotto1\",\n        \"created_at\": \"2023-01-20T09:35:33.171269Z\",\n        \"updated_at\": \"2023-01-20T09:35:33.171269Z\",\n        \"utente\": 1,\n        \"dossiers\": [\n            1,\n            2,\n            3\n        ]\n    }\n]"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Dossier",
+			"item": [
+				{
+					"name": "Dossier List",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/dossier/",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"dossier",
+								""
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Dossier List",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://127.0.0.1:8000/api/dossier/",
+									"protocol": "http",
+									"host": [
+										"127",
+										"0",
+										"0",
+										"1"
+									],
+									"port": "8000",
+									"path": [
+										"api",
+										"dossier",
+										""
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Fri, 20 Jan 2023 09:39:58 GMT"
+								},
+								{
+									"key": "Server",
+									"value": "WSGIServer/0.2 CPython/3.8.15"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Vary",
+									"value": "Accept, Origin"
+								},
+								{
+									"key": "Allow",
+									"value": "GET, POST, HEAD, OPTIONS"
+								},
+								{
+									"key": "X-Frame-Options",
+									"value": "DENY"
+								},
+								{
+									"key": "Content-Length",
+									"value": "1985"
+								},
+								{
+									"key": "X-Content-Type-Options",
+									"value": "nosniff"
+								},
+								{
+									"key": "Referrer-Policy",
+									"value": "same-origin"
+								},
+								{
+									"key": "Cross-Origin-Opener-Policy",
+									"value": "same-origin"
+								}
+							],
+							"cookie": [],
+							"body": "[\n    {\n        \"id\": 1,\n        \"committente_codice\": \"a\",\n        \"esattore_codice\": \"a\",\n        \"committente_desc\": \"a\",\n        \"profilo_desc\": \"a\",\n        \"p_iva\": \"a\",\n        \"luogo_nascita\": \"a\",\n        \"cap\": \"a\",\n        \"citta\": \"a\",\n        \"provincia\": \"a\",\n        \"tipo_telefono1\": \"a\",\n        \"tipo_telefono2\": \"a\",\n        \"filiale\": \"a\",\n        \"minimo_dovuto\": \"a\",\n        \"rate_arretrate\": \"a\",\n        \"importo_capitale\": \"a\",\n        \"importo_interessi\": \"a\",\n        \"importo_spese\": \"a\",\n        \"importo_spese_recupero\": \"a\",\n        \"importo_differenza\": \"a\",\n        \"debitoresiduo\": \"a\",\n        \"importo_rata\": \"a\",\n        \"data_affido\": \"a\",\n        \"scadenza_mandato\": \"a\",\n        \"data_nascita\": \"a\",\n        \"utente\": 1\n    },\n    {\n        \"id\": 2,\n        \"committente_codice\": \"a\",\n        \"esattore_codice\": \"a\",\n        \"committente_desc\": \"a\",\n        \"profilo_desc\": \"a\",\n        \"p_iva\": \"a\",\n        \"luogo_nascita\": \"a\",\n        \"cap\": \"a\",\n        \"citta\": \"a\",\n        \"provincia\": \"a\",\n        \"tipo_telefono1\": \"a\",\n        \"tipo_telefono2\": \"a\",\n        \"filiale\": \"a\",\n        \"minimo_dovuto\": \"a\",\n        \"rate_arretrate\": \"a\",\n        \"importo_capitale\": \"a\",\n        \"importo_interessi\": \"a\",\n        \"importo_spese\": \"a\",\n        \"importo_spese_recupero\": \"a\",\n        \"importo_differenza\": \"a\",\n        \"debitoresiduo\": \"a\",\n        \"importo_rata\": \"a\",\n        \"data_affido\": \"a\",\n        \"scadenza_mandato\": \"a\",\n        \"data_nascita\": \"a\",\n        \"utente\": 1\n    },\n    {\n        \"id\": 3,\n        \"committente_codice\": \"a\",\n        \"esattore_codice\": \"a\",\n        \"committente_desc\": \"a\",\n        \"profilo_desc\": \"a\",\n        \"p_iva\": \"a\",\n        \"luogo_nascita\": \"a\",\n        \"cap\": \"a\",\n        \"citta\": \"a\",\n        \"provincia\": \"a\",\n        \"tipo_telefono1\": \"a\",\n        \"tipo_telefono2\": \"a\",\n        \"filiale\": \"a\",\n        \"minimo_dovuto\": \"a\",\n        \"rate_arretrate\": \"a\",\n        \"importo_capitale\": \"a\",\n        \"importo_interessi\": \"a\",\n        \"importo_spese\": \"a\",\n        \"importo_spese_recupero\": \"a\",\n        \"importo_differenza\": \"a\",\n        \"debitoresiduo\": \"a\",\n        \"importo_rata\": \"a\",\n        \"data_affido\": \"a\",\n        \"scadenza_mandato\": \"a\",\n        \"data_nascita\": \"a\",\n        \"utente\": 1\n    },\n    {\n        \"id\": 4,\n        \"committente_codice\": \"a\",\n        \"esattore_codice\": \"a\",\n        \"committente_desc\": \"a\",\n        \"profilo_desc\": \"a\",\n        \"p_iva\": \"a\",\n        \"luogo_nascita\": \"a\",\n        \"cap\": \"a\",\n        \"citta\": \"a\",\n        \"provincia\": \"a\",\n        \"tipo_telefono1\": \"a\",\n        \"tipo_telefono2\": \"a\",\n        \"filiale\": \"a\",\n        \"minimo_dovuto\": \"a\",\n        \"rate_arretrate\": \"a\",\n        \"importo_capitale\": \"a\",\n        \"importo_interessi\": \"a\",\n        \"importo_spese\": \"a\",\n        \"importo_spese_recupero\": \"a\",\n        \"importo_differenza\": \"a\",\n        \"debitoresiduo\": \"a\",\n        \"importo_rata\": \"a\",\n        \"data_affido\": \"a\",\n        \"scadenza_mandato\": \"a\",\n        \"data_nascita\": \"a\",\n        \"utente\": 1\n    }\n]"
+						}
+					]
+				},
+				{
+					"name": "Add Dossier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"committente_codice\": \"committente test\",\r\n    \"esattore_codice\": \"esattore test\",\r\n    \"committente_desc\": \"desc test\",\r\n    \"profilo_desc\": \"prof test\",\r\n    \"p_iva\": \"iva test\",\r\n    \"luogo_nascita\": \"nascita test\",\r\n    \"cap\": \"cap test\",\r\n    \"citta\": \"citta test\",\r\n    \"provincia\": \"provincia test\",\r\n    \"tipo_telefono1\": \"tel test\",\r\n    \"tipo_telefono2\": \"tel2 test\",\r\n    \"filiale\": \"filia test\",\r\n    \"minimo_dovuto\": \"mini test\",\r\n    \"rate_arretrate\": \"rate test\",\r\n    \"importo_capitale\": \"capitale test\",\r\n    \"importo_interessi\": \"interessi test\",\r\n    \"importo_spese\": \"spese test\",\r\n    \"importo_spese_recupero\": \"recupero test\",\r\n    \"importo_differenza\": \"differenza test\",\r\n    \"debitoresiduo\": \"debit test\",\r\n    \"importo_rata\": \"rata test\",\r\n    \"data_affido\": \"affido test\",\r\n    \"scadenza_mandato\": \"scadenza test\",\r\n    \"data_nascita\": \"nascita test\",\r\n    \"utente\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/dossier/",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"dossier",
+								""
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Add Dossier",
+							"originalRequest": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"committente_codice\": \"committente test\",\r\n    \"esattore_codice\": \"esattore test\",\r\n    \"committente_desc\": \"desc test\",\r\n    \"profilo_desc\": \"prof test\",\r\n    \"p_iva\": \"iva test\",\r\n    \"luogo_nascita\": \"nascita test\",\r\n    \"cap\": \"cap test\",\r\n    \"citta\": \"citta test\",\r\n    \"provincia\": \"provincia test\",\r\n    \"tipo_telefono1\": \"tel test\",\r\n    \"tipo_telefono2\": \"tel2 test\",\r\n    \"filiale\": \"filia test\",\r\n    \"minimo_dovuto\": \"mini test\",\r\n    \"rate_arretrate\": \"rate test\",\r\n    \"importo_capitale\": \"capitale test\",\r\n    \"importo_interessi\": \"interessi test\",\r\n    \"importo_spese\": \"spese test\",\r\n    \"importo_spese_recupero\": \"recupero test\",\r\n    \"importo_differenza\": \"differenza test\",\r\n    \"debitoresiduo\": \"debit test\",\r\n    \"importo_rata\": \"rata test\",\r\n    \"data_affido\": \"affido test\",\r\n    \"scadenza_mandato\": \"scadenza test\",\r\n    \"data_nascita\": \"nascita test\",\r\n    \"utente\": 1\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "http://127.0.0.1:8000/api/dossier/",
+									"protocol": "http",
+									"host": [
+										"127",
+										"0",
+										"0",
+										"1"
+									],
+									"port": "8000",
+									"path": [
+										"api",
+										"dossier",
+										""
+									]
+								}
+							},
+							"status": "Created",
+							"code": 201,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Fri, 20 Jan 2023 09:42:28 GMT"
+								},
+								{
+									"key": "Server",
+									"value": "WSGIServer/0.2 CPython/3.8.15"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Vary",
+									"value": "Accept, Origin"
+								},
+								{
+									"key": "Allow",
+									"value": "GET, POST, HEAD, OPTIONS"
+								},
+								{
+									"key": "X-Frame-Options",
+									"value": "DENY"
+								},
+								{
+									"key": "Content-Length",
+									"value": "735"
+								},
+								{
+									"key": "X-Content-Type-Options",
+									"value": "nosniff"
+								},
+								{
+									"key": "Referrer-Policy",
+									"value": "same-origin"
+								},
+								{
+									"key": "Cross-Origin-Opener-Policy",
+									"value": "same-origin"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"id\": 5,\n    \"committente_codice\": \"committente test\",\n    \"esattore_codice\": \"esattore test\",\n    \"committente_desc\": \"desc test\",\n    \"profilo_desc\": \"prof test\",\n    \"p_iva\": \"iva test\",\n    \"luogo_nascita\": \"nascita test\",\n    \"cap\": \"cap test\",\n    \"citta\": \"citta test\",\n    \"provincia\": \"provincia test\",\n    \"tipo_telefono1\": \"tel test\",\n    \"tipo_telefono2\": \"tel2 test\",\n    \"filiale\": \"filia test\",\n    \"minimo_dovuto\": \"mini test\",\n    \"rate_arretrate\": \"rate test\",\n    \"importo_capitale\": \"capitale test\",\n    \"importo_interessi\": \"interessi test\",\n    \"importo_spese\": \"spese test\",\n    \"importo_spese_recupero\": \"recupero test\",\n    \"importo_differenza\": \"differenza test\",\n    \"debitoresiduo\": \"debit test\",\n    \"importo_rata\": \"rata test\",\n    \"data_affido\": \"affido test\",\n    \"scadenza_mandato\": \"scadenza test\",\n    \"data_nascita\": \"nascita test\",\n    \"utente\": 1\n}"
+						}
+					]
+				},
+				{
+					"name": "Dossier list by UserID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/dossier/?utente=1",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"dossier",
+								""
+							],
+							"query": [
+								{
+									"key": "utente",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Dossier list by UserID",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://127.0.0.1:8000/api/dossier/?utente=1",
+									"protocol": "http",
+									"host": [
+										"127",
+										"0",
+										"0",
+										"1"
+									],
+									"port": "8000",
+									"path": [
+										"api",
+										"dossier",
+										""
+									],
+									"query": [
+										{
+											"key": "utente",
+											"value": "1"
+										}
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Fri, 20 Jan 2023 09:43:20 GMT"
+								},
+								{
+									"key": "Server",
+									"value": "WSGIServer/0.2 CPython/3.8.15"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Vary",
+									"value": "Accept, Origin"
+								},
+								{
+									"key": "Allow",
+									"value": "GET, POST, HEAD, OPTIONS"
+								},
+								{
+									"key": "X-Frame-Options",
+									"value": "DENY"
+								},
+								{
+									"key": "Content-Length",
+									"value": "2721"
+								},
+								{
+									"key": "X-Content-Type-Options",
+									"value": "nosniff"
+								},
+								{
+									"key": "Referrer-Policy",
+									"value": "same-origin"
+								},
+								{
+									"key": "Cross-Origin-Opener-Policy",
+									"value": "same-origin"
+								}
+							],
+							"cookie": [],
+							"body": "[\n    {\n        \"id\": 1,\n        \"committente_codice\": \"a\",\n        \"esattore_codice\": \"a\",\n        \"committente_desc\": \"a\",\n        \"profilo_desc\": \"a\",\n        \"p_iva\": \"a\",\n        \"luogo_nascita\": \"a\",\n        \"cap\": \"a\",\n        \"citta\": \"a\",\n        \"provincia\": \"a\",\n        \"tipo_telefono1\": \"a\",\n        \"tipo_telefono2\": \"a\",\n        \"filiale\": \"a\",\n        \"minimo_dovuto\": \"a\",\n        \"rate_arretrate\": \"a\",\n        \"importo_capitale\": \"a\",\n        \"importo_interessi\": \"a\",\n        \"importo_spese\": \"a\",\n        \"importo_spese_recupero\": \"a\",\n        \"importo_differenza\": \"a\",\n        \"debitoresiduo\": \"a\",\n        \"importo_rata\": \"a\",\n        \"data_affido\": \"a\",\n        \"scadenza_mandato\": \"a\",\n        \"data_nascita\": \"a\",\n        \"utente\": 1\n    },\n    {\n        \"id\": 2,\n        \"committente_codice\": \"a\",\n        \"esattore_codice\": \"a\",\n        \"committente_desc\": \"a\",\n        \"profilo_desc\": \"a\",\n        \"p_iva\": \"a\",\n        \"luogo_nascita\": \"a\",\n        \"cap\": \"a\",\n        \"citta\": \"a\",\n        \"provincia\": \"a\",\n        \"tipo_telefono1\": \"a\",\n        \"tipo_telefono2\": \"a\",\n        \"filiale\": \"a\",\n        \"minimo_dovuto\": \"a\",\n        \"rate_arretrate\": \"a\",\n        \"importo_capitale\": \"a\",\n        \"importo_interessi\": \"a\",\n        \"importo_spese\": \"a\",\n        \"importo_spese_recupero\": \"a\",\n        \"importo_differenza\": \"a\",\n        \"debitoresiduo\": \"a\",\n        \"importo_rata\": \"a\",\n        \"data_affido\": \"a\",\n        \"scadenza_mandato\": \"a\",\n        \"data_nascita\": \"a\",\n        \"utente\": 1\n    },\n    {\n        \"id\": 3,\n        \"committente_codice\": \"a\",\n        \"esattore_codice\": \"a\",\n        \"committente_desc\": \"a\",\n        \"profilo_desc\": \"a\",\n        \"p_iva\": \"a\",\n        \"luogo_nascita\": \"a\",\n        \"cap\": \"a\",\n        \"citta\": \"a\",\n        \"provincia\": \"a\",\n        \"tipo_telefono1\": \"a\",\n        \"tipo_telefono2\": \"a\",\n        \"filiale\": \"a\",\n        \"minimo_dovuto\": \"a\",\n        \"rate_arretrate\": \"a\",\n        \"importo_capitale\": \"a\",\n        \"importo_interessi\": \"a\",\n        \"importo_spese\": \"a\",\n        \"importo_spese_recupero\": \"a\",\n        \"importo_differenza\": \"a\",\n        \"debitoresiduo\": \"a\",\n        \"importo_rata\": \"a\",\n        \"data_affido\": \"a\",\n        \"scadenza_mandato\": \"a\",\n        \"data_nascita\": \"a\",\n        \"utente\": 1\n    },\n    {\n        \"id\": 4,\n        \"committente_codice\": \"a\",\n        \"esattore_codice\": \"a\",\n        \"committente_desc\": \"a\",\n        \"profilo_desc\": \"a\",\n        \"p_iva\": \"a\",\n        \"luogo_nascita\": \"a\",\n        \"cap\": \"a\",\n        \"citta\": \"a\",\n        \"provincia\": \"a\",\n        \"tipo_telefono1\": \"a\",\n        \"tipo_telefono2\": \"a\",\n        \"filiale\": \"a\",\n        \"minimo_dovuto\": \"a\",\n        \"rate_arretrate\": \"a\",\n        \"importo_capitale\": \"a\",\n        \"importo_interessi\": \"a\",\n        \"importo_spese\": \"a\",\n        \"importo_spese_recupero\": \"a\",\n        \"importo_differenza\": \"a\",\n        \"debitoresiduo\": \"a\",\n        \"importo_rata\": \"a\",\n        \"data_affido\": \"a\",\n        \"scadenza_mandato\": \"a\",\n        \"data_nascita\": \"a\",\n        \"utente\": 1\n    },\n    {\n        \"id\": 5,\n        \"committente_codice\": \"committente test\",\n        \"esattore_codice\": \"esattore test\",\n        \"committente_desc\": \"desc test\",\n        \"profilo_desc\": \"prof test\",\n        \"p_iva\": \"iva test\",\n        \"luogo_nascita\": \"nascita test\",\n        \"cap\": \"cap test\",\n        \"citta\": \"citta test\",\n        \"provincia\": \"provincia test\",\n        \"tipo_telefono1\": \"tel test\",\n        \"tipo_telefono2\": \"tel2 test\",\n        \"filiale\": \"filia test\",\n        \"minimo_dovuto\": \"mini test\",\n        \"rate_arretrate\": \"rate test\",\n        \"importo_capitale\": \"capitale test\",\n        \"importo_interessi\": \"interessi test\",\n        \"importo_spese\": \"spese test\",\n        \"importo_spese_recupero\": \"recupero test\",\n        \"importo_differenza\": \"differenza test\",\n        \"debitoresiduo\": \"debit test\",\n        \"importo_rata\": \"rata test\",\n        \"data_affido\": \"affido test\",\n        \"scadenza_mandato\": \"scadenza test\",\n        \"data_nascita\": \"nascita test\",\n        \"utente\": 1\n    }\n]"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"username\": \"ironblaster\",\r\n    \"email\": \"\",\r\n    \"password\": \"uffalamuffa\"\r\n}"
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8000/login/?",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"login",
+						""
+					],
+					"query": [
+						{
+							"key": "",
+							"value": ""
+						}
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Login",
+					"originalRequest": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"ironblaster\",\r\n    \"email\": \"\",\r\n    \"password\": \"uffalamuffa\"\r\n}"
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/login/?",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"login",
+								""
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Thu, 29 Dec 2022 10:24:27 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "WSGIServer/0.2 CPython/3.9.13"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						},
+						{
+							"key": "Vary",
+							"value": "Accept, Cookie, Origin"
+						},
+						{
+							"key": "Allow",
+							"value": "POST, OPTIONS"
+						},
+						{
+							"key": "X-Frame-Options",
+							"value": "DENY"
+						},
+						{
+							"key": "Content-Length",
+							"value": "607"
+						},
+						{
+							"key": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"key": "Referrer-Policy",
+							"value": "same-origin"
+						},
+						{
+							"key": "Cross-Origin-Opener-Policy",
+							"value": "same-origin"
+						},
+						{
+							"key": "Set-Cookie",
+							"value": "consulgest_auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjcyMzExMjY3LCJpYXQiOjE2NzIzMDk0NjcsImp0aSI6ImQ5MTVmZGRhYTUzYTQ3MzI4YTc2OGE2N2FlN2JhMDA0IiwidXNlcl9pZCI6MX0.Qq-ANeEZtx_1GJb2qjMS5Kel9DoC91RLIl61FtTsfqc; expires=Thu, 29 Dec 2022 10:54:28 GMT; HttpOnly; Max-Age=1801; Path=/; SameSite=Lax"
+						},
+						{
+							"key": "Set-Cookie",
+							"value": "refresh_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3MjM5NTg2NywiaWF0IjoxNjcyMzA5NDY3LCJqdGkiOiI3M2Q2NTY1ZDVlYWQ0MmQzODRhYzc0YzhmNjEyNTExOCIsInVzZXJfaWQiOjF9.jRK5GuYd93UfOnNUQxv9g00XZS_8BIsU0afPKlFmmkA; expires=Fri, 30 Dec 2022 10:24:28 GMT; HttpOnly; Max-Age=86401; Path=/; SameSite=Lax"
+						},
+						{
+							"key": "Set-Cookie",
+							"value": "csrftoken=GBriW1B3N8Xt4BIYM1pMhWhXeCJUVQv5XFzyiFEb9Ht0G7IXh4RX4fMMyXG3QN1S; expires=Thu, 28 Dec 2023 10:24:27 GMT; Max-Age=31449600; Path=/; SameSite=Lax"
+						},
+						{
+							"key": "Set-Cookie",
+							"value": "sessionid=6ght8446uomnkvo7cvatqkmpbxtkmtav; expires=Thu, 12 Jan 2023 10:24:27 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"access_token\": \"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjcyMzExMjY3LCJpYXQiOjE2NzIzMDk0NjcsImp0aSI6ImQ5MTVmZGRhYTUzYTQ3MzI4YTc2OGE2N2FlN2JhMDA0IiwidXNlcl9pZCI6MX0.Qq-ANeEZtx_1GJb2qjMS5Kel9DoC91RLIl61FtTsfqc\",\n    \"refresh_token\": \"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3MjM5NTg2NywiaWF0IjoxNjcyMzA5NDY3LCJqdGkiOiI3M2Q2NTY1ZDVlYWQ0MmQzODRhYzc0YzhmNjEyNTExOCIsInVzZXJfaWQiOjF9.jRK5GuYd93UfOnNUQxv9g00XZS_8BIsU0afPKlFmmkA\",\n    \"user\": {\n        \"pk\": 1,\n        \"username\": \"ironblaster\",\n        \"email\": \"test@test.it\",\n        \"first_name\": \"salvatore\",\n        \"last_name\": \"esposito\"\n    }\n}"
+				}
+			]
+		},
+		{
+			"name": "Logout",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/logout/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"logout",
+						""
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Logout",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8000/logout/",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"logout",
+								""
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Mon, 09 Jan 2023 08:50:19 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "WSGIServer/0.2 CPython/3.9.13"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						},
+						{
+							"key": "Vary",
+							"value": "Accept, Cookie, Origin"
+						},
+						{
+							"key": "Allow",
+							"value": "GET, POST, HEAD, OPTIONS"
+						},
+						{
+							"key": "X-Frame-Options",
+							"value": "DENY"
+						},
+						{
+							"key": "Content-Length",
+							"value": "37"
+						},
+						{
+							"key": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"key": "Referrer-Policy",
+							"value": "same-origin"
+						},
+						{
+							"key": "Cross-Origin-Opener-Policy",
+							"value": "same-origin"
+						},
+						{
+							"key": "Set-Cookie",
+							"value": "consulgest_auth=\"\"; expires=Thu, 01 Jan 1970 00:00:00 GMT; Max-Age=0; Path=/"
+						},
+						{
+							"key": "Set-Cookie",
+							"value": "refresh_token=\"\"; expires=Thu, 01 Jan 1970 00:00:00 GMT; Max-Age=0; Path=/"
+						},
+						{
+							"key": "Set-Cookie",
+							"value": "sessionid=\"\"; expires=Thu, 01 Jan 1970 00:00:00 GMT; Max-Age=0; Path=/; SameSite=Lax"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"detail\": \"Successfully logged out.\"\n}"
+				}
+			]
+		},
+		{
+			"name": "Registration",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"username\": \"testone\",\r\n    \"email\": \"testone@test.it\",\r\n    \"password1\": \"Uffalamuffa\",\r\n    \"password2\": \"Uffalamuffa\",\r\n    \"first_name\": \"name\",\r\n    \"last_name\": \"surname\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8000/api/registration/utente/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"registration",
+						"utente",
+						""
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Registration",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"testone\",\r\n    \"email\": \"testone@test.it\",\r\n    \"password1\": \"Uffalamuffa\",\r\n    \"password2\": \"Uffalamuffa\",\r\n    \"first_name\": \"name\",\r\n    \"last_name\": \"surname\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:8000/api/registration/utente/",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8000",
+							"path": [
+								"api",
+								"registration",
+								"utente",
+								""
+							]
+						}
+					},
+					"status": "Created",
+					"code": 201,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Mon, 09 Jan 2023 08:53:11 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "WSGIServer/0.2 CPython/3.9.13"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						},
+						{
+							"key": "Vary",
+							"value": "Accept, Cookie, Origin"
+						},
+						{
+							"key": "Allow",
+							"value": "POST, OPTIONS"
+						},
+						{
+							"key": "X-Frame-Options",
+							"value": "DENY"
+						},
+						{
+							"key": "Content-Length",
+							"value": "38"
+						},
+						{
+							"key": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"key": "Referrer-Policy",
+							"value": "same-origin"
+						},
+						{
+							"key": "Cross-Origin-Opener-Policy",
+							"value": "same-origin"
+						},
+						{
+							"key": "Set-Cookie",
+							"value": "messages=W1siX19qc29uX21lc3NhZ2UiLDAsMjAsIkNvbmZpcm1hdGlvbiBlLW1haWwgc2VudCB0byB0ZXN0b25lQHRlc3QuaXQuIl1d:1pEnu3:0PdzBdp5dl3o2DPM0-3x23Jn7gLJnZ6c1GXak9vfBMY; HttpOnly; Path=/; SameSite=Lax"
+						},
+						{
+							"key": "Set-Cookie",
+							"value": "sessionid=nplhk99t4jlyfrh7g5xek42kre9zdpqi; expires=Mon, 23 Jan 2023 08:53:11 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"detail\": \"Verification e-mail sent.\"\n}"
+				}
+			]
+		},
+		{
+			"name": "Default Columns",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
